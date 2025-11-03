@@ -1,128 +1,119 @@
 import marimo
 
-__generated_with = "0.17.2"
+__generated_with = "0.17.6"
 app = marimo.App(width="medium")
 
 
 @app.cell
-def _():
-    data = data[data['Availability'] == 'Mở cửa 24 giờ']
-    data.loc[len(data)] = [
-        'T5-B01.03+04, tại tầng 1 thuộc dự án Khu nhà ở chung cư cao cấp Masteri Thảo Điền, số 159 Võ Nguyên Giáp, Phường Thảo Điền, Thành phố Hồ Chí Minh', 'Số điện thoại: (028) 3620 2963', 'Mở cửa 24 giờ'
-    ]
-    return (data,)
+def _(df):
+    df.to_csv("ministop_stores_location_data.csv")
+    return
 
 
 @app.cell
 def _():
-    return
-
-
-@app.cell
-def _(stores_err_info):
-    stores_err_locations = [str(info).split("<br/>") for info in stores_err_info[:12]]
-    stores_err_locations
-
-    stores_err_info
-    return
-
-
-@app.cell
-def _(stores_info):
-    stores_info
-    return
-
-
-@app.cell
-def _(BeautifulSoup, re):
-    import pandas as pd 
-    import time 
+    import pandas as pd
+    import time
+    import re
+    import requests
+    from bs4 import BeautifulSoup
     from diskcache import Cache
 
     pages = range(15)
     cache = Cache("stores_cache")
-
     stores_info = []
     stores_err_info = []
+    phone_pattern = re.compile(r'(\(0\d{2,3}\)|0\d{2,3})')  # match (028), (029), 090, 091, etc.
+
     for page in pages:
         base_url = f'https://www.ministop.vn/vi/ms?page={page}'
-        _res = re.get(base_url)
-
+        print(f"Fetching page {page}...")
         try:
-            _res = re.get(base_url, timeout=10)
+            _res = requests.get(base_url, timeout=10)
             _res.raise_for_status()
-        except re.RequestException as e:
-            print(f"Failed to fetch page {page}: {e}")
+        except requests.RequestException as e:
+            print(f"⚠️ Failed to fetch page {page}: {e}")
             continue
-
+    
         _soup = BeautifulSoup(_res.text, "html.parser")
+        last_location = None
+    
         for store in _soup.select("#block-fluffiness-content p"):
-            spans = store.select('span')
-            if store in cache:
-                continue 
-
-            if len(spans) == 3:
-                store_info = {
-                    "Location": spans[0].get_text(strip=True),
-                    "Phone": spans[1].get_text(strip=True),
-                    "Availability": spans[2].get_text(strip=True)
-                }
-            elif len(spans) == 4: 
-                store_info = {
-                    "Location": spans[0].get_text(strip=True) + " " + spans[1].get_text(strip=True),
-                    "Phone": spans[2].get_text(strip=True),
-                    "Availability": spans[3].get_text(strip=True)
-                }
-            else:
-                print("len of span is ", len(spans))
-                print(store, spans)
-            
-            stores_info.append(store_info)
-            cache[store] = store_info
-
-            # print("Store info", stores_info)
-            # break
+            # Convert store element to string for cache key
+            store_key = str(store)
+            if store_key in cache:
+                continue
         
-            # stores_info.append(store_info)
-        time.sleep(1)
-    return stores_err_info, stores_info
+            spans = [s.get_text(strip=True) for s in store.select("span")]
+            raw_text = store.get_text(separator=" ", strip=True)
+            location, phone = None, None
+        
+            try:
+                # ✅ Case 1: multi-span with long location + phone + avail
+                if len(spans) >= 3:
+                    possible_phone = spans[-2]
+                    if phone_pattern.search(possible_phone):
+                        phone = possible_phone
+                        location = " ".join(spans[:-2])
+                    else:
+                        phone = spans[-1] if phone_pattern.search(spans[-1]) else ""
+                        location = " ".join(spans[:-1])
+                    last_location = location
+            
+                # ✅ Case 2: text + <span>phone</span><span>avail</span>
+                elif len(spans) == 2:
+                    if phone_pattern.search(spans[0]) or phone_pattern.search(spans[1]):
+                        # extract phone
+                        phone = spans[0] if phone_pattern.search(spans[0]) else spans[1]
+                        # location is text before phone
+                        match = phone_pattern.search(raw_text)
+                        location = raw_text[:match.start()].strip() if match else ""
+                    else:
+                        location = raw_text
+                    last_location = location
+            
+                # ✅ Case 3: <p><span>location</span></p><p><span>phone</span></p>
+                elif len(spans) == 1:
+                    text = spans[0]
+                    if phone_pattern.search(text):
+                        # this is the phone line
+                        phone = text
+                        location = last_location
+                    else:
+                        # this is a location line
+                        location = text
+                        last_location = location
+            
+                # ✅ Fallback — handle text mixed with <br> or unwrapped spans
+                else:
+                    match = phone_pattern.search(raw_text)
+                    if match:
+                        phone = match.group()
+                        location = raw_text[:match.start()].strip()
+                    else:
+                        location = raw_text
+                        last_location = location
+            
+                # ✅ store only if phone and location found
+                if location and phone:
+                    store_info = {
+                        "Location": location,
+                        "Phone": phone
+                    }
+                    stores_info.append(store_info)
+                    cache[store_key] = store_info
+                
+            except Exception as e:
+                print(f"⚠️ Error parsing store: {e}")
+                stores_err_info.append((raw_text, str(e)))
+    
+        time.sleep(1)  # polite delay
 
-
-@app.cell
-def _(soup):
-    soup.select(".pager__item--number")
-    return
-
-
-@app.cell
-def _(soup):
-    soup.select("#block-fluffiness-content p")[0].select('span')
-    return
-
-
-@app.cell
-def _(BeautifulSoup, response):
-    soup = BeautifulSoup(response.text, 'html.parser')
-    return (soup,)
-
-
-@app.cell
-def _(re, url):
-    response = re.get(url)
-    return (response,)
-
-
-@app.cell
-def _():
-    url = 'https://www.ministop.vn/vi/ms'
-    return (url,)
-
-
-@app.cell
-def _():
-    import requests as re 
-    from bs4 import BeautifulSoup
-    return BeautifulSoup, re
+    df = pd.DataFrame(stores_info)
+    print(df.head(10))
+    print(f"✅ Total stores parsed: {len(df)}")
+    print(f"⚠️ Errors: {len(stores_err_info)}")
+    return (df,)
 
 
 if __name__ == "__main__":
