@@ -43,10 +43,12 @@ def _(parse_latlon_from_maps_url):
 
 @app.cell
 def _(plot_data):
-    from draw_point_map import draw_point_map
+    from draw_point_map import draw_point_map, export_to_svg
 
-    fig = draw_point_map(plot_data, lat_col='lat', lon_col='lon')
+    fig = draw_point_map(plot_data, lat_col='lat', lon_col='lon', point_color='#fff22e', point_size=5, outline_color='#3461a4', outline_width=6)
     fig.show()
+
+    export_to_svg(fig=fig)
     return
 
 
