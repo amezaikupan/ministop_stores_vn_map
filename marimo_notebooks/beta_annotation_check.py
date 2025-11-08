@@ -4,19 +4,8 @@ __generated_with = "0.17.6"
 app = marimo.App(width="medium")
 
 
-app._unparsable_cell(
-    r"""
-    import numpy as np
-
-    annot_check = pd.DataFrame(to_csv(\"data/1 interim/rechec_annotation.csv\")
-    annot_check
-    """,
-    name="_"
-)
-
-
 @app.cell
-def _(annot_done, plot_data):
+def _(annot_done, pd, plot_data):
     from selenium import webdriver
     from selenium.webdriver.chrome.options import Options
     import time, io, base64, pathlib
@@ -84,22 +73,33 @@ def _(annot_done, plot_data):
             set_example(next(annot_stream))
         except StopIteration:
             set_example({
-                "Location": "", 
-                "Name": "", 
+                "location": "", 
+                "address": "", 
                 "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Cat_August_2010-4.jpg/1280px-Cat_August_2010-4.jpg"
             })
             set_title("## Annotation complete!")
             set_state(True)
 
-    return display_map, get_example, get_state, get_title, mo, update
+    def export_results():
+        pd.DataFrame(list(get_annot())).to_csv("data/1 interim/address_anotation_check.csv", index=False)
+    return (
+        display_map,
+        export_results,
+        get_example,
+        get_state,
+        get_title,
+        mo,
+        update,
+    )
 
 
 @app.cell
-def _(get_state, mo, update):
+def _(export_results, get_state, mo, update):
     text_box = mo.ui.text(label="Enter corrected url", value="")
     wrong_btn = mo.ui.button(label="Wrong URL!", keyboard_shortcut="Alt-j", on_change=lambda d: update(False), disabled=get_state())
     right_btn = mo.ui.button(label="Right URL!", keyboard_shortcut="Alt-k", on_change=lambda d: update(True), disabled=get_state())
-    return right_btn, wrong_btn
+    submit_btn = mo.ui.button(label="Export results!", on_change=export_results())
+    return right_btn, submit_btn, wrong_btn
 
 
 @app.cell
@@ -110,6 +110,7 @@ def _(
     get_title,
     mo,
     right_btn,
+    submit_btn,
     wrong_btn,
 ):
     def anno_box():
@@ -119,13 +120,16 @@ def _(
                 right_btn
             ], align='start')
         else:
-            return mo.md("### Sit down, relax and prepare to go get the real data :')")
+            return mo.vstack([
+                mo.md("### Sit down, relax and prepare to go get the real data :')"), 
+                submit_btn            
+            ])
 
     mo.vstack([
             mo.md(get_title()),
             mo.vstack([
-                get_example()["Location"],
-                mo.md(f"[{get_example()["Name"]}]({get_example()["url"]})"), 
+                get_example()["name"],
+                mo.md(f"[{get_example()["address"]}]({get_example()["url"]})"), 
                 display_map(get_example()["url"])   # 👈 embedded screenshot here
 
             ]),
@@ -138,8 +142,10 @@ def _(
 @app.cell
 def _():
     import pandas as pd 
-    plot_data = pd.read_csv("data/0 raw/ministop_stores_full_points.csv")
-    return (plot_data,)
+    plot_data = pd.read_csv("data/1 interim/04_ministop_stores_review.csv", index_col=False)
+
+    plot_data
+    return pd, plot_data
 
 
 if __name__ == "__main__":
