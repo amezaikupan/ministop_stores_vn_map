@@ -73,12 +73,15 @@ def _(annot_done, pd, plot_data):
             set_example(next(annot_stream))
         except StopIteration:
             set_example({
-                "location": "", 
+                "name": "", 
                 "address": "", 
                 "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Cat_August_2010-4.jpg/1280px-Cat_August_2010-4.jpg"
             })
             set_title("## Annotation complete!")
             set_state(True)
+
+            plot_data['annotated_url'] = list(get_annot())
+            plot_data.to_csv("data/1 interim/04_ministop_stores_review_annotated.csv")
 
     def export_results():
         pd.DataFrame(list(get_annot())).to_csv("data/1 interim/address_anotation_check.csv", index=False)
@@ -99,26 +102,23 @@ def _(export_results, get_state, mo, update):
     wrong_btn = mo.ui.button(label="Wrong URL!", keyboard_shortcut="Alt-j", on_change=lambda d: update(False), disabled=get_state())
     right_btn = mo.ui.button(label="Right URL!", keyboard_shortcut="Alt-k", on_change=lambda d: update(True), disabled=get_state())
     submit_btn = mo.ui.button(label="Export results!", on_change=export_results())
-    return right_btn, submit_btn, wrong_btn
+
+    def on_submit(value):
+        # Do something with the submitted value
+        print(f"Submitted value: {value}")
+
+    form = mo.ui.text_area().form(
+        clear_on_submit=True,
+        on_change=update
+    )
+    return form, submit_btn
 
 
 @app.cell
-def _(
-    display_map,
-    get_example,
-    get_state,
-    get_title,
-    mo,
-    right_btn,
-    submit_btn,
-    wrong_btn,
-):
+def _(display_map, form, get_example, get_state, get_title, mo, submit_btn):
     def anno_box():
         if get_state() == False:
-            return mo.hstack([
-                wrong_btn,
-                right_btn
-            ], align='start')
+            return form
         else:
             return mo.vstack([
                 mo.md("### Sit down, relax and prepare to go get the real data :')"), 
@@ -142,7 +142,7 @@ def _(
 @app.cell
 def _():
     import pandas as pd 
-    plot_data = pd.read_csv("data/1 interim/04_ministop_stores_review.csv", index_col=False)
+    plot_data = pd.read_csv("data/1 interim/03_ministop_stores_review.csv", index_col=False)
 
     plot_data
     return pd, plot_data

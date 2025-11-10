@@ -33,8 +33,8 @@ def _(address_embeddings, data, extracted_address_embeddings, util):
     print(address_embeddings.shape, extracted_address_embeddings.shape)
     print(util.cos_sim(address_embeddings, extracted_address_embeddings).diag())
     data['addr_cos_sim'] = util.cos_sim(address_embeddings, extracted_address_embeddings).diag()
-    data[data['addr_cos_sim'] < 0.85].to_csv("data/1 interim/04_ministop_stores_review.csv", index=False)
-    data[data['addr_cos_sim'] >= 0.85].to_csv("data/1 interim/04_ministop_stores_clean.csv", index=False)
+    data[data['addr_cos_sim'] < 0.85].to_csv("data/1 interim/03_ministop_stores_review.csv", index=False)
+    data[data['addr_cos_sim'] >= 0.85].to_csv("data/1 interim/03_ministop_stores_clean.csv", index=False)
     return
 
 

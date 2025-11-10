@@ -5,6 +5,16 @@ app = marimo.App(width="medium")
 
 
 @app.cell
+def _(mo):
+    mo.md(r"""
+    # Notebook 6: Point map visualization
+
+    The code for the visualization is recycled from my choropleth map code, render on `Open street map` of Saigon.
+    """)
+    return
+
+
+@app.cell
 def _():
     import re
     def parse_latlon_from_maps_url(url):
@@ -44,18 +54,41 @@ def _():
 @app.cell
 def _():
     import sys
-    sys.path.append("draw_maps/")
+    sys.path.append("modules/draw_maps/")
 
     from draw_point_map import draw_point_map, export_to_svg
     import pandas as pd 
 
-    plot_data = pd.read_csv('data/1 interim/04_ministop_stores_clean.csv')
+    plot_data_01 = pd.read_csv('data/1 interim/03_ministop_stores_clean.csv', index_col=False)
+    name_plot_data_02 = pd.read_csv('data/1 interim/04_ministop_stores_review_annotated.csv', index_col=False)
+    plot_data_02 = pd.read_csv('data/1 interim/05_ministop_stores_review_annotated_lat_lon.csv', index_col=False)
+
+    plot_data_02['name'] = name_plot_data_02['name']
+    plot_data_02['address'] = name_plot_data_02['address']
+
+    plot_data_01 = plot_data_01[['name', 'address', 'latitude', 'longitude', 'cleaned_url']].rename(columns={
+        'cleaned_url': 'url'
+    })
+    plot_data_02 = plot_data_02[['name', 'address', 'latitude', 'longitude', 'final_url']].rename(columns={'final_url': 'url'})
+
+    plot_data = pd.concat([plot_data_01, plot_data_02], axis=0)
+
+    plot_data.to_csv('data/2 processed/ministop_stores_location_geocoded.csv', index=False)
+
     fig = draw_point_map(plot_data, lat_col='latitude', lon_col='longitude', point_color='#FFBF00', point_size=4, 
                          outline_color='#3461a4', outline_width=6)
     fig.show()
 
-    # export_to_svg(fig=fig)
+    width = 2400
+    height = 1200 
+    export_to_svg(fig=fig, output_path=f'outputs/maps/{width}x{height}_map.svg', width=width, height=height)
     return
+
+
+@app.cell
+def _():
+    import marimo as mo
+    return (mo,)
 
 
 if __name__ == "__main__":

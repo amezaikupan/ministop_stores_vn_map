@@ -244,3 +244,2211 @@
 2025-11-10 09:04:00 | INFO |   → Address found: 191 Đ. Nguyễn Hồng Đào, Phường Tân Bình, Tân Bình, Thành phố Hồ Chí Minh, Vietnam
 2025-11-10 09:04:08 | INFO |   → Address found: 77 Trần Thiện Chánh, Phường 12, Quận 10, Thành phố Hồ Chí Minh, Vietnam
 2025-11-10 09:04:18 | INFO |   → Address found: 25A Đ. Lam Sơn, Phường 2, Tân Bình, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 10:21:13 | INFO | 
+[1/178] Geocoding: Ministop -  Trương Vĩnh Ký
+2025-11-10 10:21:16 | INFO |   → Waiting for search results to load...
+2025-11-10 10:22:18 | INFO | 
+[1/178] Geocoding: Ministop -  Trương Vĩnh Ký
+2025-11-10 10:22:20 | INFO |   → Waiting for search results to load...
+2025-11-10 10:22:23 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/place/MINISTOP+Tr%C6%B0%C6%A1ng+V%C4%A9nh+K%C3%BD/@10.7943632,106.6282749,17z/data=!3m1!4b1!4m6!3m5!1s0x317529000c47913d:0xcea0eca8bf9ddacd!8m2!3d10.7943579!4d106.6308498!16s%2Fg%2F11y0dy1gr9?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:22:23 | INFO |   → URL type: place
+2025-11-10 10:22:23 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:22:23 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:22:24 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:22:27 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:22:27 | INFO |  -> Lat: 10.7943579, Lon: 106.6308498
+2025-11-10 10:22:29 | INFO | 
+[2/178] Geocoding: Ministop -  Nguyễn Trãi 2
+2025-11-10 10:22:30 | INFO |   → Waiting for search results to load...
+2025-11-10 10:22:33 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/search/Ministop+-++Nguy%E1%BB%85n+Tr%C3%A3i+2/@10.7550568,106.6486337,14z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:22:33 | INFO |   → URL type: search
+2025-11-10 10:22:33 | INFO |   → Search results page detected, clicking first result...
+2025-11-10 10:22:33 | INFO |   → Waiting for place page to load after click...
+2025-11-10 10:22:35 | INFO |   → URL after click (full):
+     https://www.google.com/maps/place/MINISTOP/@10.7527876,106.6192894,14z/data=!4m10!1m2!2m1!1sMinistop+-++Nguy%E1%BB%85n+Tr%C3%A3i+2!3m6!1s0x31752faee0d81739:0x2c8c6fd591cf5121!8m2!3d10.7527876!4d106.6553383!15sChxNaW5pc3RvcCAtICBOZ3V54buFbiBUcsOjaSAyIgOIAQFaGyIZbWluaXN0b3Agbmd1eeG7hW4gdHLDo2kgMpIBEWNvbnZlbmllbmNlX3N0b3Jl4AEA!16s%2Fg%2F11fnw0sqgz?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:22:35 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:22:35 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:22:36 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:22:39 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:22:39 | INFO |  -> Lat: 10.7527876, Lon: 106.6553383
+2025-11-10 10:22:41 | INFO | 
+[3/178] Geocoding: Ministop -  Lê Văn Sỹ 2
+2025-11-10 10:22:42 | INFO |   → Waiting for search results to load...
+2025-11-10 10:22:45 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/place/MINISTOP+-+S269+-+L%C3%AA+V%C4%83n+S%E1%BB%B9+2/@10.7887457,106.6734228,17z/data=!3m1!4b1!4m6!3m5!1s0x31752f0011390e65:0x92279e08846e38fe!8m2!3d10.7887404!4d106.6759977!16s%2Fg%2F11yhs09b58?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:22:45 | INFO |   → URL type: place
+2025-11-10 10:22:45 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:22:45 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:22:46 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:22:49 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:22:49 | INFO |  -> Lat: 10.7887404, Lon: 106.6759977
+2025-11-10 10:22:50 | INFO | 
+[4/178] Geocoding: Ministop -  Scenic Valley 2
+2025-11-10 10:22:51 | INFO |   → Waiting for search results to load...
+2025-11-10 10:22:54 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/place/MINISTOP+S268+-+SCENIC+VALLEY+2/@10.7313421,106.714723,17z/data=!3m1!4b1!4m6!3m5!1s0x31752f0051cd8381:0x85abd69c5c6fa519!8m2!3d10.7313368!4d106.7172979!16s%2Fg%2F11xz0js1mz?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:22:54 | INFO |   → URL type: place
+2025-11-10 10:22:54 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:22:54 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:22:55 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:22:58 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:22:58 | INFO |  -> Lat: 10.7313368, Lon: 106.7172979
+2025-11-10 10:23:01 | INFO | 
+[5/178] Geocoding: Ministop -  Nơ Trang Long
+2025-11-10 10:23:01 | INFO |   → Waiting for search results to load...
+2025-11-10 10:23:05 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/place/S267+Ministop/@10.8047421,106.6925644,17z/data=!3m1!4b1!4m6!3m5!1s0x317529004adb0c1f:0xa9619d04899e2cb0!8m2!3d10.8047368!4d106.6951393!16s%2Fg%2F11zhzcwjt6?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:23:05 | INFO |   → URL type: place
+2025-11-10 10:23:05 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:23:05 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:23:05 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:23:08 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:23:08 | INFO |  -> Lat: 10.8047368, Lon: 106.6951393
+2025-11-10 10:23:10 | INFO | 
+[6/178] Geocoding: Ministop -  Trần Quốc Hoàn
+2025-11-10 10:23:11 | INFO |   → Waiting for search results to load...
+2025-11-10 10:23:14 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/place/MINISTOP+-+TR%E1%BA%A6N+QU%E1%BB%90C+HO%C3%80N/@10.8058881,106.6616727,17z/data=!3m1!4b1!4m6!3m5!1s0x317529002bc94a43:0x69381db8ded344c4!8m2!3d10.8058828!4d106.6642476!16s%2Fg%2F11xncrd93n?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:23:14 | INFO |   → URL type: place
+2025-11-10 10:23:14 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:23:14 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:23:14 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:23:17 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:23:17 | INFO |  -> Lat: 10.8058828, Lon: 106.6642476
+2025-11-10 10:23:19 | INFO | 
+[7/178] Geocoding: Ministop -  Võ Oanh
+2025-11-10 10:23:21 | INFO |   → Waiting for search results to load...
+2025-11-10 10:23:24 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/place/Ministop+Vo+Oanh/@10.8043926,106.7134517,17z/data=!3m1!4b1!4m6!3m5!1s0x317529acfbdb1863:0xa9a8653f253d6af6!8m2!3d10.8043873!4d106.7160266!16s%2Fg%2F11t7dw7kc9?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:23:24 | INFO |   → URL type: place
+2025-11-10 10:23:24 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:23:24 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:23:24 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:23:27 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:23:27 | INFO |  -> Lat: 10.8043873, Lon: 106.7160266
+2025-11-10 10:23:30 | INFO | 
+[8/178] Geocoding: Ministop -  Tô Vĩnh Diện
+2025-11-10 10:23:31 | INFO |   → Waiting for search results to load...
+2025-11-10 10:23:34 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/place/MINISTOP+S264+-+T%C3%94+V%C4%A8NH+DI%E1%BB%86N/@10.8523976,106.7641949,17z/data=!3m1!4b1!4m6!3m5!1s0x3175270067c951e1:0x7c0e13de2d04a91!8m2!3d10.8523923!4d106.7667698!16s%2Fg%2F11xlpl0qd_?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:23:34 | INFO |   → URL type: place
+2025-11-10 10:23:34 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:23:34 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:23:34 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:23:37 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:23:37 | INFO |  -> Lat: 10.8523923, Lon: 106.7667698
+2025-11-10 10:23:40 | INFO | 
+[9/178] Geocoding: Ministop -  Hoàng Việt 3
+2025-11-10 10:23:41 | INFO |   → Waiting for search results to load...
+2025-11-10 10:23:44 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/search/Ministop+-++Ho%C3%A0ng+Vi%E1%BB%87t+3/@10.7942072,106.6560323,17z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:23:44 | INFO |   → URL type: search
+2025-11-10 10:23:44 | INFO |   → Search results page detected, clicking first result...
+2025-11-10 10:23:44 | INFO |   → Waiting for place page to load after click...
+2025-11-10 10:23:46 | INFO |   → URL after click (full):
+     https://www.google.com/maps/place/Ministop+-+S263+-+Ho%C3%A0ng+Vi%E1%BB%87t/@10.7942072,106.6560323,17z/data=!4m10!1m2!2m1!1zTWluaXN0b3AgLSAgSG_DoG5nIFZp4buHdCAz!3m6!1s0x317529007611b5d1:0x528700dbb7bb77e7!8m2!3d10.7953043!4d106.6590358!15sChtNaW5pc3RvcCAtICBIb8OgbmcgVmnhu4d0IDMiA4gBAZIBDG91dGxldF9zdG9yZeABAA!16s%2Fg%2F11y7jz_j_q?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:23:46 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:23:46 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:23:47 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:23:50 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:23:50 | INFO |  -> Lat: 10.7953043, Lon: 106.6590358
+2025-11-10 10:23:51 | INFO | 
+[10/178] Geocoding: Ministop -  Đường số 20
+2025-11-10 10:23:52 | INFO |   → Waiting for search results to load...
+2025-11-10 10:23:55 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/search/Ministop+-++%C4%90%C6%B0%E1%BB%9Dng+s%E1%BB%91+20/@10.835871,106.6509155,13z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:23:55 | INFO |   → URL type: search
+2025-11-10 10:23:55 | INFO |   → Search results page detected, clicking first result...
+2025-11-10 10:23:55 | INFO |   → Waiting for place page to load after click...
+2025-11-10 10:23:57 | INFO |   → URL after click (full):
+     https://www.google.com/maps/place/CHTL+-+MINISTOP+-+261+-+%C4%90%C6%B0%E1%BB%9Dng+s%E1%BB%91+20/@10.835871,106.6509155,13z/data=!4m10!1m2!2m1!1zTWluaXN0b3AgLSAgxJDGsOG7nW5nIHPhu5EgMjA!3m6!1s0x317529004175dbe3:0xe58865645e8ed5a0!8m2!3d10.8277355!4d106.7228442!15sCh1NaW5pc3RvcCAtICDEkMaw4budbmcgc-G7kSAyMCIDiAEBkgEMb3V0bGV0X3N0b3Jl4AEA!16s%2Fg%2F11wc4j87ry?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:23:57 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:23:57 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:23:58 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:24:01 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:24:01 | INFO |  -> Lat: 10.8277355, Lon: 106.7228442
+2025-11-10 10:24:02 | INFO | 
+[11/178] Geocoding: Ministop -  Đường số 1
+2025-11-10 10:24:03 | INFO |   → Waiting for search results to load...
+2025-11-10 10:24:06 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/place/Ministop+%C4%91%C6%B0%E1%BB%9Dng+s%E1%BB%91+1/@10.8458189,106.6588116,17z/data=!3m1!4b1!4m6!3m5!1s0x3175290025ddc723:0x838d0d38b6e3fb57!8m2!3d10.8458136!4d106.6613865!16s%2Fg%2F11wq97szbh?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:24:06 | INFO |   → URL type: place
+2025-11-10 10:24:06 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:24:06 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:24:07 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:24:10 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:24:10 | INFO |  -> Lat: 10.8458136, Lon: 106.6613865
+2025-11-10 10:24:11 | INFO | 
+[12/178] Geocoding: Ministop -  Lý Chính Thắng
+2025-11-10 10:24:12 | INFO |   → Waiting for search results to load...
+2025-11-10 10:24:15 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/place/CHTL+Ministop+-+S260+-+L%C3%BD+Ch%C3%ADnh+Th%E1%BA%AFng/@10.7789532,106.6792375,17z/data=!3m1!4b1!4m6!3m5!1s0x31752f006ffb8135:0xcd8bf4d969c7c31f!8m2!3d10.7789479!4d106.6818124!16s%2Fg%2F11w4cb_56h?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:24:15 | INFO |   → URL type: place
+2025-11-10 10:24:15 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:24:15 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:24:16 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:24:19 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:24:19 | INFO |  -> Lat: 10.7789479, Lon: 106.6818124
+2025-11-10 10:24:21 | INFO | 
+[13/178] Geocoding: Ministop -  Cư xá Phú Lâm
+2025-11-10 10:24:22 | INFO |   → Waiting for search results to load...
+2025-11-10 10:24:25 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/place/CHTL+-+MINISTOP+-+259+-+C%C6%B0+x%C3%A1+Ph%C3%BA+L%C3%A2m+D/@10.7377262,106.6272347,17z/data=!3m1!4b1!4m6!3m5!1s0x31752f0067a8de63:0x712161c761860643!8m2!3d10.7377209!4d106.6298096!16s%2Fg%2F11wc9lm7rc?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:24:25 | INFO |   → URL type: place
+2025-11-10 10:24:25 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:24:25 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:24:25 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:24:28 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:24:28 | INFO |  -> Lat: 10.7377209, Lon: 106.6298096
+2025-11-10 10:24:30 | INFO | 
+[14/178] Geocoding: Ministop -  Lê Minh Xuân
+2025-11-10 10:24:31 | INFO |   → Waiting for search results to load...
+2025-11-10 10:24:34 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/place/MINISTOP+-+L%C3%AA+Minh+Xu%C3%A2n/@10.7870904,106.6514923,17z/data=!3m1!4b1!4m6!3m5!1s0x31752f0078501f95:0x83a3d5ad6fab7638!8m2!3d10.7870851!4d106.6540672!16s%2Fg%2F11w3vbqzf9?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:24:34 | INFO |   → URL type: place
+2025-11-10 10:24:34 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:24:34 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:24:34 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:24:37 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:24:37 | INFO |  -> Lat: 10.7870851, Lon: 106.6540672
+2025-11-10 10:24:40 | INFO | 
+[15/178] Geocoding: Ministop -  Đường số 29
+2025-11-10 10:24:41 | INFO |   → Waiting for search results to load...
+2025-11-10 10:24:44 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/place/CHTL+-+MINISTOP+-+S257+-+%C4%90%C6%B0%E1%BB%9Dng+s%E1%BB%91+29/@10.7568198,106.6091531,17z/data=!3m1!4b1!4m6!3m5!1s0x31752d0009d9f3f5:0x7d10875e351a63b3!8m2!3d10.7568145!4d106.611728!16s%2Fg%2F11y6b46zks?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:24:44 | INFO |   → URL type: place
+2025-11-10 10:24:44 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:24:44 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:24:44 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:24:48 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:24:48 | INFO |  -> Lat: 10.7568145, Lon: 106.611728
+2025-11-10 10:24:50 | INFO | 
+[16/178] Geocoding: Ministop -  Tân Sơn Nhì 3
+2025-11-10 10:24:51 | INFO |   → Waiting for search results to load...
+2025-11-10 10:24:54 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/search/Ministop+-++T%C3%A2n+S%C6%A1n+Nh%C3%AC+3/@10.7906578,106.6075864,13z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:24:54 | INFO |   → URL type: search
+2025-11-10 10:24:54 | INFO |   → Search results page detected, clicking first result...
+2025-11-10 10:24:54 | INFO |   → Waiting for place page to load after click...
+2025-11-10 10:24:56 | INFO |   → URL after click (full):
+     https://www.google.com/maps/place/MINISTOP+-+T%C3%82N+K%E1%BB%B2+T%C3%82N+QU%C3%9D/@10.8021666,106.5544827,13z/data=!4m10!1m2!2m1!1zTWluaXN0b3AgLSAgVMOibiBTxqFuIE5ow6wgMw!3m6!1s0x31752b4ff1f46ee3:0x5e8717e2631358fa!8m2!3d10.8021666!4d106.6265805!15sChxNaW5pc3RvcCAtICBUw6JuIFPGoW4gTmjDrCAzIgOIAQFaGyIZbWluaXN0b3AgdMOibiBzxqFuIG5ow6wgM5IBEWNvbnZlbmllbmNlX3N0b3Jl4AEA!16s%2Fg%2F11pf681q26?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:24:56 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:24:56 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:24:56 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:24:59 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:24:59 | INFO |  -> Lat: 10.8021666, Lon: 106.6265805
+2025-11-10 10:25:02 | INFO | 
+[17/178] Geocoding: Ministop -  Tân Kỳ Tân Quý 3
+2025-11-10 10:25:03 | INFO |   → Waiting for search results to load...
+2025-11-10 10:25:06 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/search/Ministop+-++T%C3%A2n+K%E1%BB%B3+T%C3%A2n+Qu%C3%BD+3/@10.7974518,106.6134251,15z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:25:06 | INFO |   → URL type: search
+2025-11-10 10:25:06 | INFO |   → Search results page detected, clicking first result...
+2025-11-10 10:25:06 | INFO |   → Waiting for place page to load after click...
+2025-11-10 10:25:08 | INFO |   → URL after click (full):
+     https://www.google.com/maps/place/MINISTOP+-+T%C3%82N+K%E1%BB%B2+T%C3%82N+QU%C3%9D/@10.7974518,106.6134251,15z/data=!4m10!1m2!2m1!1zTWluaXN0b3AgLSAgVMOibiBL4buzIFTDom4gUXXDvSAz!3m6!1s0x31752b4ff1f46ee3:0x5e8717e2631358fa!8m2!3d10.8021666!4d106.6265805!15sCiFNaW5pc3RvcCAtICBUw6JuIEvhu7MgVMOibiBRdcO9IDMiA4gBAVogIh5taW5pc3RvcCB0w6JuIGvhu7MgdMOibiBxdcO9IDOSARFjb252ZW5pZW5jZV9zdG9yZeABAA!16s%2Fg%2F11pf681q26?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:25:08 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:25:08 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:25:08 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:25:11 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:25:11 | INFO |  -> Lat: 10.8021666, Lon: 106.6265805
+2025-11-10 10:25:13 | INFO | 
+[18/178] Geocoding: Ministop -  Alnata Plus – Celadon City
+2025-11-10 10:25:13 | INFO |   → Waiting for search results to load...
+2025-11-10 10:25:16 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/place/CHTL+-+MINISTOP+-+S254+-+Celadon+City/@10.8039246,106.6141659,17z/data=!3m1!4b1!4m6!3m5!1s0x31752b005445caf1:0xb75d59c613fde84!8m2!3d10.8039193!4d106.6167408!16s%2Fg%2F11w3lspy4c?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:25:16 | INFO |   → URL type: place
+2025-11-10 10:25:16 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:25:16 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:25:17 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:25:20 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:25:20 | INFO |  -> Lat: 10.8039193, Lon: 106.6167408
+2025-11-10 10:25:23 | INFO | 
+[19/178] Geocoding: Ministop -  Đường 154
+2025-11-10 10:25:23 | INFO |   → Waiting for search results to load...
+2025-11-10 10:25:26 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/place/Ministop+Topaz+Home+2/@10.8648534,106.8082382,17z/data=!3m1!4b1!4m6!3m5!1s0x3175270004299aa7:0x6027059844f6f3b1!8m2!3d10.8648481!4d106.8108131!16s%2Fg%2F11w3bv9qcq?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:25:26 | INFO |   → URL type: place
+2025-11-10 10:25:26 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:25:26 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:25:27 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:25:30 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:25:30 | INFO |  -> Lat: 10.8648481, Lon: 106.8108131
+2025-11-10 10:25:31 | INFO | 
+[20/178] Geocoding: Ministop -  Tô Hiến Thành
+2025-11-10 10:25:32 | INFO |   → Waiting for search results to load...
+2025-11-10 10:25:35 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/place/Ministop/@10.7805338,106.6665568,17z/data=!3m1!4b1!4m6!3m5!1s0x31752f0058cc8acd:0xe2388717e1b34937!8m2!3d10.7805285!4d106.6691317!16s%2Fg%2F11vzgg48fb?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:25:35 | INFO |   → URL type: place
+2025-11-10 10:25:35 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:25:35 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:25:35 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:25:38 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:25:39 | INFO |  -> Lat: 10.7805285, Lon: 106.6691317
+2025-11-10 10:25:40 | INFO | 
+[21/178] Geocoding: Ministop -  Westgate
+2025-11-10 10:25:41 | INFO |   → Waiting for search results to load...
+2025-11-10 10:25:44 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/search/Ministop+-++Westgate/@10.6873755,106.5745475,16z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:25:44 | INFO |   → URL type: search
+2025-11-10 10:25:44 | INFO |   → Search results page detected, clicking first result...
+2025-11-10 10:25:44 | INFO |   → Waiting for place page to load after click...
+2025-11-10 10:25:46 | INFO |   → URL after click (full):
+     https://www.google.com/maps/place/Ministop+-+Westgate/@10.6873755,106.5745475,16z/data=!4m10!1m2!2m1!1sMinistop+-++Westgate!3m6!1s0x317533000fa7efe7:0x6c66ad9c7427587c!8m2!3d10.6902398!4d106.5862555!15sChRNaW5pc3RvcCAtICBXZXN0Z2F0ZSIDiAEBWhMiEW1pbmlzdG9wIHdlc3RnYXRlkgERY29udmVuaWVuY2Vfc3RvcmXgAQA!16s%2Fg%2F11y43xgh7w?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:25:46 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:25:46 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:25:46 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:25:49 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:25:49 | INFO |  -> Lat: 10.6902398, Lon: 106.5862555
+2025-11-10 10:25:51 | INFO | 
+[22/178] Geocoding: Ministop -  Chương Dương 2
+2025-11-10 10:25:52 | INFO |   → Waiting for search results to load...
+2025-11-10 10:25:55 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/search/Ministop+-++Ch%C6%B0%C6%A1ng+D%C6%B0%C6%A1ng+2/@10.8590195,106.7647967,14z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:25:55 | INFO |   → URL type: search
+2025-11-10 10:25:55 | INFO |   → Search results page detected, clicking first result...
+2025-11-10 10:25:55 | INFO |   → Waiting for place page to load after click...
+2025-11-10 10:25:57 | INFO |   → URL after click (full):
+     https://www.google.com/maps/place/CHTL+-+MINISTOP+-+S249+-+Ch%C6%B0%C6%A1ng+D%C6%B0%C6%A1ng/@10.8518964,106.7240338,14z/data=!4m10!1m2!2m1!1zTWluaXN0b3AgLSAgQ2jGsMahbmcgRMawxqFuZyAy!3m6!1s0x317527003eb8b265:0xb66c1c8a40cc9da4!8m2!3d10.8518964!4d106.7600827!15sCh5NaW5pc3RvcCAtICBDaMawxqFuZyBExrDGoW5nIDIiA4gBAZIBDG91dGxldF9zdG9yZeABAA!16s%2Fg%2F11w91xtj68?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:25:57 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:25:57 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:25:57 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:26:00 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:26:00 | INFO |  -> Lat: 10.8518964, Lon: 106.7600827
+2025-11-10 10:26:02 | INFO | 
+[23/178] Geocoding: Ministop -  UOA Tower
+2025-11-10 10:26:03 | INFO |   → Waiting for search results to load...
+2025-11-10 10:26:06 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/place/Ministop+-+UOA+Tower/@10.7301259,106.7221183,17z/data=!3m1!4b1!4m6!3m5!1s0x31752500042a5461:0xebe8bf52a1f4bea1!8m2!3d10.7301206!4d106.7246932!16s%2Fg%2F11y3vq_2r4?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:26:06 | INFO |   → URL type: place
+2025-11-10 10:26:06 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:26:06 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:26:06 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:26:09 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:26:09 | INFO |  -> Lat: 10.7301206, Lon: 106.7246932
+2025-11-10 10:26:11 | INFO | 
+[24/178] Geocoding: Ministop -  Mạc Đĩnh Chi 2
+2025-11-10 10:26:11 | INFO |   → Waiting for search results to load...
+2025-11-10 10:26:14 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/search/Ministop+-++M%E1%BA%A1c+%C4%90%C4%A9nh+Chi+2/@10.7946773,106.6714154,14z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:26:14 | INFO |   → URL type: search
+2025-11-10 10:26:14 | INFO |   → Search results page detected, clicking first result...
+2025-11-10 10:26:15 | INFO |   → Waiting for place page to load after click...
+2025-11-10 10:26:17 | INFO |   → URL after click (full):
+     https://www.google.com/maps/place/Ministop+-+65bis+M%E1%BA%A1c+%C4%90%C4%A9nh+Chi/@10.7946773,106.6714154,14z/data=!4m10!1m2!2m1!1zTWluaXN0b3AgLSAgTeG6oWMgxJDEqW5oIENoaSAy!3m6!1s0x31752f002457f085:0x951193ca4b0a3823!8m2!3d10.7879076!4d106.6958575!15sCh5NaW5pc3RvcCAtICBN4bqhYyDEkMSpbmggQ2hpIDIiA4gBAVodIhttaW5pc3RvcCBt4bqhYyDEkcSpbmggY2hpIDKSARFjb252ZW5pZW5jZV9zdG9yZZoBI0NoWkRTVWhOTUc5blMwVkpRMEZuU1VSbWFUUlFjbHBSRUFF4AEA-gEFCIwBEBY!16s%2Fg%2F11vwrlsk_d?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:26:17 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:26:17 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:26:17 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:26:20 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:26:20 | INFO |  -> Lat: 10.7879076, Lon: 106.6958575
+2025-11-10 10:26:22 | INFO | 
+[25/178] Geocoding: Ministop -  Điện Biên Phủ 2
+2025-11-10 10:26:22 | INFO |   → Waiting for search results to load...
+2025-11-10 10:26:25 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/search/Ministop+-++%C4%90i%E1%BB%87n+Bi%C3%AAn+Ph%E1%BB%A7+2/@10.7864585,106.6750093,14z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:26:25 | INFO |   → URL type: search
+2025-11-10 10:26:25 | INFO |   → Search results page detected, clicking first result...
+2025-11-10 10:26:26 | INFO |   → Waiting for place page to load after click...
+2025-11-10 10:26:28 | INFO |   → URL after click (full):
+     https://www.google.com/maps/place/Ministop+Vietnam+company+limited/@10.7864585,106.6750093,14z/data=!4m10!1m2!2m1!1zTWluaXN0b3AgLSAgxJBp4buHbiBCacOqbiBQaOG7pyAy!3m6!1s0x31752f373ef3a5b1:0x569a2a75929fd426!8m2!3d10.8004298!4d106.7067983!15sCiFNaW5pc3RvcCAtICDEkGnhu4duIEJpw6puIFBo4bunIDIiA4gBAZIBEWNvbnZlbmllbmNlX3N0b3Jl4AEA!16s%2Fg%2F11f2b70817?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:26:28 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:26:28 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:26:28 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:26:31 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:26:31 | INFO |  -> Lat: 10.8004298, Lon: 106.7067983
+2025-11-10 10:26:34 | INFO | 
+[26/178] Geocoding: Ministop -  Lê Quang Định 2
+2025-11-10 10:26:35 | INFO |   → Waiting for search results to load...
+2025-11-10 10:26:38 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/place/MINISTOP/@10.8142985,106.6871722,17z/data=!3m1!4b1!4m6!3m5!1s0x317528e85f757187:0xb16fd146e3121940!8m2!3d10.8142932!4d106.6897471!16s%2Fg%2F11cs16zn7w?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:26:38 | INFO |   → URL type: place
+2025-11-10 10:26:38 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:26:38 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:26:38 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:26:41 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:26:41 | INFO |  -> Lat: 10.8142932, Lon: 106.6897471
+2025-11-10 10:26:42 | INFO | 
+[27/178] Geocoding: Ministop -  An Dương Vương
+2025-11-10 10:26:43 | INFO |   → Waiting for search results to load...
+2025-11-10 10:26:46 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/place/MINISTOP+-+S243+-+An+D%C6%B0%C6%A1ng+V%C6%B0%C6%A1ng/@10.7532628,106.6218358,17z/data=!3m1!4b1!4m6!3m5!1s0x31752d0059628c91:0x4c7b780104f45cfe!8m2!3d10.7532575!4d106.6244107!16s%2Fg%2F11vx25nyg4?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:26:46 | INFO |   → URL type: place
+2025-11-10 10:26:46 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:26:46 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:26:47 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:26:50 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:26:50 | INFO |  -> Lat: 10.7532575, Lon: 106.6244107
+2025-11-10 10:26:51 | INFO | 
+[28/178] Geocoding: Ministop -  Hòa Bình
+2025-11-10 10:26:52 | INFO |   → Waiting for search results to load...
+2025-11-10 10:26:55 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/search/Ministop+-++H%C3%B2a+B%C3%ACnh/@10.7834861,106.6299214,15z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:26:55 | INFO |   → URL type: search
+2025-11-10 10:26:55 | INFO |   → Search results page detected, clicking first result...
+2025-11-10 10:26:55 | INFO |   → Waiting for place page to load after click...
+2025-11-10 10:26:57 | INFO |   → URL after click (full):
+     https://www.google.com/maps/place/MINISTOP+-+S242+-+H%C3%B2a+B%C3%ACnh/@10.769648,106.6152745,15z/data=!4m10!1m2!2m1!1sMinistop+-++H%C3%B2a+B%C3%ACnh!3m6!1s0x31752f0035fb3deb:0xa7d4a050a5791453!8m2!3d10.769648!4d106.6332989!15sChZNaW5pc3RvcCAtICBIw7JhIELDrG5oIgOIAQGSARFjb252ZW5pZW5jZV9zdG9yZeABAA!16s%2Fg%2F11y45k6p0t?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:26:57 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:26:57 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:26:57 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:27:00 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:27:00 | INFO |  -> Lat: 10.769648, Lon: 106.6332989
+2025-11-10 10:27:03 | INFO | 
+[29/178] Geocoding: Ministop -  Đại Lộ 3
+2025-11-10 10:27:03 | INFO |   → Waiting for search results to load...
+2025-11-10 10:27:06 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/place/Ministop+-+C%C4%90KT+%C4%90%E1%BB%91i+Ngo%E1%BA%A1i/@10.8126338,106.7694172,17z/data=!3m1!4b1!4m6!3m5!1s0x317526f674a4dd07:0xa861f71f0ce7c3a!8m2!3d10.8126285!4d106.7719921!16s%2Fg%2F11xdz_1_2?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:27:06 | INFO |   → URL type: place
+2025-11-10 10:27:06 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:27:06 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:27:07 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:27:10 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:27:10 | INFO |  -> Lat: 10.8126285, Lon: 106.7719921
+2025-11-10 10:27:12 | INFO | 
+[30/178] Geocoding: Ministop -  Đường số 12
+2025-11-10 10:27:13 | INFO |   → Waiting for search results to load...
+2025-11-10 10:27:16 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/search/Ministop+-++%C4%90%C6%B0%E1%BB%9Dng+s%E1%BB%91+12/@11.1090039,106.4748376,10z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:27:16 | INFO |   → URL type: search
+2025-11-10 10:27:16 | INFO |   → Search results page detected, clicking first result...
+2025-11-10 10:27:16 | INFO |   → Waiting for place page to load after click...
+2025-11-10 10:27:18 | INFO |   → URL after click (full):
+     https://www.google.com/maps/place/MINISTOP+-+S239+-+%C4%90%C6%B0%E1%BB%9Dng+s%E1%BB%91+12/@10.7925193,106.1551243,10z/data=!4m10!1m2!2m1!1zTWluaXN0b3AgLSAgxJDGsOG7nW5nIHPhu5EgMTI!3m6!1s0x317527002a111fc5:0x437c1c5d03656612!8m2!3d10.7925193!4d106.7319065!15sCh1NaW5pc3RvcCAtICDEkMaw4budbmcgc-G7kSAxMiIDiAEBkgERY29udmVuaWVuY2Vfc3RvcmXgAQA!16s%2Fg%2F11vz94j1vy?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:27:18 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:27:18 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:27:19 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:27:22 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:27:22 | INFO |  -> Lat: 10.7925193, Lon: 106.7319065
+2025-11-10 10:27:24 | INFO | 
+[31/178] Geocoding: Ministop -  Kha Vạn Cân
+2025-11-10 10:27:24 | INFO |   → Waiting for search results to load...
+2025-11-10 10:27:27 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/place/CHTL+-+MINISTOP+-+S240+-+Kha+V%E1%BA%A1n+C%C3%A2n/@10.857044,106.754313,17z/data=!3m1!4b1!4m6!3m5!1s0x3175270036bdf1e1:0x155c0075c207cf60!8m2!3d10.8570387!4d106.7568879!16s%2Fg%2F11vy3c27h3?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:27:27 | INFO |   → URL type: place
+2025-11-10 10:27:27 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:27:27 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:27:28 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:27:31 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:27:31 | INFO |  -> Lat: 10.8570387, Lon: 106.7568879
+2025-11-10 10:27:32 | INFO | 
+[32/178] Geocoding: Ministop -  Đại học Văn Lang
+2025-11-10 10:27:33 | INFO |   → Waiting for search results to load...
+2025-11-10 10:27:36 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/search/Ministop+-++%C4%90%E1%BA%A1i+h%E1%BB%8Dc+V%C4%83n+Lang/@10.7769876,106.6456766,13z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:27:36 | INFO |   → URL type: search
+2025-11-10 10:27:36 | INFO |   → Search results page detected, clicking first result...
+2025-11-10 10:27:36 | INFO |   → Waiting for place page to load after click...
+2025-11-10 10:27:38 | INFO |   → URL after click (full):
+     https://www.google.com/maps/place/MINISTOP+Nguy%E1%BB%85n+C%E1%BA%A3nh+Ch%C3%A2n/@10.7581011,106.6164707,13z/data=!4m10!1m2!2m1!1zTWluaXN0b3AgLSAgxJDhuqFpIGjhu41jIFbEg24gTGFuZw!3m6!1s0x31752fa0d63f4303:0x6468aec8016a5d50!8m2!3d10.7581011!4d106.6885685!15sCiJNaW5pc3RvcCAtICDEkOG6oWkgaOG7jWMgVsSDbiBMYW5nIgOIAQGSARFjb252ZW5pZW5jZV9zdG9yZeABAA!16s%2Fg%2F11gh4mb3t0?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:27:38 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:27:38 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:27:39 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:27:42 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:27:42 | INFO |  -> Lat: 10.7581011, Lon: 106.6885685
+2025-11-10 10:27:43 | INFO | 
+[33/178] Geocoding: Ministop -  Dương Đức Hiền
+2025-11-10 10:27:44 | INFO |   → Waiting for search results to load...
+2025-11-10 10:27:47 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/place/Ministop+T%C3%A2y+Th%E1%BA%A1nh/@10.8090078,106.6244186,17z/data=!3m1!4b1!4m6!3m5!1s0x31752b0053c1a157:0x9332ea0246d89baf!8m2!3d10.8090025!4d106.6269935!16s%2Fg%2F11vps981by?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:27:47 | INFO |   → URL type: place
+2025-11-10 10:27:47 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:27:47 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:27:47 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:27:50 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:27:50 | INFO |  -> Lat: 10.8090025, Lon: 106.6269935
+2025-11-10 10:27:53 | INFO | 
+[34/178] Geocoding: Ministop -  Hoàng Việt 2
+2025-11-10 10:27:54 | INFO |   → Waiting for search results to load...
+2025-11-10 10:27:57 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/search/Ministop+-++Ho%C3%A0ng+Vi%E1%BB%87t+2/@10.7942072,106.6560323,17z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:27:57 | INFO |   → URL type: search
+2025-11-10 10:27:57 | INFO |   → Search results page detected, clicking first result...
+2025-11-10 10:27:57 | INFO |   → Waiting for place page to load after click...
+2025-11-10 10:27:59 | INFO |   → URL after click (full):
+     https://www.google.com/maps/place/MINISTOP+-+S237+-+Ho%C3%A0ng+Vi%E1%BB%87t+2/@10.7930995,106.6536725,17z/data=!4m10!1m2!2m1!1zTWluaXN0b3AgLSAgSG_DoG5nIFZp4buHdCAy!3m6!1s0x31752900183b03fd:0xd3ba4a7af71aec64!8m2!3d10.7930995!4d106.6581786!15sChtNaW5pc3RvcCAtICBIb8OgbmcgVmnhu4d0IDIiA4gBAVoaIhhtaW5pc3RvcCBob8Ogbmcgdmnhu4d0IDKSARFjb252ZW5pZW5jZV9zdG9yZeABAA!16s%2Fg%2F11vs7_b1rn?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:27:59 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:27:59 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:27:59 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:28:02 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:28:02 | INFO |  -> Lat: 10.7930995, Lon: 106.6581786
+2025-11-10 10:28:04 | INFO | 
+[35/178] Geocoding: Ministop -  Âu Dương Lân
+2025-11-10 10:28:05 | INFO |   → Waiting for search results to load...
+2025-11-10 10:28:08 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/place/MINISTOP+-+S234+-+%C3%82u+D%C6%B0%C6%A1ng+L%C3%A2n/@10.7413223,106.6828071,17z/data=!3m1!4b1!4m6!3m5!1s0x31752f000a2fc391:0xbc9ac2e0adb04b4d!8m2!3d10.741317!4d106.685382!16s%2Fg%2F11vs7_5srg?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:28:08 | INFO |   → URL type: place
+2025-11-10 10:28:08 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:28:08 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:28:09 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:28:12 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:28:12 | INFO |  -> Lat: 10.741317, Lon: 106.685382
+2025-11-10 10:28:14 | INFO | 
+[36/178] Geocoding: Ministop -  Hoàng Hoa Thám 4
+2025-11-10 10:28:14 | INFO |   → Waiting for search results to load...
+2025-11-10 10:28:17 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/search/Ministop+-++Ho%C3%A0ng+Hoa+Th%C3%A1m+4/@10.7838042,106.6337011,13z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:28:17 | INFO |   → URL type: search
+2025-11-10 10:28:17 | INFO |   → Search results page detected, clicking first result...
+2025-11-10 10:28:18 | INFO |   → Waiting for place page to load after click...
+2025-11-10 10:28:20 | INFO |   → URL after click (full):
+     https://www.google.com/maps/place/MINISTOP/@10.7838042,106.6337011,13z/data=!4m10!1m2!2m1!1sMinistop+-++Ho%C3%A0ng+Hoa+Th%C3%A1m+4!3m6!1s0x317528c467f81b55:0xa0c0e32a7fb95e48!8m2!3d10.8047072!4d106.6918625!15sCh5NaW5pc3RvcCAtICBIb8OgbmcgSG9hIFRow6FtIDQiA4gBAZIBEWNvbnZlbmllbmNlX3N0b3Jl4AEA!16s%2Fg%2F11btrs3q_0?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:28:20 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:28:20 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:28:20 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:28:23 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:28:23 | INFO |  -> Lat: 10.8047072, Lon: 106.6918625
+2025-11-10 10:28:25 | INFO | 
+[37/178] Geocoding: Ministop -  Nguyễn Văn Lượng
+2025-11-10 10:28:26 | INFO |   → Waiting for search results to load...
+2025-11-10 10:28:29 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/place/MINISTOP-S233/@10.8398599,106.6644439,17z/data=!3m1!4b1!4m6!3m5!1s0x317529fe448fa325:0xf201aa42b5fd24fd!8m2!3d10.8398546!4d106.6670188!16s%2Fg%2F11w3p1wg60?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:28:29 | INFO |   → URL type: place
+2025-11-10 10:28:29 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:28:29 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:28:29 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:28:32 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:28:32 | INFO |  -> Lat: 10.8398546, Lon: 106.6670188
+2025-11-10 10:28:35 | INFO | 
+[38/178] Geocoding: Ministop -  Nguyễn Chí Thanh
+2025-11-10 10:28:36 | INFO |   → Waiting for search results to load...
+2025-11-10 10:28:39 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/place/Ministop+-+Nguy%E1%BB%85n+Ch%C3%AD+Thanh/@10.7589818,106.6625936,17z/data=!3m1!4b1!4m6!3m5!1s0x31752f00726e7cf3:0xe89049e4163b538!8m2!3d10.7589765!4d106.6651685!16s%2Fg%2F11vk9g9hfq?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:28:39 | INFO |   → URL type: place
+2025-11-10 10:28:39 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:28:39 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:28:39 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:28:42 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:28:42 | INFO |  -> Lat: 10.7589765, Lon: 106.6651685
+2025-11-10 10:28:45 | INFO | 
+[39/178] Geocoding: Ministop -  Bùi Văn Ba
+2025-11-10 10:28:46 | INFO |   → Waiting for search results to load...
+2025-11-10 10:28:49 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/place/Ministop+B%C3%B9i+V%C4%83n+Ba/@10.7505819,106.7325252,17z/data=!3m1!4b1!4m6!3m5!1s0x317525005c8c9b25:0x4b0db4747142f9e!8m2!3d10.7505766!4d106.7351001!16s%2Fg%2F11vyj5ms1v?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:28:49 | INFO |   → URL type: place
+2025-11-10 10:28:49 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:28:49 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:28:49 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:28:52 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:28:52 | INFO |  -> Lat: 10.7505766, Lon: 106.7351001
+2025-11-10 10:28:53 | INFO | 
+[40/178] Geocoding: Ministop -  Cityland Park Hills 2
+2025-11-10 10:28:54 | INFO |   → Waiting for search results to load...
+2025-11-10 10:28:57 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/place/Ministop/@10.8368383,106.6649755,17z/data=!3m1!4b1!4m6!3m5!1s0x3175292161caf477:0x479077db8b93dede!8m2!3d10.836833!4d106.6675504!16s%2Fg%2F11ftwg106f?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:28:57 | INFO |   → URL type: place
+2025-11-10 10:28:57 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:28:57 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:28:58 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:29:01 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:29:01 | INFO |  -> Lat: 10.836833, Lon: 106.6675504
+2025-11-10 10:29:02 | INFO | 
+[41/178] Geocoding: Ministop -  Khu dân cư Vĩnh Lộc
+2025-11-10 10:29:03 | INFO |   → Waiting for search results to load...
+2025-11-10 10:29:06 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/place/Ministop+-+S228+Khu+D%C3%A2n+C%C6%B0+V%C4%A9nh+L%E1%BB%99c+-+%C4%90%C6%B0%E1%BB%9Dng+S%E1%BB%91+8/@10.8043271,106.5911241,17z/data=!3m1!4b1!4m6!3m5!1s0x31752bd600f0d39d:0x18722e932b402d1d!8m2!3d10.8043218!4d106.593699!16s%2Fg%2F11vl501_f7?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:29:06 | INFO |   → URL type: place
+2025-11-10 10:29:06 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:29:06 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:29:06 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:29:09 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:29:09 | INFO |  -> Lat: 10.8043218, Lon: 106.593699
+2025-11-10 10:29:11 | INFO | 
+[42/178] Geocoding: Ministop -  Lạc Long Quân 3
+2025-11-10 10:29:12 | INFO |   → Waiting for search results to load...
+2025-11-10 10:29:15 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/search/Ministop+-++La%CC%A3c+Long+Qu%C3%A2n+3/@10.780397,106.6386922,14z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:29:15 | INFO |   → URL type: search
+2025-11-10 10:29:15 | INFO |   → Search results page detected, clicking first result...
+2025-11-10 10:29:15 | INFO |   → Waiting for place page to load after click...
+2025-11-10 10:29:17 | INFO |   → URL after click (full):
+     https://www.google.com/maps/place/Ministop+L%E1%BA%A1c+Long+Qu%C3%A2n/@10.780397,106.6386922,14z/data=!4m10!1m2!2m1!1sMinistop+-++La%CC%A3c+Long+Qu%C3%A2n+3!3m6!1s0x31752f0021a4c275:0xe0b827355610deaa!8m2!3d10.7709861!4d106.6451441!15sCh5NaW5pc3RvcCAtICBMYcyjYyBMb25nIFF1w6JuIDMiA4gBAZIBEWNvbnZlbmllbmNlX3N0b3Jl4AEA!16s%2Fg%2F11vm9ntpzn?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:29:17 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:29:17 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:29:18 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:29:21 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:29:21 | INFO |  -> Lat: 10.7709861, Lon: 106.6451441
+2025-11-10 10:29:23 | INFO | 
+[43/178] Geocoding: Ministop -  Đất Mới
+2025-11-10 10:29:24 | INFO |   → Waiting for search results to load...
+2025-11-10 10:29:27 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/place/MINISTOP+-+S227+-+%C4%90%E1%BA%A5t+M%E1%BB%9Bi/@10.7726162,106.6065031,17z/data=!3m1!4b1!4m6!3m5!1s0x31752d003fbf1593:0x28173fc666ce9a84!8m2!3d10.7726109!4d106.609078!16s%2Fg%2F11ld86x5_s?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:29:27 | INFO |   → URL type: place
+2025-11-10 10:29:27 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:29:27 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:29:27 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:29:30 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:29:30 | INFO |  -> Lat: 10.7726109, Lon: 106.609078
+2025-11-10 10:29:33 | INFO | 
+[44/178] Geocoding: Ministop -  Phạm Văn Bạch
+2025-11-10 10:29:33 | INFO |   → Waiting for search results to load...
+2025-11-10 10:29:36 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/place/Ministop+Ph%E1%BA%A1m+V%C4%83n+B%E1%BA%A1ch/@10.8358562,106.6417647,17z/data=!3m1!4b1!4m6!3m5!1s0x317529ee3567db43:0x9ff2b44d0824817!8m2!3d10.8358509!4d106.6443396!16s%2Fg%2F11vkrk5n3r?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:29:37 | INFO |   → URL type: place
+2025-11-10 10:29:37 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:29:37 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:29:37 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:29:40 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:29:40 | INFO |  -> Lat: 10.8358509, Lon: 106.6443396
+2025-11-10 10:29:42 | INFO | 
+[45/178] Geocoding: Ministop -  Cao ốc Re
+2025-11-10 10:29:43 | INFO |   → Waiting for search results to load...
+2025-11-10 10:29:46 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/search/Ministop+-++Cao+%E1%BB%91c+Re/@11.1090039,106.4748376,10z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:29:46 | INFO |   → URL type: search
+2025-11-10 10:29:46 | INFO |   → Search results page detected, clicking first result...
+2025-11-10 10:29:46 | INFO |   → Waiting for place page to load after click...
+2025-11-10 10:29:48 | INFO |   → URL after click (full):
+     https://www.google.com/maps/place/Mini+Stop/@11.1090039,106.4748376,10z/data=!4m10!1m2!2m1!1sMinistop+-++Cao+%E1%BB%91c+Re!3m6!1s0x3174e721466e4a0f:0xcf898445c430840!8m2!3d10.9663656!4d106.9547279!15sChdNaW5pc3RvcCAtICBDYW8g4buRYyBSZSIDiAEBWhYiFG1pbmlzdG9wIGNhbyDhu5FjIHJlkgERY29udmVuaWVuY2Vfc3RvcmXgAQA!16s%2Fg%2F11hm427vtn?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:29:48 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:29:48 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:29:48 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:29:51 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:29:51 | INFO |  -> Lat: 10.9663656, Lon: 106.9547279
+2025-11-10 10:29:53 | INFO | 
+[46/178] Geocoding: Ministop -  Phan Văn Đạt
+2025-11-10 10:29:54 | INFO |   → Waiting for search results to load...
+2025-11-10 10:29:57 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/place/Mini+Stop/@10.7752188,106.7025143,17z/data=!3m1!4b1!4m6!3m5!1s0x31752fc70da97fa1:0xd2289a13ec3f93eb!8m2!3d10.7752135!4d106.7050892!16s%2Fg%2F11vdjhvrqr?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:29:57 | INFO |   → URL type: place
+2025-11-10 10:29:57 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:29:57 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:29:57 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:30:00 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:30:00 | INFO |  -> Lat: 10.7752135, Lon: 106.7050892
+2025-11-10 10:30:02 | INFO | 
+[47/178] Geocoding: Ministop -  Lý Tự Trọng 3
+2025-11-10 10:30:03 | INFO |   → Waiting for search results to load...
+2025-11-10 10:30:06 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/place/Ministop+-+L%C3%BD+T%E1%BB%B1+Tr%E1%BB%8Dng+3/@10.7739983,106.6941487,17z/data=!3m1!4b1!4m6!3m5!1s0x31752f8dbc2e05d7:0x600a77e7b74b25b7!8m2!3d10.773993!4d106.6967236!16s%2Fg%2F11y1htdjpk?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:30:06 | INFO |   → URL type: place
+2025-11-10 10:30:06 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:30:06 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:30:07 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:30:10 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:30:10 | INFO |  -> Lat: 10.773993, Lon: 106.6967236
+2025-11-10 10:30:11 | INFO | 
+[48/178] Geocoding: Ministop -  Tân Quý 2
+2025-11-10 10:30:12 | INFO |   → Waiting for search results to load...
+2025-11-10 10:30:15 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/search/Ministop+-++T%C3%A2n+Qu%C3%BD+2/@10.7974518,106.6134251,15z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:30:15 | INFO |   → URL type: search
+2025-11-10 10:30:15 | INFO |   → Search results page detected, clicking first result...
+2025-11-10 10:30:15 | INFO |   → Waiting for place page to load after click...
+2025-11-10 10:30:17 | INFO |   → URL after click (full):
+     https://www.google.com/maps/place/Ministop+S210+-+446+T%C3%A2n+K%E1%BB%B3+T%C3%A2n+Qu%C3%BD/@10.7985708,106.5985228,15z/data=!4m10!1m2!2m1!1sMinistop+-++T%C3%A2n+Qu%C3%BD+2!3m6!1s0x31752b2d5ecd5969:0x2616307ab6825485!8m2!3d10.7985708!4d106.6165472!15sChdNaW5pc3RvcCAtICBUw6JuIFF1w70gMiIDiAEBWhYiFG1pbmlzdG9wIHTDom4gcXXDvSAykgERY29udmVuaWVuY2Vfc3RvcmXgAQA!16s%2Fg%2F11kqrg8sk2?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:30:17 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:30:17 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:30:18 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:30:21 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:30:21 | INFO |  -> Lat: 10.7985708, Lon: 106.6165472
+2025-11-10 10:30:22 | INFO | 
+[49/178] Geocoding: Ministop -  Trần Bình Trọng
+2025-11-10 10:30:23 | INFO |   → Waiting for search results to load...
+2025-11-10 10:30:26 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/place/MINISTOP/@10.8127108,106.6854112,17z/data=!3m1!4b1!4m6!3m5!1s0x3175295cffff2989:0x3d988226a14d5c63!8m2!3d10.8127055!4d106.6879861!16s%2Fg%2F11krtx7b82?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:30:26 | INFO |   → URL type: place
+2025-11-10 10:30:26 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:30:26 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:30:26 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:30:29 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:30:29 | INFO |  -> Lat: 10.8127055, Lon: 106.6879861
+2025-11-10 10:30:31 | INFO | 
+[50/178] Geocoding: Ministop -  Lạc Long Quân 2
+2025-11-10 10:30:32 | INFO |   → Waiting for search results to load...
+2025-11-10 10:30:35 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/search/Ministop+-++L%E1%BA%A1c+Long+Qu%C3%A2n+2/@10.7647174,106.6362013,16z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:30:35 | INFO |   → URL type: search
+2025-11-10 10:30:35 | INFO |   → Search results page detected, clicking first result...
+2025-11-10 10:30:35 | INFO |   → Waiting for place page to load after click...
+2025-11-10 10:30:37 | INFO |   → URL after click (full):
+     https://www.google.com/maps/place/Ministop+L%E1%BA%A1c+Long+Qu%C3%A2n/@10.7647174,106.6362013,16z/data=!4m10!1m2!2m1!1sMinistop+-++L%E1%BA%A1c+Long+Qu%C3%A2n+2!3m6!1s0x31752f0021a4c275:0xe0b827355610deaa!8m2!3d10.7709861!4d106.6451441!15sCh5NaW5pc3RvcCAtICBM4bqhYyBMb25nIFF1w6JuIDIiA4gBAZIBEWNvbnZlbmllbmNlX3N0b3Jl4AEA!16s%2Fg%2F11vm9ntpzn?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:30:37 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:30:37 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:30:38 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:30:41 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:30:41 | INFO |  -> Lat: 10.7709861, Lon: 106.6451441
+2025-11-10 10:30:43 | INFO | 
+[51/178] Geocoding: Ministop -  Thành Thái 3
+2025-11-10 10:30:44 | INFO |   → Waiting for search results to load...
+2025-11-10 10:30:47 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/search/Ministop+-++Th%C3%A0nh+Th%C3%A1i+3/@10.7715608,106.658991,15z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:30:47 | INFO |   → URL type: search
+2025-11-10 10:30:47 | INFO |   → Search results page detected, clicking first result...
+2025-11-10 10:30:47 | INFO |   → Waiting for place page to load after click...
+2025-11-10 10:30:49 | INFO |   → URL after click (full):
+     https://www.google.com/maps/place/MINISTOP+Viet+Nam/@10.7693551,106.6481344,15z/data=!4m10!1m2!2m1!1sMinistop+-++Th%C3%A0nh+Th%C3%A1i+3!3m6!1s0x31752f4a191cb8df:0xf20c5ed312e9ed1a!8m2!3d10.7693551!4d106.6661588!15sChpNaW5pc3RvcCAtICBUaMOgbmggVGjDoWkgMyIDiAEBkgERY29udmVuaWVuY2Vfc3RvcmXgAQA!16s%2Fg%2F11v3q6mrcy?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:30:49 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:30:49 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:30:50 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:30:53 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:30:53 | INFO |  -> Lat: 10.7693551, Lon: 106.6661588
+2025-11-10 10:30:55 | INFO | 
+[52/178] Geocoding: Ministop -  Mã Lò
+2025-11-10 10:30:56 | INFO |   → Waiting for search results to load...
+2025-11-10 10:30:59 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/place/CHTL+-+MINISTOP+-+S257+-+%C4%90%C6%B0%E1%BB%9Dng+s%E1%BB%91+29/@10.7568198,106.6091531,17z/data=!3m1!4b1!4m6!3m5!1s0x31752d0009d9f3f5:0x7d10875e351a63b3!8m2!3d10.7568145!4d106.611728!16s%2Fg%2F11y6b46zks?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:30:59 | INFO |   → URL type: place
+2025-11-10 10:30:59 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:30:59 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:31:00 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:31:03 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:31:03 | INFO |  -> Lat: 10.7568145, Lon: 106.611728
+2025-11-10 10:31:04 | INFO | 
+[53/178] Geocoding: Ministop -  Lê Văn Thọ
+2025-11-10 10:31:05 | INFO |   → Waiting for search results to load...
+2025-11-10 10:31:08 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/search/Ministop+-++L%C3%AA+V%C4%83n+Th%E1%BB%8D/@10.845886,106.6534872,15z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:31:08 | INFO |   → URL type: search
+2025-11-10 10:31:08 | INFO |   → Search results page detected, clicking first result...
+2025-11-10 10:31:08 | INFO |   → Waiting for place page to load after click...
+2025-11-10 10:31:10 | INFO |   → URL after click (full):
+     https://www.google.com/maps/place/MiniStop+l%C3%AA+v%C4%83n+th%E1%BB%8D/@10.8454085,106.6391055,15z/data=!4m10!1m2!2m1!1zTWluaXN0b3AgLSAgTMOqIFbEg24gVGjhu40!3m6!1s0x317529004fb9e7a9:0x6e9b0c45a3460be7!8m2!3d10.8454085!4d106.6571299!15sChpNaW5pc3RvcCAtICBMw6ogVsSDbiBUaOG7jSIDiAEBkgERY29udmVuaWVuY2Vfc3RvcmXgAQA!16s%2Fg%2F11y43t68sr?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:31:10 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:31:10 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:31:10 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:31:13 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:31:13 | INFO |  -> Lat: 10.8454085, Lon: 106.6571299
+2025-11-10 10:31:15 | INFO | 
+[54/178] Geocoding: Ministop -  Lê Đức Thọ 2
+2025-11-10 10:31:15 | INFO |   → Waiting for search results to load...
+2025-11-10 10:31:18 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/search/Ministop+-++L%C3%AA+%C4%90%E1%BB%A9c+Th%E1%BB%8D+2/@10.8502721,106.653479,15z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:31:18 | INFO |   → URL type: search
+2025-11-10 10:31:18 | INFO |   → Search results page detected, clicking first result...
+2025-11-10 10:31:18 | INFO |   → Waiting for place page to load after click...
+2025-11-10 10:31:20 | INFO |   → URL after click (full):
+     https://www.google.com/maps/place/MINISTOP+-+L%C3%AA+%C4%90%E1%BB%A9c+Th%E1%BB%8D/@10.8502721,106.653479,15z/data=!4m10!1m2!2m1!1zTWluaXN0b3AgLSAgTMOqIMSQ4bupYyBUaOG7jSAy!3m6!1s0x31752976c24363db:0xbec98fd9626dabe5!8m2!3d10.8463217!4d106.6704441!15sCh5NaW5pc3RvcCAtICBMw6ogxJDhu6ljIFRo4buNIDIiA4gBAVodIhttaW5pc3RvcCBsw6ogxJHhu6ljIHRo4buNIDKSARFjb252ZW5pZW5jZV9zdG9yZeABAA!16s%2Fg%2F11syj81266?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:31:20 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:31:20 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:31:21 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:31:24 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:31:24 | INFO |  -> Lat: 10.8463217, Lon: 106.6704441
+2025-11-10 10:31:26 | INFO | 
+[55/178] Geocoding: Ministop -  Cư Xá Lữ Gia
+2025-11-10 10:31:27 | INFO |   → Waiting for search results to load...
+2025-11-10 10:31:30 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/search/Ministop+-++C%C6%B0+X%C3%A1+L%E1%BB%AF+Gia/@10.7670283,106.6386922,14z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:31:30 | INFO |   → URL type: search
+2025-11-10 10:31:30 | INFO |   → Search results page detected, clicking first result...
+2025-11-10 10:31:30 | INFO |   → Waiting for place page to load after click...
+2025-11-10 10:31:32 | INFO |   → URL after click (full):
+     https://www.google.com/maps/place/Mini+Stop/@10.7717332,106.6185707,14z/data=!4m10!1m2!2m1!1zTWluaXN0b3AgLSAgQ8awIFjDoSBM4buvIEdpYQ!3m6!1s0x31752f27fd7bd077:0x1c7d2e440ee8a00!8m2!3d10.7717332!4d106.6546196!15sChxNaW5pc3RvcCAtICBDxrAgWMOhIEzhu68gR2lhIgOIAQFaGyIZbWluaXN0b3AgY8awIHjDoSBs4buvIGdpYZIBDWdyb2Nlcnlfc3RvcmWaASRDaGREU1VoTk1HOW5TMFZKUTBGblNVUnNOazk2ZVMxQlJSQULgAQD6AQQIABAr!16s%2Fg%2F11l5x2kb43?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:31:32 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:31:32 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:31:33 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:31:36 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:31:36 | INFO |  -> Lat: 10.7717332, Lon: 106.6546196
+2025-11-10 10:31:37 | INFO | 
+[56/178] Geocoding: Ministop -  Bệnh Viện Quân Y 175
+2025-11-10 10:31:38 | INFO |   → Waiting for search results to load...
+2025-11-10 10:31:41 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/place/Ministop+B%E1%BB%87nh+vi%E1%BB%87n+qu%C3%A2n+y/@10.8164496,106.6776773,17z/data=!3m1!4b1!4m6!3m5!1s0x31752996cb1c03a9:0x5bf536fd3cd97bb!8m2!3d10.8164443!4d106.6802522!16s%2Fg%2F11vj6xbj37?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:31:41 | INFO |   → URL type: place
+2025-11-10 10:31:41 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:31:41 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:31:42 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:31:45 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:31:45 | INFO |  -> Lat: 10.8164443, Lon: 106.6802522
+2025-11-10 10:31:46 | INFO | 
+[57/178] Geocoding: Ministop -  Tân Kỳ Tân Quý 2
+2025-11-10 10:31:47 | INFO |   → Waiting for search results to load...
+2025-11-10 10:31:50 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/place/Ministop+S210+-+446+T%C3%A2n+K%E1%BB%B3+T%C3%A2n+Qu%C3%BD/@10.7985761,106.6139723,17z/data=!3m1!4b1!4m6!3m5!1s0x31752b2d5ecd5969:0x2616307ab6825485!8m2!3d10.7985708!4d106.6165472!16s%2Fg%2F11kqrg8sk2?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:31:50 | INFO |   → URL type: place
+2025-11-10 10:31:50 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:31:50 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:31:50 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:31:53 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:31:53 | INFO |  -> Lat: 10.7985708, Lon: 106.6165472
+2025-11-10 10:31:54 | INFO | 
+[58/178] Geocoding: Ministop -  One Verandah
+2025-11-10 10:31:55 | INFO |   → Waiting for search results to load...
+2025-11-10 10:31:58 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/place/Ministop+One+Verandah/@10.7769014,106.748999,17z/data=!3m1!4b1!4m6!3m5!1s0x317525000c1ced8d:0xdd9e4e798fcefed7!8m2!3d10.7768961!4d106.7515739!16s%2Fg%2F11vpdlvtwk?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:31:58 | INFO |   → URL type: place
+2025-11-10 10:31:58 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:31:58 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:31:59 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:32:02 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:32:02 | INFO |  -> Lat: 10.7768961, Lon: 106.7515739
+2025-11-10 10:32:03 | INFO | 
+[59/178] Geocoding: Ministop -  Đường số 01
+2025-11-10 10:32:04 | INFO |   → Waiting for search results to load...
+2025-11-10 10:32:07 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/search/Ministop+-++%C4%90%C6%B0%E1%BB%9Dng+s%E1%BB%91+01/@11.1090039,106.4748376,10z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:32:07 | INFO |   → URL type: search
+2025-11-10 10:32:07 | INFO |   → Search results page detected, clicking first result...
+2025-11-10 10:32:07 | INFO |   → Waiting for place page to load after click...
+2025-11-10 10:32:09 | INFO |   → URL after click (full):
+     https://www.google.com/maps/place/Ministop+%C4%91%C6%B0%E1%BB%9Dng+s%E1%BB%91+1/@10.8458136,106.0846043,10z/data=!4m10!1m2!2m1!1zTWluaXN0b3AgLSAgxJDGsOG7nW5nIHPhu5EgMDE!3m6!1s0x3175290025ddc723:0x838d0d38b6e3fb57!8m2!3d10.8458136!4d106.6613865!15sCh1NaW5pc3RvcCAtICDEkMaw4budbmcgc-G7kSAwMSIDiAEBkgERY29udmVuaWVuY2Vfc3RvcmXgAQA!16s%2Fg%2F11wq97szbh?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:32:09 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:32:09 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:32:09 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:32:12 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:32:12 | INFO |  -> Lat: 10.8458136, Lon: 106.6613865
+2025-11-10 10:32:14 | INFO | 
+[60/178] Geocoding: Ministop -  Âu Cơ 3
+2025-11-10 10:32:14 | INFO |   → Waiting for search results to load...
+2025-11-10 10:32:17 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/search/Ministop+-++%C3%82u+C%C6%A1+3/@10.7877228,106.619141,13z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:32:17 | INFO |   → URL type: search
+2025-11-10 10:32:17 | INFO |   → Search results page detected, clicking first result...
+2025-11-10 10:32:17 | INFO |   → Waiting for place page to load after click...
+2025-11-10 10:32:19 | INFO |   → URL after click (full):
+     https://www.google.com/maps/place/MINISTOP/@10.7755593,106.5785417,13z/data=!4m10!1m2!2m1!1zTWluaXN0b3AgLSAgw4J1IEPGoSAz!3m6!1s0x31752f152cddb775:0x12da2d3da54b7a75!8m2!3d10.7755593!4d106.6506395!15sChVNaW5pc3RvcCAtICDDgnUgQ8ahIDMiA4gBAZIBEWNvbnZlbmllbmNlX3N0b3Jl4AEA!16s%2Fg%2F11kk4jxrwl?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:32:19 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:32:19 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:32:20 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:32:23 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:32:23 | INFO |  -> Lat: 10.7755593, Lon: 106.6506395
+2025-11-10 10:32:25 | INFO | 
+[61/178] Geocoding: Ministop -  Vườn Lài 3
+2025-11-10 10:32:26 | INFO |   → Waiting for search results to load...
+2025-11-10 10:32:29 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/place/MINISTOP+-+V%C6%B0%E1%BB%9Dn+L%C3%A0i/@10.7878457,106.6309805,17z/data=!3m1!4b1!4m6!3m5!1s0x31752eabe7858d9b:0xff6810d747e66634!8m2!3d10.7878404!4d106.6335554!16s%2Fg%2F11crzwdzw6?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:32:29 | INFO |   → URL type: place
+2025-11-10 10:32:29 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:32:29 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:32:29 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:32:32 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:32:32 | INFO |  -> Lat: 10.7878404, Lon: 106.6335554
+2025-11-10 10:32:35 | INFO | 
+[62/178] Geocoding: Ministop -  Lý Tự Trọng 2
+2025-11-10 10:32:36 | INFO |   → Waiting for search results to load...
+2025-11-10 10:32:39 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/place/Ministop+-+L%C3%BD+T%E1%BB%B1+Tr%E1%BB%8Dng+2/@10.7742444,106.6950615,17z/data=!3m1!4b1!4m6!3m5!1s0x31752f5ee2a6f757:0x231cc6dfc458fd6!8m2!3d10.7742391!4d106.6976364!16s%2Fg%2F11svfntrzy?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:32:39 | INFO |   → URL type: place
+2025-11-10 10:32:39 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:32:39 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:32:39 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:32:42 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:32:42 | INFO |  -> Lat: 10.7742391, Lon: 106.6976364
+2025-11-10 10:32:44 | INFO | 
+[63/178] Geocoding: Ministop -  Thạch Thị Thanh
+2025-11-10 10:32:45 | INFO |   → Waiting for search results to load...
+2025-11-10 10:32:48 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/place/MINISTOP+TH%E1%BA%A0CH+TH%E1%BB%8A+THANH/@10.790455,106.6895403,17z/data=!3m1!4b1!4m6!3m5!1s0x31752977661ab321:0xe94825b4124fd61!8m2!3d10.7904497!4d106.6921152!16s%2Fg%2F11ks077jsc?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:32:48 | INFO |   → URL type: place
+2025-11-10 10:32:48 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:32:48 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:32:48 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:32:51 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:32:51 | INFO |  -> Lat: 10.7904497, Lon: 106.6921152
+2025-11-10 10:32:53 | INFO | 
+[64/178] Geocoding: Ministop -  Nguyễn Văn Khối
+2025-11-10 10:32:54 | INFO |   → Waiting for search results to load...
+2025-11-10 10:32:57 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/place/Ministop/@10.8451488,106.6515686,17z/data=!3m1!4b1!4m6!3m5!1s0x317529f2a90c65dd:0x1e4becc9eae70918!8m2!3d10.8451435!4d106.6541435!16s%2Fg%2F11stbfx6yg?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:32:57 | INFO |   → URL type: place
+2025-11-10 10:32:57 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:32:57 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:32:57 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:33:00 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:33:00 | INFO |  -> Lat: 10.8451435, Lon: 106.6541435
+2025-11-10 10:33:03 | INFO | 
+[65/178] Geocoding: Ministop -  Lý Thánh Tông
+2025-11-10 10:33:04 | INFO |   → Waiting for search results to load...
+2025-11-10 10:33:07 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/place/Ministop+L%C3%BD+Th%C3%A1nh+T%C3%B4ng+-+S200/@10.7670707,106.6274667,17z/data=!3m1!4b1!4m6!3m5!1s0x31752f08c027c90b:0x54828d333b192a3!8m2!3d10.7670654!4d106.6300416!16s%2Fg%2F11st68zc7k?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:33:07 | INFO |   → URL type: place
+2025-11-10 10:33:07 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:33:07 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:33:08 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:33:11 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:33:11 | INFO |  -> Lat: 10.7670654, Lon: 106.6300416
+2025-11-10 10:33:13 | INFO | 
+[66/178] Geocoding: Ministop -  Đường số 28
+2025-11-10 10:33:14 | INFO |   → Waiting for search results to load...
+2025-11-10 10:33:17 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/place/C%E1%BB%ADa+h%C3%A0ng+ti%E1%BB%87n+l%E1%BB%A3i+ministop/@10.8437927,106.6785195,17z/data=!3m1!4b1!4m6!3m5!1s0x317529001bc1daaf:0xb594d98674f820e0!8m2!3d10.8437874!4d106.6810944!16s%2Fg%2F11stdssk6c?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:33:17 | INFO |   → URL type: place
+2025-11-10 10:33:17 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:33:17 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:33:18 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:33:21 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:33:21 | INFO |  -> Lat: 10.8437874, Lon: 106.6810944
+2025-11-10 10:33:24 | INFO | 
+[67/178] Geocoding: Ministop -  Đường số 59
+2025-11-10 10:33:25 | INFO |   → Waiting for search results to load...
+2025-11-10 10:33:28 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/search/Ministop+-++%C4%90%C6%B0%E1%BB%9Dng+s%E1%BB%91+59/@11.1090039,106.4748376,10z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:33:28 | INFO |   → URL type: search
+2025-11-10 10:33:28 | INFO |   → Search results page detected, clicking first result...
+2025-11-10 10:33:28 | INFO |   → Waiting for place page to load after click...
+2025-11-10 10:33:30 | INFO |   → URL after click (full):
+     https://www.google.com/maps/place/Ministop+%C4%91%C6%B0%E1%BB%9Dng+s%E1%BB%91+1/@10.8458136,106.0846043,10z/data=!4m10!1m2!2m1!1zTWluaXN0b3AgLSAgxJDGsOG7nW5nIHPhu5EgNTk!3m6!1s0x3175290025ddc723:0x838d0d38b6e3fb57!8m2!3d10.8458136!4d106.6613865!15sCh1NaW5pc3RvcCAtICDEkMaw4budbmcgc-G7kSA1OSIDiAEBkgERY29udmVuaWVuY2Vfc3RvcmXgAQA!16s%2Fg%2F11wq97szbh?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:33:30 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:33:30 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:33:30 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:33:33 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:33:33 | INFO |  -> Lat: 10.8458136, Lon: 106.6613865
+2025-11-10 10:33:35 | INFO | 
+[68/178] Geocoding: Ministop -  Huỳnh Văn Nghệ
+2025-11-10 10:33:36 | INFO |   → Waiting for search results to load...
+2025-11-10 10:33:39 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/place/Ministop+Hu%E1%BB%B3nh+V%C4%83n+Ngh%E1%BB%87/@10.8297189,106.636088,17z/data=!3m1!4b1!4m6!3m5!1s0x3175291691bb0c3b:0x3184fba11b21278a!8m2!3d10.8297136!4d106.6386629!16s%2Fg%2F11kqrggtpc?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:33:39 | INFO |   → URL type: place
+2025-11-10 10:33:39 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:33:39 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:33:39 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:33:42 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:33:42 | INFO |  -> Lat: 10.8297136, Lon: 106.6386629
+2025-11-10 10:33:44 | INFO | 
+[69/178] Geocoding: Ministop -  Thạch Lam 2
+2025-11-10 10:33:45 | INFO |   → Waiting for search results to load...
+2025-11-10 10:33:48 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/search/Ministop+-++Th%E1%BA%A1ch+Lam+2/@10.7780014,106.6248688,17z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:33:48 | INFO |   → URL type: search
+2025-11-10 10:33:48 | INFO |   → Search results page detected, clicking first result...
+2025-11-10 10:33:48 | INFO |   → Waiting for place page to load after click...
+2025-11-10 10:33:50 | INFO |   → URL after click (full):
+     https://www.google.com/maps/place/MINISTOP/@10.7780014,106.6248688,17z/data=!4m10!1m2!2m1!1sMinistop+-++Th%E1%BA%A1ch+Lam+2!3m6!1s0x31752fae15a8f369:0x47cdd9483520eeaf!8m2!3d10.7769422!4d106.6300744!15sChlNaW5pc3RvcCAtICBUaOG6oWNoIExhbSAyIgOIAQFaGCIWbWluaXN0b3AgdGjhuqFjaCBsYW0gMpIBEWNvbnZlbmllbmNlX3N0b3Jl4AEA!16s%2Fg%2F11tk27690x?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:33:50 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:33:50 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:33:51 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:33:54 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:33:54 | INFO |  -> Lat: 10.7769422, Lon: 106.6300744
+2025-11-10 10:33:56 | INFO | 
+[70/178] Geocoding: Ministop -  Trịnh Đình Trọng 2
+2025-11-10 10:33:57 | INFO |   → Waiting for search results to load...
+2025-11-10 10:34:00 | INFO |   → Initial URL (full):
+     https://www.google.com/maps
+2025-11-10 10:34:00 | INFO |   → URL type: unknown
+2025-11-10 10:34:00 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:34:00 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:34:01 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:34:04 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:34:04 | INFO |  -> Lat: None, Lon: None
+2025-11-10 10:34:21 | INFO | 
+[71/178] Geocoding: Ministop -  Bùi Quang Là
+2025-11-10 10:34:22 | INFO |   → Waiting for search results to load...
+2025-11-10 10:34:25 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/place/MINISTOP/@10.8350651,106.6369839,17z/data=!3m1!4b1!4m6!3m5!1s0x317529fd3f45ac89:0x446f7a34c821a828!8m2!3d10.8350598!4d106.6395588!16s%2Fg%2F11jt4g1qq0?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:34:25 | INFO |   → URL type: place
+2025-11-10 10:34:25 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:34:25 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:34:25 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:34:28 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:34:28 | INFO |  -> Lat: 10.8350598, Lon: 106.6395588
+2025-11-10 10:34:30 | INFO | 
+[72/178] Geocoding: Ministop -  Topaz City
+2025-11-10 10:34:31 | INFO |   → Waiting for search results to load...
+2025-11-10 10:34:34 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/place/Ministop+Topaz+Home+2/@10.8648534,106.8082382,17z/data=!3m1!4b1!4m6!3m5!1s0x3175270004299aa7:0x6027059844f6f3b1!8m2!3d10.8648481!4d106.8108131!16s%2Fg%2F11w3bv9qcq?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:34:34 | INFO |   → URL type: place
+2025-11-10 10:34:34 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:34:34 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:34:34 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:34:37 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:34:37 | INFO |  -> Lat: 10.8648481, Lon: 106.8108131
+2025-11-10 10:34:40 | INFO | 
+[73/178] Geocoding: Ministop -  Bàu Cát
+2025-11-10 10:34:41 | INFO |   → Waiting for search results to load...
+2025-11-10 10:34:44 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/place/MINISTOP/@10.7906718,106.6437864,17z/data=!3m1!4b1!4m6!3m5!1s0x31752fd8f8f5d77b:0x6be2f87b8e291eb6!8m2!3d10.7906665!4d106.6463613!16s%2Fg%2F11js_wyd24?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:34:44 | INFO |   → URL type: place
+2025-11-10 10:34:44 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:34:44 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:34:44 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:34:47 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:34:47 | INFO |  -> Lat: 10.7906665, Lon: 106.6463613
+2025-11-10 10:34:48 | INFO | 
+[74/178] Geocoding: Ministop -  Tân Kỳ Tân Quý
+2025-11-10 10:34:50 | INFO |   → Waiting for search results to load...
+2025-11-10 10:34:53 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/search/Ministop+-++T%C3%A2n+K%E1%BB%B3+T%C3%A2n+Qu%C3%BD/@10.7978681,106.6134251,15z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:34:53 | INFO |   → URL type: search
+2025-11-10 10:34:53 | INFO |   → Search results page detected, clicking first result...
+2025-11-10 10:34:53 | INFO |   → Waiting for place page to load after click...
+2025-11-10 10:34:55 | INFO |   → URL after click (full):
+     https://www.google.com/maps/place/MINISTOP+-+T%C3%82N+K%E1%BB%B2+T%C3%82N+QU%C3%9D/@10.7978681,106.6134251,15z/data=!4m10!1m2!2m1!1zTWluaXN0b3AgLSAgVMOibiBL4buzIFTDom4gUXXDvQ!3m6!1s0x31752b4ff1f46ee3:0x5e8717e2631358fa!8m2!3d10.8021666!4d106.6265805!15sCh9NaW5pc3RvcCAtICBUw6JuIEvhu7MgVMOibiBRdcO9IgOIAQFaHiIcbWluaXN0b3AgdMOibiBr4buzIHTDom4gcXXDvZIBEWNvbnZlbmllbmNlX3N0b3Jl4AEA!16s%2Fg%2F11pf681q26?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:34:55 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:34:55 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:34:55 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:34:58 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:34:58 | INFO |  -> Lat: 10.8021666, Lon: 106.6265805
+2025-11-10 10:35:01 | INFO | 
+[75/178] Geocoding: Ministop -  Phạm Văn Chí
+2025-11-10 10:35:02 | INFO |   → Waiting for search results to load...
+2025-11-10 10:35:05 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/search/Ministop+-++Ph%E1%BA%A1m+V%C4%83n+Ch%C3%AD/@10.7680945,106.6336214,14z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:35:05 | INFO |   → URL type: search
+2025-11-10 10:35:05 | INFO |   → Search results page detected, clicking first result...
+2025-11-10 10:35:05 | INFO |   → Waiting for place page to load after click...
+2025-11-10 10:35:07 | INFO |   → URL after click (full):
+     https://www.google.com/maps/place/Ministop+Ph%E1%BA%A1m+V%C4%83n+Ch%C3%AD/@10.7448523,106.6105808,14z/data=!4m10!1m2!2m1!1zTWluaXN0b3AgLSAgUGjhuqFtIFbEg24gQ2jDrQ!3m6!1s0x31752f000d743a7d:0x471364d359f60ab4!8m2!3d10.7448523!4d106.6466297!15sChxNaW5pc3RvcCAtICBQaOG6oW0gVsSDbiBDaMOtWhsiGW1pbmlzdG9wIHBo4bqhbSB2xINuIGNow62SARFjb252ZW5pZW5jZV9zdG9yZeABAA!16s%2Fg%2F11y5gyjm3w?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:35:07 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:35:07 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:35:08 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:35:11 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:35:11 | INFO |  -> Lat: 10.7448523, Lon: 106.6466297
+2025-11-10 10:35:12 | INFO | 
+[76/178] Geocoding: Ministop -  Đường số 10
+2025-11-10 10:35:13 | INFO |   → Waiting for search results to load...
+2025-11-10 10:35:16 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/place/Ministop/@10.7532768,106.6248323,17z/data=!3m1!4b1!4m6!3m5!1s0x31752d37bd48e7f5:0x8a79f93f7ef4be34!8m2!3d10.7532715!4d106.6274072!16s%2Fg%2F11s86f18rh?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:35:16 | INFO |   → URL type: place
+2025-11-10 10:35:16 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:35:16 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:35:16 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:35:19 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:35:19 | INFO |  -> Lat: 10.7532715, Lon: 106.6274072
+2025-11-10 10:35:21 | INFO | 
+[77/178] Geocoding: Ministop -  Thạch Lam
+2025-11-10 10:35:22 | INFO |   → Waiting for search results to load...
+2025-11-10 10:35:25 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/search/Ministop+-++Th%E1%BA%A1ch+Lam/@10.7780014,106.6248688,17z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:35:25 | INFO |   → URL type: search
+2025-11-10 10:35:25 | INFO |   → Search results page detected, clicking first result...
+2025-11-10 10:35:25 | INFO |   → Waiting for place page to load after click...
+2025-11-10 10:35:27 | INFO |   → URL after click (full):
+     https://www.google.com/maps/place/MINISTOP/@10.7780014,106.6248688,17z/data=!4m10!1m2!2m1!1sMinistop+-++Th%E1%BA%A1ch+Lam!3m6!1s0x31752fae15a8f369:0x47cdd9483520eeaf!8m2!3d10.7769422!4d106.6300744!15sChdNaW5pc3RvcCAtICBUaOG6oWNoIExhbSIDiAEBWhYiFG1pbmlzdG9wIHRo4bqhY2ggbGFtkgERY29udmVuaWVuY2Vfc3RvcmXgAQA!16s%2Fg%2F11tk27690x?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:35:27 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:35:27 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:35:27 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:35:30 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:35:30 | INFO |  -> Lat: 10.7769422, Lon: 106.6300744
+2025-11-10 10:35:33 | INFO | 
+[78/178] Geocoding: Ministop -  Water Point
+2025-11-10 10:35:33 | INFO |   → Waiting for search results to load...
+2025-11-10 10:35:36 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/search/Ministop+-++Water+Point/@11.1090039,106.4748376,10z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:35:36 | INFO |   → URL type: search
+2025-11-10 10:35:36 | INFO |   → Search results page detected, clicking first result...
+2025-11-10 10:35:37 | INFO |   → Waiting for place page to load after click...
+2025-11-10 10:35:39 | INFO |   → URL after click (full):
+     https://www.google.com/maps/place/Ministop+Homyland+Riverside/@10.7894095,106.1918741,10z/data=!4m10!1m2!2m1!1sMinistop+-++Water+Point!3m6!1s0x317527abe6891fff:0x43b240654865d4ed!8m2!3d10.7894095!4d106.7686563!15sChdNaW5pc3RvcCAtICBXYXRlciBQb2ludCIDiAEBWhYiFG1pbmlzdG9wIHdhdGVyIHBvaW50kgERY29udmVuaWVuY2Vfc3RvcmWaASRDaGREU1VoTk1HOW5TMFZKUTBGblNVTm9jMGxIVDNGUlJSQULgAQD6AQQIABAm!16s%2Fg%2F11fr0cjpj4?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:35:39 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:35:39 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:35:39 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:35:42 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:35:42 | INFO |  -> Lat: 10.7894095, Lon: 106.7686563
+2025-11-10 10:35:44 | INFO | 
+[79/178] Geocoding: Ministop -  Akari City
+2025-11-10 10:35:45 | INFO |   → Waiting for search results to load...
+2025-11-10 10:35:48 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/place/Aeon+Ministop+Akari+City+AK5/@10.7174051,106.6048175,17z/data=!3m1!4b1!4m6!3m5!1s0x31752d11b5c44b9f:0x7c85383277859d81!8m2!3d10.7173998!4d106.6073924!16s%2Fg%2F11t4cc6r10?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:35:48 | INFO |   → URL type: place
+2025-11-10 10:35:48 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:35:48 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:35:48 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:35:51 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:35:51 | INFO |  -> Lat: 10.7173998, Lon: 106.6073924
+2025-11-10 10:35:54 | INFO | 
+[80/178] Geocoding: Ministop -  Đường số 6
+2025-11-10 10:35:55 | INFO |   → Waiting for search results to load...
+2025-11-10 10:35:58 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/place/Ministop/@10.7532768,106.6248323,17z/data=!3m1!4b1!4m6!3m5!1s0x31752d37bd48e7f5:0x8a79f93f7ef4be34!8m2!3d10.7532715!4d106.6274072!16s%2Fg%2F11s86f18rh?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:35:58 | INFO |   → URL type: place
+2025-11-10 10:35:58 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:35:58 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:35:58 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:36:01 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:36:01 | INFO |  -> Lat: 10.7532715, Lon: 106.6274072
+2025-11-10 10:36:04 | INFO | 
+[81/178] Geocoding: Ministop -  Vũ Tùng 2
+2025-11-10 10:36:05 | INFO |   → Waiting for search results to load...
+2025-11-10 10:36:08 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/search/Ministop+-++V%C5%A9+T%C3%B9ng+2/@10.8019755,106.6983945,17z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:36:08 | INFO |   → URL type: search
+2025-11-10 10:36:08 | INFO |   → Search results page detected, clicking first result...
+2025-11-10 10:36:08 | INFO |   → Waiting for place page to load after click...
+2025-11-10 10:36:10 | INFO |   → URL after click (full):
+     https://www.google.com/maps/place/Ministop+V%C5%A9+T%C3%B9ng/@10.8021706,106.6967176,17z/data=!4m10!1m2!2m1!1sMinistop+-++V%C5%A9+T%C3%B9ng+2!3m6!1s0x317528b8ff423c3b:0x38504e3ea5d3c730!8m2!3d10.8021706!4d106.7012237!15sChdNaW5pc3RvcCAtICBWxakgVMO5bmcgMiIDiAEBkgERY29udmVuaWVuY2Vfc3RvcmXgAQA!16s%2Fg%2F11vkz8pdn6?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:36:10 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:36:10 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:36:10 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:36:13 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:36:13 | INFO |  -> Lat: 10.8021706, Lon: 106.7012237
+2025-11-10 10:36:16 | INFO | 
+[82/178] Geocoding: Ministop -  Thống Nhất
+2025-11-10 10:36:17 | INFO |   → Waiting for search results to load...
+2025-11-10 10:36:20 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/place/MINISTOP/@10.7907612,106.6311031,17z/data=!3m1!4b1!4m6!3m5!1s0x31752f92998d25af:0xf5b0d3d5c081e93a!8m2!3d10.7907559!4d106.633678!16s%2Fg%2F11s39m5s_v?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:36:20 | INFO |   → URL type: place
+2025-11-10 10:36:20 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:36:20 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:36:20 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:36:23 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:36:23 | INFO |  -> Lat: 10.7907559, Lon: 106.633678
+2025-11-10 10:36:26 | INFO | 
+[83/178] Geocoding: Ministop -  Lê Đức Thọ
+2025-11-10 10:36:27 | INFO |   → Waiting for search results to load...
+2025-11-10 10:36:30 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/place/MINISTOP+-+L%C3%AA+%C4%90%E1%BB%A9c+Th%E1%BB%8D/@10.846327,106.6678692,17z/data=!3m1!4b1!4m6!3m5!1s0x31752976c24363db:0xbec98fd9626dabe5!8m2!3d10.8463217!4d106.6704441!16s%2Fg%2F11syj81266?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:36:30 | INFO |   → URL type: place
+2025-11-10 10:36:30 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:36:30 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:36:30 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:36:33 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:36:33 | INFO |  -> Lat: 10.8463217, Lon: 106.6704441
+2025-11-10 10:36:34 | INFO | 
+[84/178] Geocoding: Ministop -  Tô Hiệu
+2025-11-10 10:36:35 | INFO |   → Waiting for search results to load...
+2025-11-10 10:36:38 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/place/Ministop+T%C3%B4+Hi%E1%BB%87u/@10.769923,106.6242643,17z/data=!3m1!4b1!4m6!3m5!1s0x31752d0960436181:0x3d00848b49f7f57a!8m2!3d10.7699177!4d106.6268392!16s%2Fg%2F11rzs45rsb?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:36:38 | INFO |   → URL type: place
+2025-11-10 10:36:38 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:36:38 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:36:39 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:36:42 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:36:42 | INFO |  -> Lat: 10.7699177, Lon: 106.6268392
+2025-11-10 10:36:45 | INFO | 
+[85/178] Geocoding: Ministop -  Võ Thành Trang
+2025-11-10 10:36:46 | INFO |   → Waiting for search results to load...
+2025-11-10 10:36:49 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/place/Ministop+Vo+Thanh+Trang/@10.7913312,106.6473707,17z/data=!3m1!4b1!4m6!3m5!1s0x31752fea95c9df95:0x67ec8c44e6bb4ce8!8m2!3d10.7913259!4d106.6499456!16s%2Fg%2F11t6lbcklc?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:36:49 | INFO |   → URL type: place
+2025-11-10 10:36:49 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:36:49 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:36:49 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:36:52 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:36:52 | INFO |  -> Lat: 10.7913259, Lon: 106.6499456
+2025-11-10 10:36:54 | INFO | 
+[86/178] Geocoding: Ministop -  Tôn Thất Hiệp
+2025-11-10 10:36:55 | INFO |   → Waiting for search results to load...
+2025-11-10 10:36:58 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/place/MINISTOP+T%C3%B4n+Th%E1%BA%A5t+Hi%E1%BB%87p/@10.7611862,106.649705,17z/data=!3m1!4b1!4m6!3m5!1s0x31752f791f966257:0x883f46f888ceff28!8m2!3d10.7611809!4d106.6522799!16s%2Fg%2F11t6y4n2vz?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:36:58 | INFO |   → URL type: place
+2025-11-10 10:36:58 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:36:58 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:36:59 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:37:02 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:37:02 | INFO |  -> Lat: 10.7611809, Lon: 106.6522799
+2025-11-10 10:37:03 | INFO | 
+[87/178] Geocoding: Ministop -  Sunwah Pearl
+2025-11-10 10:37:04 | INFO |   → Waiting for search results to load...
+2025-11-10 10:37:07 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/place/MINISTOP/@10.7887042,106.7157633,17z/data=!3m1!4b1!4m6!3m5!1s0x317529bc0e30cb97:0x2ed053856213a833!8m2!3d10.7886989!4d106.7183382!16s%2Fg%2F11q26250s8?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:37:07 | INFO |   → URL type: place
+2025-11-10 10:37:07 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:37:07 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:37:07 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:37:10 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:37:10 | INFO |  -> Lat: 10.7886989, Lon: 106.7183382
+2025-11-10 10:37:12 | INFO | 
+[88/178] Geocoding: Ministop -  Safira D
+2025-11-10 10:37:13 | INFO |   → Waiting for search results to load...
+2025-11-10 10:37:16 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/place/Ministop+Safira/@10.8013983,106.7913229,17z/data=!3m1!4b1!4m6!3m5!1s0x3175270047803f49:0x420d5f80cd7f5213!8m2!3d10.801393!4d106.7938978!16s%2Fg%2F11w1jy8c8l?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:37:16 | INFO |   → URL type: place
+2025-11-10 10:37:16 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:37:16 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:37:17 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:37:20 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:37:20 | INFO |  -> Lat: 10.801393, Lon: 106.7938978
+2025-11-10 10:37:21 | INFO | 
+[89/178] Geocoding: Ministop -  HaDo Centrosa Garden
+2025-11-10 10:37:22 | INFO |   → Waiting for search results to load...
+2025-11-10 10:37:25 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/search/Ministop+-++HaDo+Centrosa+Garden/@10.8541347,106.6262544,11z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:37:25 | INFO |   → URL type: search
+2025-11-10 10:37:25 | INFO |   → Search results page detected, clicking first result...
+2025-11-10 10:37:25 | INFO |   → Waiting for place page to load after click...
+2025-11-10 10:37:27 | INFO |   → URL after click (full):
+     https://www.google.com/maps/place/H%C3%A0+%C4%90%C3%B4+Centrosa+Garden,+Ph%C6%B0%E1%BB%9Dng+12+(Qu%E1%BA%ADn+10),+District+10,+Ho+Chi+Minh+City,+Vietnam/@10.7756076,106.6025132,13z/data=!3m1!4b1!4m10!1m2!2m1!1sMinistop+-++HaDo+Centrosa+Garden!3m6!1s0x31752f27601abc09:0x8fa89e81f1455ef8!8m2!3d10.7755322!4d106.676334!15sCiBNaW5pc3RvcCAtICBIYURvIENlbnRyb3NhIEdhcmRlbiIDiAEBkgEMbmVpZ2hib3Job29k4AEA!16s%2Fg%2F11vl55tkkj?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:37:27 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:37:27 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:37:28 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:37:31 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:37:31 | INFO |  -> Lat: 10.7755322, Lon: 106.676334
+2025-11-10 10:37:49 | INFO | 
+[90/178] Geocoding: Ministop -  Sài Gòn South
+2025-11-10 10:37:50 | INFO |   → Waiting for search results to load...
+2025-11-10 10:37:53 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/place/MINISTOP+SAIGON+SOUTH/@10.7204259,106.7016547,17z/data=!3m1!4b1!4m6!3m5!1s0x31752f812b64f4cf:0x62e617975563ed87!8m2!3d10.7204206!4d106.7042296!16s%2Fg%2F11n103g8qb?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:37:53 | INFO |   → URL type: place
+2025-11-10 10:37:53 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:37:53 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:37:53 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:37:56 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:37:56 | INFO |  -> Lat: 10.7204206, Lon: 106.7042296
+2025-11-10 10:37:58 | INFO | 
+[91/178] Geocoding: Ministop -  Saigon Royal
+2025-11-10 10:37:59 | INFO |   → Waiting for search results to load...
+2025-11-10 10:38:02 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/place/Ministop+Saigon+Royal/@10.7669559,106.701395,17z/data=!3m1!4b1!4m6!3m5!1s0x31752f6a75f3d199:0x82676162b98eaf9b!8m2!3d10.7669506!4d106.7039699!16s%2Fg%2F11rb61366v?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:38:02 | INFO |   → URL type: place
+2025-11-10 10:38:02 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:38:02 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:38:03 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:38:06 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:38:06 | INFO |  -> Lat: 10.7669506, Lon: 106.7039699
+2025-11-10 10:38:07 | INFO | 
+[92/178] Geocoding: Ministop -  The CBD
+2025-11-10 10:38:08 | INFO |   → Waiting for search results to load...
+2025-11-10 10:38:11 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/search/Ministop+-++The+CBD/@11.1090039,106.4748376,10z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:38:11 | INFO |   → URL type: search
+2025-11-10 10:38:11 | INFO |   → Search results page detected, clicking first result...
+2025-11-10 10:38:11 | INFO |   → Waiting for place page to load after click...
+2025-11-10 10:38:13 | INFO |   → URL after click (full):
+     https://www.google.com/maps/place/Ministop+CBD+%C4%90%E1%BB%93ng+V%C4%83n+C%E1%BB%91ng/@10.7745241,106.1853294,10z/data=!4m10!1m2!2m1!1sMinistop+-++The+CBD!3m6!1s0x317525a968055a4f:0x8475e87e6bdabc67!8m2!3d10.7745241!4d106.7621116!15sChNNaW5pc3RvcCAtICBUaGUgQ0JEIgOIAQFaEiIQbWluaXN0b3AgdGhlIGNiZJIBEWNvbnZlbmllbmNlX3N0b3Jl4AEA!16s%2Fg%2F11j99c6pk9?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:38:13 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:38:13 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:38:14 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:38:17 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:38:17 | INFO |  -> Lat: 10.7745241, Lon: 106.7621116
+2025-11-10 10:38:19 | INFO | 
+[93/178] Geocoding: Ministop -  Trần Hưng Đạo
+2025-11-10 10:38:20 | INFO |   → Waiting for search results to load...
+2025-11-10 10:38:23 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/place/MINISTOP/@10.7540758,106.6746323,17z/data=!3m1!4b1!4m6!3m5!1s0x31752f026ee37c6d:0x90cec6d253b5e012!8m2!3d10.7540705!4d106.6772072!16s%2Fg%2F11ljc_fcl8?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:38:23 | INFO |   → URL type: place
+2025-11-10 10:38:23 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:38:23 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:38:24 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:38:27 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:38:27 | INFO |  -> Lat: 10.7540705, Lon: 106.6772072
+2025-11-10 10:38:29 | INFO | 
+[94/178] Geocoding: Ministop -  Điện Biên Phủ
+2025-11-10 10:38:30 | INFO |   → Waiting for search results to load...
+2025-11-10 10:38:33 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/search/Ministop+-++%C4%90i%E1%BB%87n+Bi%C3%AAn+Ph%E1%BB%A7/@10.7864585,106.6750093,14z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:38:33 | INFO |   → URL type: search
+2025-11-10 10:38:33 | INFO |   → Search results page detected, clicking first result...
+2025-11-10 10:38:33 | INFO |   → Waiting for place page to load after click...
+2025-11-10 10:38:35 | INFO |   → URL after click (full):
+     https://www.google.com/maps/place/MINISTOP+HUTECH/@10.7864585,106.6750093,14z/data=!4m10!1m2!2m1!1zTWluaXN0b3AgLSAgxJBp4buHbiBCacOqbiBQaOG7pw!3m6!1s0x317528a450d7cb9f:0xf65d8cc95cd2683f!8m2!3d10.8025372!4d106.7146403!15sCh9NaW5pc3RvcCAtICDEkGnhu4duIEJpw6puIFBo4bunIgOIAQFaHiIcbWluaXN0b3AgxJFp4buHbiBiacOqbiBwaOG7p5IBEWNvbnZlbmllbmNlX3N0b3Jl4AEA!16s%2Fg%2F11c4nwfd12?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:38:35 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:38:35 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:38:36 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:38:39 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:38:39 | INFO |  -> Lat: 10.8025372, Lon: 106.7146403
+2025-11-10 10:38:41 | INFO | 
+[95/178] Geocoding: Ministop -  Bùi Đình Túy 2
+2025-11-10 10:38:42 | INFO |   → Waiting for search results to load...
+2025-11-10 10:38:45 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/search/Ministop+-++B%C3%B9i+%C4%90%C3%ACnh+T%C3%BAy+2/@10.8078102,106.7009507,17z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:38:45 | INFO |   → URL type: search
+2025-11-10 10:38:45 | INFO |   → Search results page detected, clicking first result...
+2025-11-10 10:38:45 | INFO |   → Waiting for place page to load after click...
+2025-11-10 10:38:47 | INFO |   → URL after click (full):
+     https://www.google.com/maps/place/Ministop/@10.8075409,106.6971549,17z/data=!4m10!1m2!2m1!1zTWluaXN0b3AgLSAgQsO5aSDEkMOsbmggVMO6eSAy!3m6!1s0x317528bf0dc25777:0x265855396e6251a5!8m2!3d10.8075409!4d106.701661!15sCh5NaW5pc3RvcCAtICBCw7lpIMSQw6xuaCBUw7p5IDIiA4gBAVodIhttaW5pc3RvcCBiw7lpIMSRw6xuaCB0w7p5IDKSARFjb252ZW5pZW5jZV9zdG9yZeABAA!16s%2Fg%2F11fyls00d5?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:38:47 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:38:47 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:38:47 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:38:50 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:38:50 | INFO |  -> Lat: 10.8075409, Lon: 106.701661
+2025-11-10 10:38:53 | INFO | 
+[96/178] Geocoding: Ministop -  Đại học Ngân Hàng
+2025-11-10 10:38:54 | INFO |   → Waiting for search results to load...
+2025-11-10 10:38:57 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/search/Ministop+-++%C4%90%E1%BA%A1i+h%E1%BB%8Dc+Ng%C3%A2n+H%C3%A0ng/@11.1090039,106.4748376,10z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:38:57 | INFO |   → URL type: search
+2025-11-10 10:38:57 | INFO |   → Search results page detected, clicking first result...
+2025-11-10 10:38:57 | INFO |   → Waiting for place page to load after click...
+2025-11-10 10:38:59 | INFO |   → URL after click (full):
+     https://www.google.com/maps/place/Mini+Stop/@11.1090039,106.4748376,10z/data=!4m10!1m2!2m1!1zTWluaXN0b3AgLSAgxJDhuqFpIGjhu41jIE5nw6JuIEjDoG5n!3m6!1s0x3174e721466e4a0f:0xcf898445c430840!8m2!3d10.9663656!4d106.9547279!15sCiRNaW5pc3RvcCAtICDEkOG6oWkgaOG7jWMgTmfDom4gSMOgbmciA4gBAVojIiFtaW5pc3RvcCDEkeG6oWkgaOG7jWMgbmfDom4gaMOgbmeSARFjb252ZW5pZW5jZV9zdG9yZZoBJENoZERTVWhOTUc5blMwVkpRMEZuU1VSc2RXWkhVWFIzUlJBQuABAPoBBAgAEB8!16s%2Fg%2F11hm427vtn?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:38:59 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:38:59 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:39:00 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:39:03 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:39:03 | INFO |  -> Lat: 10.9663656, Lon: 106.9547279
+2025-11-10 10:39:06 | INFO | 
+[97/178] Geocoding: Ministop -  Nguyễn Trãi
+2025-11-10 10:39:06 | INFO |   → Waiting for search results to load...
+2025-11-10 10:39:09 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/place/MINISTOP/@10.7527929,106.6527634,17z/data=!3m1!4b1!4m6!3m5!1s0x31752faee0d81739:0x2c8c6fd591cf5121!8m2!3d10.7527876!4d106.6553383!16s%2Fg%2F11fnw0sqgz?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:39:09 | INFO |   → URL type: place
+2025-11-10 10:39:09 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:39:09 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:39:10 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:39:13 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:39:13 | INFO |  -> Lat: 10.7527876, Lon: 106.6553383
+2025-11-10 10:39:14 | INFO | 
+[98/178] Geocoding: Ministop -  Palm Residence
+2025-11-10 10:39:15 | INFO |   → Waiting for search results to load...
+2025-11-10 10:39:18 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/place/Ministop+Palm+Residence/@10.7921585,106.7586584,17z/data=!3m1!4b1!4m6!3m5!1s0x31752732ab42095b:0x2a6d15e6c1322530!8m2!3d10.7921532!4d106.7612333!16s%2Fg%2F11h58cynm1?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:39:18 | INFO |   → URL type: place
+2025-11-10 10:39:18 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:39:18 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:39:19 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:39:22 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:39:22 | INFO |  -> Lat: 10.7921532, Lon: 106.7612333
+2025-11-10 10:39:23 | INFO | 
+[99/178] Geocoding: Ministop -  Homyland Riverside
+2025-11-10 10:39:24 | INFO |   → Waiting for search results to load...
+2025-11-10 10:39:27 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/place/Ministop+Homyland+Riverside/@10.7894148,106.7660814,17z/data=!3m1!4b1!4m6!3m5!1s0x317527abe6891fff:0x43b240654865d4ed!8m2!3d10.7894095!4d106.7686563!16s%2Fg%2F11fr0cjpj4?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:39:27 | INFO |   → URL type: place
+2025-11-10 10:39:27 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:39:27 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:39:28 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:39:31 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:39:31 | INFO |  -> Lat: 10.7894095, Lon: 106.7686563
+2025-11-10 10:39:33 | INFO | 
+[100/178] Geocoding: Ministop -  Cityland
+2025-11-10 10:39:34 | INFO |   → Waiting for search results to load...
+2025-11-10 10:39:37 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/search/Ministop+-++Cityland/@10.8362164,106.664595,17z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:39:37 | INFO |   → URL type: search
+2025-11-10 10:39:37 | INFO |   → Search results page detected, clicking first result...
+2025-11-10 10:39:37 | INFO |   → Waiting for place page to load after click...
+2025-11-10 10:39:39 | INFO |   → URL after click (full):
+     https://www.google.com/maps/place/Ministop/@10.8362164,106.664595,17z/data=!4m10!1m2!2m1!1sMinistop+-++Cityland!3m6!1s0x3175292161caf477:0x479077db8b93dede!8m2!3d10.836833!4d106.6675504!15sChRNaW5pc3RvcCAtICBDaXR5bGFuZCIDiAEBkgERY29udmVuaWVuY2Vfc3RvcmXgAQA!16s%2Fg%2F11ftwg106f?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:39:39 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:39:39 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:39:40 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:39:43 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:39:43 | INFO |  -> Lat: 10.836833, Lon: 106.6675504
+2025-11-10 10:39:45 | INFO | 
+[101/178] Geocoding: Ministop -  Mai Thị Lựu
+2025-11-10 10:39:45 | INFO |   → Waiting for search results to load...
+2025-11-10 10:39:48 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/place/MiniStop/@10.790673,106.697038,17z/data=!3m1!4b1!4m6!3m5!1s0x317529f326c87e9b:0x211096385b921809!8m2!3d10.7906677!4d106.6996129!16s%2Fg%2F11h_610dt_?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:39:48 | INFO |   → URL type: place
+2025-11-10 10:39:48 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:39:48 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:39:49 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:39:52 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:39:52 | INFO |  -> Lat: 10.7906677, Lon: 106.6996129
+2025-11-10 10:39:53 | INFO | 
+[102/178] Geocoding: Ministop -  Ni Sư Huỳnh Liên
+2025-11-10 10:39:54 | INFO |   → Waiting for search results to load...
+2025-11-10 10:39:57 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/place/MINISTOP/@10.7835025,106.646193,17z/data=!3m1!4b1!4m6!3m5!1s0x31752fcb666b12af:0xba70b8e0c20999fa!8m2!3d10.7834972!4d106.6487679!16s%2Fg%2F11fr3fyzd4?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:39:57 | INFO |   → URL type: place
+2025-11-10 10:39:57 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:39:57 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:39:57 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:40:00 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:40:00 | INFO |  -> Lat: 10.7834972, Lon: 106.6487679
+2025-11-10 10:40:02 | INFO | 
+[103/178] Geocoding: Ministop -  Masteri An Phú
+2025-11-10 10:40:03 | INFO |   → Waiting for search results to load...
+2025-11-10 10:40:06 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/search/Ministop+-++Masteri+An+Ph%C3%BA/@10.8035949,106.7451665,17z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:40:06 | INFO |   → URL type: search
+2025-11-10 10:40:06 | INFO |   → Search results page detected, clicking first result...
+2025-11-10 10:40:06 | INFO |   → Waiting for place page to load after click...
+2025-11-10 10:40:08 | INFO |   → URL after click (full):
+     https://www.google.com/maps/place/MASTERI+AN+PH%C3%9A/@10.8035949,106.7451665,17z/data=!4m10!1m2!2m1!1sMinistop+-++Masteri+An+Ph%C3%BA!3m6!1s0x317527ce496f91f1:0x99a4aabc4bac329f!8m2!3d10.8035896!4d106.7477414!15sChtNaW5pc3RvcCAtICBNYXN0ZXJpIEFuIFBow7oiA4gBAZIBEmFwYXJ0bWVudF9idWlsZGluZ-ABAA!16s%2Fg%2F11hz2dyt4l?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:40:08 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:40:08 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:40:09 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:40:12 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:40:12 | INFO |  -> Lat: 10.8035896, Lon: 106.7477414
+2025-11-10 10:40:13 | INFO | 
+[104/178] Geocoding: Ministop -  The Sun Avenue
+2025-11-10 10:40:14 | INFO |   → Waiting for search results to load...
+2025-11-10 10:40:17 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/place/Ministop+Sun+Avenue/@10.7851502,106.7459013,17z/data=!3m1!4b1!4m6!3m5!1s0x3175256209df66f1:0x41fbe7f663720c6e!8m2!3d10.7851449!4d106.7484762!16s%2Fg%2F11fr0cn4dx?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:40:17 | INFO |   → URL type: place
+2025-11-10 10:40:17 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:40:17 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:40:18 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:40:21 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:40:21 | INFO |  -> Lat: 10.7851449, Lon: 106.7484762
+2025-11-10 10:40:22 | INFO | 
+[105/178] Geocoding: Ministop -  Hồ Văn Huê
+2025-11-10 10:40:23 | INFO |   → Waiting for search results to load...
+2025-11-10 10:40:26 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/search/Ministop+-++H%E1%BB%93+V%C4%83n+Hu%C3%AA/@10.80255,106.6613033,14z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:40:26 | INFO |   → URL type: search
+2025-11-10 10:40:26 | INFO |   → Search results page detected, clicking first result...
+2025-11-10 10:40:26 | INFO |   → Waiting for place page to load after click...
+2025-11-10 10:40:28 | INFO |   → URL after click (full):
+     https://www.google.com/maps/place/Ministop/@10.8056129,106.6457091,14z/data=!4m10!1m2!2m1!1zTWluaXN0b3AgLSAgSOG7kyBWxINuIEh1w6o!3m6!1s0x317528d95bcf658d:0x1827e2d1cb9e6cc4!8m2!3d10.8056129!4d106.681758!15sChpNaW5pc3RvcCAtICBI4buTIFbEg24gSHXDqiIDiAEBkgERY29udmVuaWVuY2Vfc3RvcmXgAQA!16s%2Fg%2F11h9zgpv4_?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:40:28 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:40:28 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:40:28 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:40:31 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:40:31 | INFO |  -> Lat: 10.8056129, Lon: 106.681758
+2025-11-10 10:40:34 | INFO | 
+[106/178] Geocoding: Ministop -  Đảo Kim Cương
+2025-11-10 10:40:35 | INFO |   → Waiting for search results to load...
+2025-11-10 10:40:38 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/place/MINISTOP/@10.7796074,106.7443691,17z/data=!3m1!4b1!4m6!3m5!1s0x31752511b4cfc54d:0x2593883397efdd9a!8m2!3d10.7796021!4d106.746944!16s%2Fg%2F11h0yg8xq0?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:40:38 | INFO |   → URL type: place
+2025-11-10 10:40:38 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:40:38 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:40:38 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:40:41 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:40:41 | INFO |  -> Lat: 10.7796021, Lon: 106.746944
+2025-11-10 10:40:44 | INFO | 
+[107/178] Geocoding: Ministop -  Vinhomes Golden River (Bason)
+2025-11-10 10:40:45 | INFO |   → Waiting for search results to load...
+2025-11-10 10:40:48 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/search/Ministop+-++Vinhomes+Golden+River+(Bason)/@10.7799858,106.6972438,15z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:40:48 | INFO |   → URL type: search
+2025-11-10 10:40:48 | INFO |   → Search results page detected, clicking first result...
+2025-11-10 10:40:48 | INFO |   → Waiting for place page to load after click...
+2025-11-10 10:40:50 | INFO |   → URL after click (full):
+     https://www.google.com/maps/place/MINISTOP+-+Vinhomes+Golden+River/@10.7799858,106.6972438,15z/data=!4m10!1m2!2m1!1sMinistop+-++Vinhomes+Golden+River+(Bason)!3m6!1s0x31752f8b320ad723:0xffcfda53d640e5af!8m2!3d10.7867421!4d106.710601!15sCilNaW5pc3RvcCAtICBWaW5ob21lcyBHb2xkZW4gUml2ZXIgKEJhc29uKSIDiAEBWiYiJG1pbmlzdG9wIHZpbmhvbWVzIGdvbGRlbiByaXZlciBiYXNvbpIBEWNvbnZlbmllbmNlX3N0b3Jl4AEA!16s%2Fg%2F11h0mj3mzd?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:40:50 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:40:50 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:40:50 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:40:53 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:40:53 | INFO |  -> Lat: 10.7867421, Lon: 106.710601
+2025-11-10 10:40:55 | INFO | 
+[108/178] Geocoding: Ministop -  Đường 3/2
+2025-11-10 10:40:56 | INFO |   → Waiting for search results to load...
+2025-11-10 10:40:59 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/search/Ministop+-++%C4%90%C6%B0%E1%BB%9Dng+3%2F2/@10.7715608,106.658991,15z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:40:59 | INFO |   → URL type: search
+2025-11-10 10:40:59 | INFO |   → Search results page detected, clicking first result...
+2025-11-10 10:40:59 | INFO |   → Waiting for place page to load after click...
+2025-11-10 10:41:01 | INFO |   → URL after click (full):
+     https://www.google.com/maps/place/Mini+stop/@10.7715608,106.658991,15z/data=!4m10!1m2!2m1!1zTWluaXN0b3AgLSAgxJDGsOG7nW5nIDMvMg!3m6!1s0x31752fcdeccf645b:0xf1937807031f5fdf!8m2!3d10.7753088!4d106.6779535!15sChlNaW5pc3RvcCAtICDEkMaw4budbmcgMy8yIgOIAQGSARFjb252ZW5pZW5jZV9zdG9yZeABAA!16s%2Fg%2F11nnsbhg2s?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:41:01 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:41:01 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:41:01 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:41:04 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:41:04 | INFO |  -> Lat: 10.7753088, Lon: 106.6779535
+2025-11-10 10:41:07 | INFO | 
+[109/178] Geocoding: Ministop -  Phùng Văn Cung
+2025-11-10 10:41:08 | INFO |   → Waiting for search results to load...
+2025-11-10 10:41:11 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/place/MINISTOP-S123/@10.8020447,106.6820863,17z/data=!3m1!4b1!4m6!3m5!1s0x3175299e7efd92ad:0x88d612b73553d988!8m2!3d10.8020394!4d106.6846612!16s%2Fg%2F11kd9mtbvl?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:41:11 | INFO |   → URL type: place
+2025-11-10 10:41:11 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:41:11 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:41:11 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:41:14 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:41:14 | INFO |  -> Lat: 10.8020394, Lon: 106.6846612
+2025-11-10 10:41:17 | INFO | 
+[110/178] Geocoding: Ministop -  Lê Thánh Tôn
+2025-11-10 10:41:18 | INFO |   → Waiting for search results to load...
+2025-11-10 10:41:21 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/place/Ministop+L%C3%AA+Th%C3%A1nh+T%C3%B4n/@10.781533,106.7030973,17z/data=!3m1!4b1!4m6!3m5!1s0x31752f18c38f26ef:0x450658968a441c1!8m2!3d10.7815277!4d106.7056722!16s%2Fg%2F11gy572bdc?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:41:21 | INFO |   → URL type: place
+2025-11-10 10:41:21 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:41:21 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:41:21 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:41:24 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:41:24 | INFO |  -> Lat: 10.7815277, Lon: 106.7056722
+2025-11-10 10:41:27 | INFO | 
+[111/178] Geocoding: Ministop -  Hoàng Văn Thụ
+2025-11-10 10:41:28 | INFO |   → Waiting for search results to load...
+2025-11-10 10:41:31 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/place/MINISTOP/@10.7959377,106.653933,17z/data=!3m1!4b1!4m6!3m5!1s0x317529e6211c83ff:0x62e20f4c6646bab7!8m2!3d10.7959324!4d106.6565079!16s%2Fg%2F11fkl8wrnn?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:41:31 | INFO |   → URL type: place
+2025-11-10 10:41:31 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:41:31 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:41:31 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:41:34 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:41:34 | INFO |  -> Lat: 10.7959324, Lon: 106.6565079
+2025-11-10 10:41:36 | INFO | 
+[112/178] Geocoding: Ministop -  Nguyễn Thái Bình 2
+2025-11-10 10:41:37 | INFO |   → Waiting for search results to load...
+2025-11-10 10:41:40 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/place/Ministop+Nguy%E1%BB%85n+Th%C3%A1i+B%C3%ACnh/@10.7680391,106.6959633,17z/data=!3m1!4b1!4m6!3m5!1s0x31752f035ebdb86b:0xcef0a3993cc93af4!8m2!3d10.7680338!4d106.6985382!16s%2Fg%2F11f5k2bwhz?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:41:40 | INFO |   → URL type: place
+2025-11-10 10:41:40 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:41:40 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:41:41 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:41:44 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:41:44 | INFO |  -> Lat: 10.7680338, Lon: 106.6985382
+2025-11-10 10:41:46 | INFO | 
+[113/178] Geocoding: Ministop -  Phổ Quang 2
+2025-11-10 10:41:47 | INFO |   → Waiting for search results to load...
+2025-11-10 10:41:50 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/search/Ministop+-++Ph%E1%BB%95+Quang+2/@10.8074116,106.66574,17z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:41:50 | INFO |   → URL type: search
+2025-11-10 10:41:50 | INFO |   → Search results page detected, clicking first result...
+2025-11-10 10:41:50 | INFO |   → Waiting for place page to load after click...
+2025-11-10 10:41:52 | INFO |   → URL after click (full):
+     https://www.google.com/maps/place/MINISTOP/@10.8074116,106.66574,17z/data=!4m10!1m2!2m1!1sMinistop+-++Ph%E1%BB%95+Quang+2!3m6!1s0x31752941bac1867b:0xc0091c3348ee3902!8m2!3d10.8084579!4d106.6702581!15sChlNaW5pc3RvcCAtICBQaOG7lSBRdWFuZyAyIgOIAQGSARFjb252ZW5pZW5jZV9zdG9yZeABAA!16s%2Fg%2F11sx50qnwg?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:41:52 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:41:52 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:41:53 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:41:56 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:41:56 | INFO |  -> Lat: 10.8084579, Lon: 106.6702581
+2025-11-10 10:41:58 | INFO | 
+[114/178] Geocoding: Ministop -  Nguyễn Văn Nguyễn
+2025-11-10 10:41:59 | INFO |   → Waiting for search results to load...
+2025-11-10 10:42:02 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/place/Ministop+Nguyen+Van+Nguyen/@10.7917241,106.6852879,17z/data=!3m1!4b1!4m6!3m5!1s0x317528d29cdf7119:0x4c9f27ff8825d038!8m2!3d10.7917188!4d106.6878628!16s%2Fg%2F11ggmgt8qj?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:42:02 | INFO |   → URL type: place
+2025-11-10 10:42:02 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:42:02 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:42:02 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:42:05 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:42:05 | INFO |  -> Lat: 10.7917188, Lon: 106.6878628
+2025-11-10 10:42:08 | INFO | 
+[115/178] Geocoding: Ministop -  Nguyễn Cảnh Chân
+2025-11-10 10:42:09 | INFO |   → Waiting for search results to load...
+2025-11-10 10:42:12 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/place/MINISTOP+Nguy%E1%BB%85n+C%E1%BA%A3nh+Ch%C3%A2n/@10.7581064,106.6859936,17z/data=!3m1!4b1!4m6!3m5!1s0x31752fa0d63f4303:0x6468aec8016a5d50!8m2!3d10.7581011!4d106.6885685!16s%2Fg%2F11gh4mb3t0?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:42:12 | INFO |   → URL type: place
+2025-11-10 10:42:12 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:42:12 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:42:12 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:42:15 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:42:16 | INFO |  -> Lat: 10.7581011, Lon: 106.6885685
+2025-11-10 10:42:18 | INFO | 
+[116/178] Geocoding: Ministop -  New City Thủ Thiêm
+2025-11-10 10:42:19 | INFO |   → Waiting for search results to load...
+2025-11-10 10:42:22 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/place/Ministop+New+City/@10.7822228,106.7335189,17z/data=!3m1!4b1!4m6!3m5!1s0x317525e34fedf0ef:0xecee2d2cbabb516c!8m2!3d10.7822175!4d106.7360938!16s%2Fg%2F11gf5s4130?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:42:22 | INFO |   → URL type: place
+2025-11-10 10:42:22 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:42:22 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:42:22 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:42:25 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:42:25 | INFO |  -> Lat: 10.7822175, Lon: 106.7360938
+2025-11-10 10:42:26 | INFO | 
+[117/178] Geocoding: Ministop -  Trần Trọng Cung
+2025-11-10 10:42:27 | INFO |   → Waiting for search results to load...
+2025-11-10 10:42:30 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/place/MINISTOP/@10.7437782,106.7293423,17z/data=!3m1!4b1!4m6!3m5!1s0x3175257883c17f19:0x8424a570432a7313!8m2!3d10.7437729!4d106.7319172!16s%2Fg%2F11f3n9_wvg?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:42:30 | INFO |   → URL type: place
+2025-11-10 10:42:30 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:42:30 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:42:31 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:42:34 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:42:34 | INFO |  -> Lat: 10.7437729, Lon: 106.7319172
+2025-11-10 10:42:35 | INFO | 
+[118/178] Geocoding: Ministop -  Suối Tiên
+2025-11-10 10:42:36 | INFO |   → Waiting for search results to load...
+2025-11-10 10:42:39 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/place/MINISTOP/@10.866065,106.799861,17z/data=!3m1!4b1!4m6!3m5!1s0x3175275971ad014d:0x39d693bae6626097!8m2!3d10.8660597!4d106.8024359!16s%2Fg%2F11h9rwsfv9?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:42:39 | INFO |   → URL type: place
+2025-11-10 10:42:39 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:42:39 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:42:40 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:42:43 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:42:43 | INFO |  -> Lat: 10.8660597, Lon: 106.8024359
+2025-11-10 10:42:45 | INFO | 
+[119/178] Geocoding: Ministop -  Thành Thái 2
+2025-11-10 10:42:46 | INFO |   → Waiting for search results to load...
+2025-11-10 10:42:49 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/search/Ministop+-++Th%C3%A0nh+Th%C3%A1i+2/@10.7721607,106.6617877,17z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:42:49 | INFO |   → URL type: search
+2025-11-10 10:42:49 | INFO |   → Search results page detected, clicking first result...
+2025-11-10 10:42:49 | INFO |   → Waiting for place page to load after click...
+2025-11-10 10:42:51 | INFO |   → URL after click (full):
+     https://www.google.com/maps/place/Ministop+CN+Th%C3%A0nh+Th%C3%A1i./@10.7749558,106.6598124,17z/data=!4m10!1m2!2m1!1sMinistop+-++Th%C3%A0nh+Th%C3%A1i+2!3m6!1s0x31752fdb6089e127:0x4aeec3df51b47bb2!8m2!3d10.7749558!4d106.6643185!15sChpNaW5pc3RvcCAtICBUaMOgbmggVGjDoWkgMiIDiAEBWhkiF21pbmlzdG9wIHRow6BuaCB0aMOhaSAykgERY29udmVuaWVuY2Vfc3RvcmXgAQA!16s%2Fg%2F11f5psjp1d?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:42:51 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:42:51 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:42:52 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:42:55 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:42:55 | INFO |  -> Lat: 10.7749558, Lon: 106.6643185
+2025-11-10 10:42:58 | INFO | 
+[120/178] Geocoding: Ministop -  Hutech 2
+2025-11-10 10:42:59 | INFO |   → Waiting for search results to load...
+2025-11-10 10:43:02 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/search/Ministop+-++Hutech+2/@10.8280088,106.7022415,13z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:43:02 | INFO |   → URL type: search
+2025-11-10 10:43:02 | INFO |   → Search results page detected, clicking first result...
+2025-11-10 10:43:02 | INFO |   → Waiting for place page to load after click...
+2025-11-10 10:43:04 | INFO |   → URL after click (full):
+     https://www.google.com/maps/place/MINISTOP+HUTECH/@10.8025372,106.6425425,13z/data=!4m10!1m2!2m1!1sMinistop+-++Hutech+2!3m6!1s0x317528a450d7cb9f:0xf65d8cc95cd2683f!8m2!3d10.8025372!4d106.7146403!15sChRNaW5pc3RvcCAtICBIdXRlY2ggMiIDiAEBWhMiEW1pbmlzdG9wIGh1dGVjaCAykgERY29udmVuaWVuY2Vfc3RvcmWaASNDaFpEU1VoTk1HOW5TMFZOZW5SeWMzWk9hR05VVmxKQkVBReABAPoBBAgAEDI!16s%2Fg%2F11c4nwfd12?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:43:04 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:43:04 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:43:04 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:43:07 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:43:07 | INFO |  -> Lat: 10.8025372, Lon: 106.7146403
+2025-11-10 10:43:09 | INFO | 
+[121/178] Geocoding: Ministop -  Nguyễn Cửu Vân
+2025-11-10 10:43:10 | INFO |   → Waiting for search results to load...
+2025-11-10 10:43:13 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/place/MINISTOP/@10.795626,106.704723,17z/data=!3m1!4b1!4m6!3m5!1s0x317528b13efc091d:0x10632743d9c26a64!8m2!3d10.7956207!4d106.7072979!16s%2Fg%2F11f2rwc162?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:43:13 | INFO |   → URL type: place
+2025-11-10 10:43:13 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:43:13 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:43:13 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:43:16 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:43:16 | INFO |  -> Lat: 10.7956207, Lon: 106.7072979
+2025-11-10 10:43:18 | INFO | 
+[122/178] Geocoding: Ministop -  Vạn Kiếp 2
+2025-11-10 10:43:19 | INFO |   → Waiting for search results to load...
+2025-11-10 10:43:22 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/search/Ministop+-++V%E1%BA%A1n+Ki%E1%BA%BFp+2/@10.8009331,106.6921551,18z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:43:22 | INFO |   → URL type: search
+2025-11-10 10:43:22 | INFO |   → Search results page detected, clicking first result...
+2025-11-10 10:43:22 | INFO |   → Waiting for place page to load after click...
+2025-11-10 10:43:24 | INFO |   → URL after click (full):
+     https://www.google.com/maps/place/MINISTOP/@10.8009331,106.6921551,18z/data=!4m10!1m2!2m1!1zTWluaXN0b3AgLSAgVuG6oW4gS2nhur9wIDI!3m6!1s0x317529fbd5603f75:0xcb7a3e635ec6f2ba!8m2!3d10.7992906!4d106.6936645!15sChpNaW5pc3RvcCAtICBW4bqhbiBLaeG6v3AgMiIDiAEBkgERY29udmVuaWVuY2Vfc3RvcmXgAQA!16s%2Fg%2F11f5k4pxjc?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:43:24 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:43:24 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:43:24 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:43:27 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:43:27 | INFO |  -> Lat: 10.7992906, Lon: 106.6936645
+2025-11-10 10:43:30 | INFO | 
+[123/178] Geocoding: Ministop -  Phú Thọ
+2025-11-10 10:43:30 | INFO |   → Waiting for search results to load...
+2025-11-10 10:43:33 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/place/Ministop/@10.7584196,106.6389945,17z/data=!3m1!4b1!4m6!3m5!1s0x31752e8fed95449f:0x96e5798e137267a1!8m2!3d10.7584143!4d106.6415694!16s%2Fg%2F11f15hw5lw?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:43:33 | INFO |   → URL type: place
+2025-11-10 10:43:33 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:43:33 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:43:34 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:43:37 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:43:37 | INFO |  -> Lat: 10.7584143, Lon: 106.6415694
+2025-11-10 10:43:38 | INFO | 
+[124/178] Geocoding: Ministop -  Đại Học Hồng Bàng
+2025-11-10 10:43:39 | INFO |   → Waiting for search results to load...
+2025-11-10 10:43:42 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/place/Ministop+Vietnam+company+limited/@10.8004351,106.7042234,17z/data=!3m1!4b1!4m6!3m5!1s0x31752f373ef3a5b1:0x569a2a75929fd426!8m2!3d10.8004298!4d106.7067983!16s%2Fg%2F11f2b70817?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:43:42 | INFO |   → URL type: place
+2025-11-10 10:43:42 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:43:42 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:43:43 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:43:46 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:43:46 | INFO |  -> Lat: 10.8004298, Lon: 106.7067983
+2025-11-10 10:43:48 | INFO | 
+[125/178] Geocoding: Ministop -  Bình Giã
+2025-11-10 10:43:49 | INFO |   → Waiting for search results to load...
+2025-11-10 10:43:52 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/place/Ministop+-+B%C3%ACnh+Gi%C3%A3/@10.8005275,106.6421452,17z/data=!3m1!4b1!4m6!3m5!1s0x3175294f1d1bff07:0xf02e34a4e07349ca!8m2!3d10.8005222!4d106.6447201!16s%2Fg%2F11f5bxhsth?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:43:52 | INFO |   → URL type: place
+2025-11-10 10:43:52 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:43:52 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:43:52 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:43:55 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:43:55 | INFO |  -> Lat: 10.8005222, Lon: 106.6447201
+2025-11-10 10:43:57 | INFO | 
+[126/178] Geocoding: Ministop -  Cao Thắng 2
+2025-11-10 10:43:57 | INFO |   → Waiting for search results to load...
+2025-11-10 10:44:00 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/search/Ministop+-++Cao+Th%E1%BA%AFng+2/@10.7741532,106.6615376,15z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:44:00 | INFO |   → URL type: search
+2025-11-10 10:44:00 | INFO |   → Search results page detected, clicking first result...
+2025-11-10 10:44:01 | INFO |   → Waiting for place page to load after click...
+2025-11-10 10:44:03 | INFO |   → URL after click (full):
+     https://www.google.com/maps/place/MINISTOP/@10.7741532,106.6615376,15z/data=!4m10!1m2!2m1!1sMinistop+-++Cao+Th%E1%BA%AFng+2!3m6!1s0x31752f355073ae65:0xdbc436666ee9034f!8m2!3d10.7748906!4d106.6756687!15sChlNaW5pc3RvcCAtICBDYW8gVGjhuq9uZyAyIgOIAQFaGCIWbWluaXN0b3AgY2FvIHRo4bqvbmcgMpIBEWNvbnZlbmllbmNlX3N0b3JlmgEjQ2haRFNVaE5NRzluUzBWSlEwRm5TVVJsTmpabVFtVlJFQUXgAQD6AQQIABAO!16s%2Fg%2F11gh7rygh2?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:44:03 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:44:03 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:44:03 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:44:06 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:44:06 | INFO |  -> Lat: 10.7748906, Lon: 106.6756687
+2025-11-10 10:44:08 | INFO | 
+[127/178] Geocoding: Ministop -  Nguyễn Trọng Tuyển 2
+2025-11-10 10:44:09 | INFO |   → Waiting for search results to load...
+2025-11-10 10:44:12 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/search/Ministop+-++Nguy%E1%BB%85n+Tr%E1%BB%8Dng+Tuy%E1%BB%83n+2/@10.7977299,106.6686008,16z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:44:12 | INFO |   → URL type: search
+2025-11-10 10:44:12 | INFO |   → Search results page detected, clicking first result...
+2025-11-10 10:44:12 | INFO |   → Waiting for place page to load after click...
+2025-11-10 10:44:14 | INFO |   → URL after click (full):
+     https://www.google.com/maps/place/MINISTOP/@10.7977299,106.6686008,16z/data=!4m10!1m2!2m1!1zTWluaXN0b3AgLSAgTmd1eeG7hW4gVHLhu41uZyBUdXnhu4NuIDI!3m6!1s0x317528d6ed138855:0x7830bf62c32124c2!8m2!3d10.7971661!4d106.6799951!15sCiZNaW5pc3RvcCAtICBOZ3V54buFbiBUcuG7jW5nIFR1eeG7g24gMiIDiAEBWiUiI21pbmlzdG9wIG5ndXnhu4VuIHRy4buNbmcgdHV54buDbiAykgERY29udmVuaWVuY2Vfc3RvcmXgAQA!16s%2Fg%2F11f03ssw88?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:44:14 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:44:14 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:44:15 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:44:18 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:44:18 | INFO |  -> Lat: 10.7971661, Lon: 106.6799951
+2025-11-10 10:44:20 | INFO | 
+[128/178] Geocoding: Ministop -  Thích Quảng Đức
+2025-11-10 10:44:21 | INFO |   → Waiting for search results to load...
+2025-11-10 10:44:24 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/place/Ministop/@10.8056182,106.6791831,17z/data=!3m1!4b1!4m6!3m5!1s0x317528d95bcf658d:0x1827e2d1cb9e6cc4!8m2!3d10.8056129!4d106.681758!16s%2Fg%2F11h9zgpv4_?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:44:24 | INFO |   → URL type: place
+2025-11-10 10:44:24 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:44:24 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:44:25 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:44:28 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:44:28 | INFO |  -> Lat: 10.8056129, Lon: 106.681758
+2025-11-10 10:44:29 | INFO | 
+[129/178] Geocoding: Ministop -  Ung Văn Khiêm
+2025-11-10 10:44:30 | INFO |   → Waiting for search results to load...
+2025-11-10 10:44:33 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/place/MINISTOP/@10.8099458,106.7123391,17z/data=!3m1!4b1!4m6!3m5!1s0x31752965c338adcb:0xf4a95584f7e67a9d!8m2!3d10.8099405!4d106.714914!16s%2Fg%2F11ghfpq22z?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:44:33 | INFO |   → URL type: place
+2025-11-10 10:44:33 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:44:33 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:44:33 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:44:36 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:44:36 | INFO |  -> Lat: 10.8099405, Lon: 106.714914
+2025-11-10 10:44:38 | INFO | 
+[130/178] Geocoding: Ministop -  Hoàng Diệu
+2025-11-10 10:44:39 | INFO |   → Waiting for search results to load...
+2025-11-10 10:44:42 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/search/Ministop+-++Ho%C3%A0ng+Di%E1%BB%87u/@10.8103293,106.6918084,13z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:44:42 | INFO |   → URL type: search
+2025-11-10 10:44:42 | INFO |   → Search results page detected, clicking first result...
+2025-11-10 10:44:42 | INFO |   → Waiting for place page to load after click...
+2025-11-10 10:44:44 | INFO |   → URL after click (full):
+     https://www.google.com/maps/place/MINI+STOP/@10.8103293,106.6918084,13z/data=!4m10!1m2!2m1!1zTWluaXN0b3AgLSAgSG_DoG5nIERp4buHdQ!3m6!1s0x317527a3aab4bbb7:0x6c6be78465fa5bad!8m2!3d10.8578065!4d106.7633672!15sChlNaW5pc3RvcCAtICBIb8OgbmcgRGnhu4d1IgOIAQFaGCIWbWluaXN0b3AgaG_DoG5nIGRp4buHdZIBEWNvbnZlbmllbmNlX3N0b3Jl4AEA!16s%2Fg%2F11j48glwqk?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:44:44 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:44:44 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:44:44 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:44:47 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:44:48 | INFO |  -> Lat: 10.8578065, Lon: 106.7633672
+2025-11-10 10:44:50 | INFO | 
+[131/178] Geocoding: Ministop -  Bệnh Viện Nhi Đồng 1 Khu Ngoại Trú
+2025-11-10 10:44:51 | INFO |   → Waiting for search results to load...
+2025-11-10 10:44:54 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/search/Ministop+-++B%E1%BB%87nh+Vi%E1%BB%87n+Nhi+%C4%90%E1%BB%93ng+1+Khu+Ngo%E1%BA%A1i+Tr%C3%BA/@10.7794818,106.6584262,14z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:44:54 | INFO |   → URL type: search
+2025-11-10 10:44:54 | INFO |   → Search results page detected, clicking first result...
+2025-11-10 10:44:54 | INFO |   → Waiting for place page to load after click...
+2025-11-10 10:44:56 | INFO |   → URL after click (full):
+     https://www.google.com/maps/place/Children%E2%80%99s+Hospital+1/@10.7691262,106.6349632,14z/data=!4m10!1m2!2m1!1zTWluaXN0b3AgLSAgQuG7h25oIFZp4buHbiBOaGkgxJDhu5NuZyAxIEtodSBOZ2_huqFpIFRyw7o!3m6!1s0x31752ede1ad51af1:0x520c34a578581e8!8m2!3d10.7691262!4d106.6710121!15sCjhNaW5pc3RvcCAtICBC4buHbmggVmnhu4duIE5oaSDEkOG7k25nIDEgS2h1IE5nb-G6oWkgVHLDuiIDiAEBWjciNW1pbmlzdG9wIGLhu4duaCB2aeG7h24gbmhpIMSR4buTbmcgMSBraHUgbmdv4bqhaSB0csO6kgESY2hpbGRyZW5zX2hvc3BpdGFsmgEjQ2haRFNVaE5NRzluUzBWSlEwRm5TVVF0ZWtzemVtRkJFQUXgAQD6AQUIhAEQQQ!16s%2Fg%2F1tggl3ty?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:44:56 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:44:56 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:44:56 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:44:59 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:44:59 | INFO |  -> Lat: 10.7691262, Lon: 106.6710121
+2025-11-10 10:45:01 | INFO | 
+[132/178] Geocoding: Ministop -  Masteri Thảo Điền
+2025-11-10 10:45:02 | INFO |   → Waiting for search results to load...
+2025-11-10 10:45:05 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/search/Ministop+-++Masteri+Th%E1%BA%A3o+%C4%90i%E1%BB%81n/@10.8044732,106.7313625,16z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:45:05 | INFO |   → URL type: search
+2025-11-10 10:45:05 | INFO |   → Search results page detected, clicking first result...
+2025-11-10 10:45:05 | INFO |   → Waiting for place page to load after click...
+2025-11-10 10:45:07 | INFO |   → URL after click (full):
+     https://www.google.com/maps/place/Ministop/@10.8044732,106.7313625,16z/data=!4m10!1m2!2m1!1zTWluaXN0b3AgLSAgTWFzdGVyaSBUaOG6o28gxJBp4buBbg!3m6!1s0x3175270034743f85:0x5e713213f91f5ce4!8m2!3d10.8028279!4d106.7419312!15sCiJNaW5pc3RvcCAtICBNYXN0ZXJpIFRo4bqjbyDEkGnhu4FuIgOIAQFaISIfbWluaXN0b3AgbWFzdGVyaSB0aOG6o28gxJFp4buBbpIBEWNvbnZlbmllbmNlX3N0b3JlmgFEQ2k5RFFVbFJRVU52WkVOb2RIbGpSamx2VDIxYVpsTnFaRnBoVlRGTVQxUlNkbU5IZUVsUFZVWlpUMFZXWmxac1JSQULgAQD6AQQIABAn!16s%2Fg%2F11x7pptdj9?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:45:07 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:45:07 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:45:07 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:45:10 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:45:10 | INFO |  -> Lat: 10.8028279, Lon: 106.7419312
+2025-11-10 10:45:13 | INFO | 
+[133/178] Geocoding: Ministop -  Bành Văn Trân
+2025-11-10 10:45:14 | INFO |   → Waiting for search results to load...
+2025-11-10 10:45:17 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/place/MINISTOP/@10.7885781,106.6539611,17z/data=!3m1!4b1!4m6!3m5!1s0x31752ecba5e127d5:0x80ef701978196e72!8m2!3d10.7885728!4d106.656536!16s%2Fg%2F11f0866pgn?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:45:17 | INFO |   → URL type: place
+2025-11-10 10:45:17 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:45:17 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:45:17 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:45:20 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:45:20 | INFO |  -> Lat: 10.7885728, Lon: 106.656536
+2025-11-10 10:45:23 | INFO | 
+[134/178] Geocoding: Ministop -  Nguyễn Lâm
+2025-11-10 10:45:24 | INFO |   → Waiting for search results to load...
+2025-11-10 10:45:27 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/place/MINISTOP/@10.7636817,106.6608684,17z/data=!3m1!4b1!4m6!3m5!1s0x31752eef4c418ebb:0xaed6636c33062029!8m2!3d10.7636764!4d106.6634433!16s%2Fg%2F11f_p2x8f0?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:45:27 | INFO |   → URL type: place
+2025-11-10 10:45:27 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:45:27 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:45:27 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:45:30 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:45:30 | INFO |  -> Lat: 10.7636764, Lon: 106.6634433
+2025-11-10 10:45:33 | INFO | 
+[135/178] Geocoding: Ministop -  Thành Thái
+2025-11-10 10:45:34 | INFO |   → Waiting for search results to load...
+2025-11-10 10:45:37 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/search/Ministop+-++Th%C3%A0nh+Th%C3%A1i/@10.7721607,106.6617877,17z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:45:37 | INFO |   → URL type: search
+2025-11-10 10:45:37 | INFO |   → Search results page detected, clicking first result...
+2025-11-10 10:45:37 | INFO |   → Waiting for place page to load after click...
+2025-11-10 10:45:39 | INFO |   → URL after click (full):
+     https://www.google.com/maps/place/Ministop+CN+Th%C3%A0nh+Th%C3%A1i./@10.7749558,106.6598124,17z/data=!4m10!1m2!2m1!1sMinistop+-++Th%C3%A0nh+Th%C3%A1i!3m6!1s0x31752fdb6089e127:0x4aeec3df51b47bb2!8m2!3d10.7749558!4d106.6643185!15sChhNaW5pc3RvcCAtICBUaMOgbmggVGjDoWkiA4gBAVoXIhVtaW5pc3RvcCB0aMOgbmggdGjDoWmSARFjb252ZW5pZW5jZV9zdG9yZeABAA!16s%2Fg%2F11f5psjp1d?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:45:39 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:45:39 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:45:40 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:45:43 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:45:43 | INFO |  -> Lat: 10.7749558, Lon: 106.6643185
+2025-11-10 10:45:45 | INFO | 
+[136/178] Geocoding: Ministop -  Lý Nam Đế
+2025-11-10 10:45:45 | INFO |   → Waiting for search results to load...
+2025-11-10 10:45:48 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/place/Ministop+L%C3%BD+Nam+%C4%90%E1%BA%BF/@10.760906,106.6569385,17z/data=!3m1!4b1!4m6!3m5!1s0x31752eee6509f737:0xdec9428921968aca!8m2!3d10.7609007!4d106.6595134!16s%2Fg%2F11f57whf9y?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:45:48 | INFO |   → URL type: place
+2025-11-10 10:45:48 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:45:48 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:45:49 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:45:52 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:45:52 | INFO |  -> Lat: 10.7609007, Lon: 106.6595134
+2025-11-10 10:45:53 | INFO | 
+[137/178] Geocoding: Ministop -  Nguyễn Thiện Thuật 2
+2025-11-10 10:45:54 | INFO |   → Waiting for search results to load...
+2025-11-10 10:45:57 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/search/Ministop+-++Nguy%E1%BB%85n+Thi%E1%BB%87n+Thu%E1%BA%ADt+2/@10.7672891,106.6782017,17z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:45:57 | INFO |   → URL type: search
+2025-11-10 10:45:57 | INFO |   → Search results page detected, clicking first result...
+2025-11-10 10:45:57 | INFO |   → Waiting for place page to load after click...
+2025-11-10 10:45:59 | INFO |   → URL after click (full):
+     https://www.google.com/maps/place/MINISTOP/@10.7681728,106.6753271,17z/data=!4m10!1m2!2m1!1zTWluaXN0b3AgLSAgTmd1eeG7hW4gVGhp4buHbiBUaHXhuq10IDI!3m6!1s0x31752f1f7b7d42cb:0x59a8f834ba1d94f7!8m2!3d10.7681728!4d106.6798332!15sCiZNaW5pc3RvcCAtICBOZ3V54buFbiBUaGnhu4duIFRodeG6rXQgMiIDiAEBWiUiI21pbmlzdG9wIG5ndXnhu4VuIHRoaeG7h24gdGh14bqtdCAykgERY29udmVuaWVuY2Vfc3RvcmXgAQA!16s%2Fg%2F11fxd_vj4s?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:45:59 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:45:59 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:46:00 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:46:03 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:46:03 | INFO |  -> Lat: 10.7681728, Lon: 106.6798332
+2025-11-10 10:46:04 | INFO | 
+[138/178] Geocoding: Ministop -  Trần Nhân Tôn
+2025-11-10 10:46:05 | INFO |   → Waiting for search results to load...
+2025-11-10 10:46:08 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/place/MINISTOP/@10.7631363,106.6719741,17z/data=!3m1!4b1!4m6!3m5!1s0x31752ee22132f107:0xc637321cb7646f4d!8m2!3d10.763131!4d106.674549!16s%2Fg%2F11gdggtmjm?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:46:08 | INFO |   → URL type: place
+2025-11-10 10:46:08 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:46:08 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:46:09 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:46:12 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:46:12 | INFO |  -> Lat: 10.763131, Lon: 106.674549
+2025-11-10 10:46:13 | INFO | 
+[139/178] Geocoding: Ministop -  Bùi Đình Túy
+2025-11-10 10:46:14 | INFO |   → Waiting for search results to load...
+2025-11-10 10:46:17 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/search/Ministop+-++B%C3%B9i+%C4%90%C3%ACnh+T%C3%BAy/@10.8078102,106.7009507,17z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:46:17 | INFO |   → URL type: search
+2025-11-10 10:46:17 | INFO |   → Search results page detected, clicking first result...
+2025-11-10 10:46:18 | INFO |   → Waiting for place page to load after click...
+2025-11-10 10:46:20 | INFO |   → URL after click (full):
+     https://www.google.com/maps/place/Ministop/@10.8075409,106.6971549,17z/data=!4m10!1m2!2m1!1zTWluaXN0b3AgLSAgQsO5aSDEkMOsbmggVMO6eQ!3m6!1s0x317528bf0dc25777:0x265855396e6251a5!8m2!3d10.8075409!4d106.701661!15sChxNaW5pc3RvcCAtICBCw7lpIMSQw6xuaCBUw7p5IgOIAQFaGyIZbWluaXN0b3AgYsO5aSDEkcOsbmggdMO6eZIBEWNvbnZlbmllbmNlX3N0b3Jl4AEA!16s%2Fg%2F11fyls00d5?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:46:20 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:46:20 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:46:20 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:46:23 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:46:23 | INFO |  -> Lat: 10.8075409, Lon: 106.701661
+2025-11-10 10:46:25 | INFO | 
+[140/178] Geocoding: Ministop -  Đinh Bộ Lĩnh
+2025-11-10 10:46:26 | INFO |   → Waiting for search results to load...
+2025-11-10 10:46:29 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/place/MINISTOP/@10.8093006,106.7065115,17z/data=!3m1!4b1!4m6!3m5!1s0x31752897cc352d4b:0xe60b318d7c4da837!8m2!3d10.8092953!4d106.7090864!16s%2Fg%2F11c60063kk?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:46:29 | INFO |   → URL type: place
+2025-11-10 10:46:29 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:46:29 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:46:30 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:46:33 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:46:33 | INFO |  -> Lat: 10.8092953, Lon: 106.7090864
+2025-11-10 10:46:34 | INFO | 
+[141/178] Geocoding: Ministop -  Vũ Tông Phan
+2025-11-10 10:46:35 | INFO |   → Waiting for search results to load...
+2025-11-10 10:46:38 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/place/Ministop+Vu+Tong+Phan/@10.7978187,106.7402744,17z/data=!3m1!4b1!4m6!3m5!1s0x3175261275f934bd:0xf84c37ce15bb39d!8m2!3d10.7978134!4d106.7428493!16s%2Fg%2F11csr6xmsg?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:46:38 | INFO |   → URL type: place
+2025-11-10 10:46:38 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:46:38 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:46:39 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:46:42 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:46:42 | INFO |  -> Lat: 10.7978134, Lon: 106.7428493
+2025-11-10 10:46:44 | INFO | 
+[142/178] Geocoding: Ministop -  Bình Thới
+2025-11-10 10:46:45 | INFO |   → Waiting for search results to load...
+2025-11-10 10:46:48 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/place/MINISTOP/@10.7676037,106.6471226,17z/data=!3m1!4b1!4m6!3m5!1s0x31752e95aa6ffffd:0x726dda7e0fb9ee13!8m2!3d10.7675984!4d106.6496975!16s%2Fg%2F11c6lbp7p_?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:46:48 | INFO |   → URL type: place
+2025-11-10 10:46:48 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:46:48 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:46:49 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:46:52 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:46:52 | INFO |  -> Lat: 10.7675984, Lon: 106.6496975
+2025-11-10 10:46:54 | INFO | 
+[143/178] Geocoding: Ministop -  Hoàng Hoa Thám 2
+2025-11-10 10:46:55 | INFO |   → Waiting for search results to load...
+2025-11-10 10:46:58 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/search/Ministop+-++Ho%C3%A0ng+Hoa+Th%C3%A1m+2/@10.8010608,106.6489079,14z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:46:58 | INFO |   → URL type: search
+2025-11-10 10:46:58 | INFO |   → Search results page detected, clicking first result...
+2025-11-10 10:46:58 | INFO |   → Waiting for place page to load after click...
+2025-11-10 10:47:00 | INFO |   → URL after click (full):
+     https://www.google.com/maps/place/MINISTOP/@10.8010608,106.6489079,14z/data=!4m10!1m2!2m1!1sMinistop+-++Ho%C3%A0ng+Hoa+Th%C3%A1m+2!3m6!1s0x317528c467f81b55:0xa0c0e32a7fb95e48!8m2!3d10.8047072!4d106.6918625!15sCh5NaW5pc3RvcCAtICBIb8OgbmcgSG9hIFRow6FtIDIiA4gBAZIBEWNvbnZlbmllbmNlX3N0b3Jl4AEA!16s%2Fg%2F11btrs3q_0?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:47:00 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:47:00 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:47:01 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:47:04 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:47:04 | INFO |  -> Lat: 10.8047072, Lon: 106.6918625
+2025-11-10 10:47:07 | INFO | 
+[144/178] Geocoding: Ministop -  Trần Quý Cáp
+2025-11-10 10:47:07 | INFO |   → Waiting for search results to load...
+2025-11-10 10:47:10 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/place/Ministop/@10.8155825,106.6927779,17z/data=!3m1!4b1!4m6!3m5!1s0x317528ebeb79e5b3:0x6db724724cf5df80!8m2!3d10.8155772!4d106.6953528!16s%2Fg%2F11g027y9_z?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:47:10 | INFO |   → URL type: place
+2025-11-10 10:47:10 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:47:10 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:47:11 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:47:14 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:47:14 | INFO |  -> Lat: 10.8155772, Lon: 106.6953528
+2025-11-10 10:47:17 | INFO | 
+[145/178] Geocoding: Ministop -  Sư Vạn Hạnh
+2025-11-10 10:47:18 | INFO |   → Waiting for search results to load...
+2025-11-10 10:47:21 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/search/Ministop+-++S%C6%B0+V%E1%BA%A1n+H%E1%BA%A1nh/@10.7705782,106.6672848,17z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:47:21 | INFO |   → URL type: search
+2025-11-10 10:47:21 | INFO |   → Search results page detected, clicking first result...
+2025-11-10 10:47:21 | INFO |   → Waiting for place page to load after click...
+2025-11-10 10:47:23 | INFO |   → URL after click (full):
+     https://www.google.com/maps/place/MINISTOP/@10.7727332,106.66445,17z/data=!4m10!1m2!2m1!1zTWluaXN0b3AgLSAgU8awIFbhuqFuIEjhuqFuaA!3m6!1s0x31752edc38f507a9:0x37fcd8802da0542a!8m2!3d10.7727332!4d106.6689561!15sChxNaW5pc3RvcCAtICBTxrAgVuG6oW4gSOG6oW5oIgOIAQFaGyIZbWluaXN0b3Agc8awIHbhuqFuIGjhuqFuaJIBEWNvbnZlbmllbmNlX3N0b3Jl4AEA!16s%2Fg%2F11c2k_sz7b?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:47:23 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:47:23 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:47:23 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:47:26 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:47:26 | INFO |  -> Lat: 10.7727332, Lon: 106.6689561
+2025-11-10 10:47:28 | INFO | 
+[146/178] Geocoding: Ministop -  Trần Quốc Toản
+2025-11-10 10:47:29 | INFO |   → Waiting for search results to load...
+2025-11-10 10:47:32 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/place/MINISTOP/@10.7880953,106.6862241,17z/data=!3m1!4b1!4m6!3m5!1s0x31752f3299feb5b3:0xe084d7b4ee205d1a!8m2!3d10.78809!4d106.688799!16s%2Fg%2F11cs2h8csp?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:47:32 | INFO |   → URL type: place
+2025-11-10 10:47:32 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:47:32 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:47:33 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:47:36 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:47:36 | INFO |  -> Lat: 10.78809, Lon: 106.688799
+2025-11-10 10:47:39 | INFO | 
+[147/178] Geocoding: Ministop -  Khu cư xá Bình Thới
+2025-11-10 10:47:39 | INFO |   → Waiting for search results to load...
+2025-11-10 10:47:42 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/place/MINISTOP/@10.7617588,106.6457778,17z/data=!3m1!4b1!4m6!3m5!1s0x31752e924a10bc49:0x969ce52c43ac1aa!8m2!3d10.7617535!4d106.6483527!16s%2Fg%2F11g0209c1y?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:47:42 | INFO |   → URL type: place
+2025-11-10 10:47:42 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:47:42 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:47:43 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:47:46 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:47:46 | INFO |  -> Lat: 10.7617535, Lon: 106.6483527
+2025-11-10 10:47:48 | INFO | 
+[148/178] Geocoding: Ministop -  Nguyễn Du
+2025-11-10 10:47:49 | INFO |   → Waiting for search results to load...
+2025-11-10 10:47:52 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/place/MINISTOP/@11.108352,106.7220992,12z/data=!4m6!3m5!1s0x317528fa5a0e254f:0xc6c52c15dd7f6a69!8m2!3d10.8257653!4d106.6858293!16s%2Fg%2F11c533_126?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:47:52 | INFO |   → URL type: place
+2025-11-10 10:47:52 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:47:52 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:47:53 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:47:56 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:47:56 | INFO |  -> Lat: 10.8257653, Lon: 106.6858293
+2025-11-10 10:47:57 | INFO | 
+[149/178] Geocoding: Ministop -  Xóm Chiếu
+2025-11-10 10:47:58 | INFO |   → Waiting for search results to load...
+2025-11-10 10:48:01 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/place/MINISTOP+-+X%C3%B3m+Chi%E1%BA%BFu/@10.7553503,106.7070591,17z/data=!3m1!4b1!4m6!3m5!1s0x31752f4a56d68ae7:0xd3851d5f9536972c!8m2!3d10.755345!4d106.709634!16s%2Fg%2F11y21kkkpt?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:48:01 | INFO |   → URL type: place
+2025-11-10 10:48:01 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:48:01 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:48:01 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:48:04 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:48:04 | INFO |  -> Lat: 10.755345, Lon: 106.709634
+2025-11-10 10:48:07 | INFO | 
+[150/178] Geocoding: Ministop -  Lê Quang Định
+2025-11-10 10:48:08 | INFO |   → Waiting for search results to load...
+2025-11-10 10:48:11 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/search/Ministop+-++L%C3%AA+Quang+%C4%90%E1%BB%8Bnh/@10.810326,106.6881509,16z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:48:11 | INFO |   → URL type: search
+2025-11-10 10:48:11 | INFO |   → Search results page detected, clicking first result...
+2025-11-10 10:48:11 | INFO |   → Waiting for place page to load after click...
+2025-11-10 10:48:13 | INFO |   → URL after click (full):
+     https://www.google.com/maps/place/MINISTOP/@10.8142932,106.6807349,16z/data=!4m10!1m2!2m1!1zTWluaXN0b3AgLSAgTMOqIFF1YW5nIMSQ4buLbmg!3m6!1s0x317528e85f757187:0xb16fd146e3121940!8m2!3d10.8142932!4d106.6897471!15sCh1NaW5pc3RvcCAtICBMw6ogUXVhbmcgxJDhu4tuaCIDiAEBkgERY29udmVuaWVuY2Vfc3RvcmXgAQA!16s%2Fg%2F11cs16zn7w?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:48:13 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:48:13 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:48:13 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:48:16 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:48:16 | INFO |  -> Lat: 10.8142932, Lon: 106.6897471
+2025-11-10 10:48:18 | INFO | 
+[151/178] Geocoding: Ministop -  Trần Đình Xu
+2025-11-10 10:48:19 | INFO |   → Waiting for search results to load...
+2025-11-10 10:48:22 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/place/MINISTOP+-+Tr%E1%BA%A7n+%C4%90%C3%ACnh+Xu/@10.7621663,106.6866191,17z/data=!3m1!4b1!4m6!3m5!1s0x31752f10b726059d:0x28f131b567e63f1c!8m2!3d10.762161!4d106.689194!16s%2Fg%2F11c2lk7cq_?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:48:22 | INFO |   → URL type: place
+2025-11-10 10:48:22 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:48:22 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:48:23 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:48:26 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:48:26 | INFO |  -> Lat: 10.762161, Lon: 106.689194
+2025-11-10 10:48:27 | INFO | 
+[152/178] Geocoding: Ministop -   KTX Đại Học Quốc Gia (Khu A)
+2025-11-10 10:48:28 | INFO |   → Waiting for search results to load...
+2025-11-10 10:48:31 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/search/Ministop+-+++KTX+%C4%90%E1%BA%A1i+H%E1%BB%8Dc+Qu%E1%BB%91c+Gia+(Khu+A)/@11.1090039,106.4748376,10z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:48:31 | INFO |   → URL type: search
+2025-11-10 10:48:31 | INFO |   → Search results page detected, clicking first result...
+2025-11-10 10:48:31 | INFO |   → Waiting for place page to load after click...
+2025-11-10 10:48:33 | INFO |   → URL after click (full):
+     https://www.google.com/maps/place/HCMC+National+University+Dormitory+Zone+A/@10.8782463,106.2295083,10z/data=!4m10!1m2!2m1!1zTWluaXN0b3AgLSAgIEtUWCDEkOG6oWkgSOG7jWMgUXXhu5FjIEdpYSAoS2h1IEEp!3m6!1s0x3174d8a5f4e477e9:0x29d5aeb365cee20b!8m2!3d10.8782463!4d106.8062905!15sCjBNaW5pc3RvcCAtICAgS1RYIMSQ4bqhaSBI4buNYyBRdeG7kWMgR2lhIChLaHUgQSkiA4gBAVosIiptaW5pc3RvcCBrdHggxJHhuqFpIGjhu41jIHF14buRYyBnaWEga2h1IGGSARFzdHVkZW50X2Rvcm1pdG9yeZoBI0NoWkRTVWhOTUc5blMwVkpRMEZuU1VOMWEwbHhhRkpuRUFF4AEA-gEECAAQIw!16s%2Fg%2F1tncqcyc?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:48:33 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:48:33 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:48:33 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:48:36 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:48:36 | INFO |  -> Lat: 10.8782463, Lon: 106.8062905
+2025-11-10 10:48:38 | INFO | 
+[153/178] Geocoding: Ministop -  Hoa Sứ
+2025-11-10 10:48:39 | INFO |   → Waiting for search results to load...
+2025-11-10 10:48:42 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/place/MINISTOP/@10.7999348,106.6863131,17z/data=!3m1!4b1!4m6!3m5!1s0x317528cfefc2fd41:0x85ab313e0fe688a8!8m2!3d10.7999295!4d106.688888!16s%2Fg%2F11c1tz0dlx?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:48:42 | INFO |   → URL type: place
+2025-11-10 10:48:42 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:48:42 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:48:43 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:48:46 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:48:46 | INFO |  -> Lat: 10.7999295, Lon: 106.688888
+2025-11-10 10:48:47 | INFO | 
+[154/178] Geocoding: Ministop -  Nam Kỳ Khởi Nghĩa
+2025-11-10 10:48:48 | INFO |   → Waiting for search results to load...
+2025-11-10 10:48:51 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/place/Ministop+Nam+K%E1%BB%B3+Kh%E1%BB%9Fi+Ngh%C4%A9a/@10.7723788,106.6978513,17z/data=!3m1!4b1!4m6!3m5!1s0x31752f40ae8ab241:0xc19751f218efa750!8m2!3d10.7723735!4d106.7004262!16s%2Fg%2F11c1ncvy9q?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:48:51 | INFO |   → URL type: place
+2025-11-10 10:48:51 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:48:51 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:48:51 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:48:54 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:48:54 | INFO |  -> Lat: 10.7723735, Lon: 106.7004262
+2025-11-10 10:48:57 | INFO | 
+[155/178] Geocoding: Ministop -  Vũ Huy Tấn
+2025-11-10 10:48:58 | INFO |   → Waiting for search results to load...
+2025-11-10 10:49:01 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/place/Ministop/@10.7957943,106.6916922,17z/data=!3m1!4b1!4m6!3m5!1s0x317528c94e59e51b:0x8c16578afdbd48be!8m2!3d10.795789!4d106.6942671!16s%2Fg%2F11cm0x2bds?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:49:01 | INFO |   → URL type: place
+2025-11-10 10:49:01 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:49:01 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:49:01 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:49:04 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:49:04 | INFO |  -> Lat: 10.795789, Lon: 106.6942671
+2025-11-10 10:49:06 | INFO | 
+[156/178] Geocoding: Ministop -  Đào Duy Từ
+2025-11-10 10:49:07 | INFO |   → Waiting for search results to load...
+2025-11-10 10:49:10 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/place/MINISTOP+-+%C4%90%C3%A0o+Duy+T%E1%BB%AB/@10.7606132,106.6655058,17z/data=!3m1!4b1!4m6!3m5!1s0x31752ee4fa3d3fa7:0x3cf2e9daee10a139!8m2!3d10.7606079!4d106.6680807!16s%2Fg%2F11c55j96w0?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:49:10 | INFO |   → URL type: place
+2025-11-10 10:49:10 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:49:10 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:49:11 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:49:14 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:49:14 | INFO |  -> Lat: 10.7606079, Lon: 106.6680807
+2025-11-10 10:49:15 | INFO | 
+[157/178] Geocoding: Ministop -  Nguyễn Trọng Tuyển
+2025-11-10 10:49:17 | INFO |   → Waiting for search results to load...
+2025-11-10 10:49:20 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/search/Ministop+-++Nguy%E1%BB%85n+Tr%E1%BB%8Dng+Tuy%E1%BB%83n/@10.7977299,106.6686008,16z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:49:20 | INFO |   → URL type: search
+2025-11-10 10:49:20 | INFO |   → Search results page detected, clicking first result...
+2025-11-10 10:49:20 | INFO |   → Waiting for place page to load after click...
+2025-11-10 10:49:22 | INFO |   → URL after click (full):
+     https://www.google.com/maps/place/MINISTOP/@10.7977299,106.6686008,16z/data=!4m10!1m2!2m1!1zTWluaXN0b3AgLSAgTmd1eeG7hW4gVHLhu41uZyBUdXnhu4Nu!3m6!1s0x317528d6ed138855:0x7830bf62c32124c2!8m2!3d10.7971661!4d106.6799951!15sCiRNaW5pc3RvcCAtICBOZ3V54buFbiBUcuG7jW5nIFR1eeG7g24iA4gBAVojIiFtaW5pc3RvcCBuZ3V54buFbiB0cuG7jW5nIHR1eeG7g26SARFjb252ZW5pZW5jZV9zdG9yZeABAA!16s%2Fg%2F11f03ssw88?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:49:22 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:49:22 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:49:22 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:49:25 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:49:25 | INFO |  -> Lat: 10.7971661, Lon: 106.6799951
+2025-11-10 10:49:28 | INFO | 
+[158/178] Geocoding: Ministop -  Vườn Lài
+2025-11-10 10:49:29 | INFO |   → Waiting for search results to load...
+2025-11-10 10:49:32 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/place/MINISTOP+-+V%C6%B0%E1%BB%9Dn+L%C3%A0i/@10.7878457,106.6309805,17z/data=!3m1!4b1!4m6!3m5!1s0x31752eabe7858d9b:0xff6810d747e66634!8m2!3d10.7878404!4d106.6335554!16s%2Fg%2F11crzwdzw6?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:49:32 | INFO |   → URL type: place
+2025-11-10 10:49:32 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:49:32 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:49:33 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:49:36 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:49:36 | INFO |  -> Lat: 10.7878404, Lon: 106.6335554
+2025-11-10 10:49:38 | INFO | 
+[159/178] Geocoding: Ministop -  Thăng Long
+2025-11-10 10:49:39 | INFO |   → Waiting for search results to load...
+2025-11-10 10:49:42 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/place/MINISTOP+-+Th%C4%83ng+Long/@10.8023021,106.6578496,17z/data=!3m1!4b1!4m6!3m5!1s0x3175293a75c2e4af:0xc3d10960b1db2d8f!8m2!3d10.8022968!4d106.6604245!16s%2Fg%2F11c1r7gcxt?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:49:42 | INFO |   → URL type: place
+2025-11-10 10:49:42 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:49:42 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:49:42 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:49:45 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:49:45 | INFO |  -> Lat: 10.8022968, Lon: 106.6604245
+2025-11-10 10:49:48 | INFO | 
+[160/178] Geocoding: Ministop -  Nguyễn Gia Trí
+2025-11-10 10:49:49 | INFO |   → Waiting for search results to load...
+2025-11-10 10:49:52 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/place/Ministop+Vo+Oanh/@10.8043926,106.7134517,17z/data=!3m1!4b1!4m6!3m5!1s0x317529acfbdb1863:0xa9a8653f253d6af6!8m2!3d10.8043873!4d106.7160266!16s%2Fg%2F11t7dw7kc9?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:49:52 | INFO |   → URL type: place
+2025-11-10 10:49:52 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:49:52 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:49:52 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:49:55 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:49:55 | INFO |  -> Lat: 10.8043873, Lon: 106.7160266
+2025-11-10 10:49:58 | INFO | 
+[161/178] Geocoding: Ministop -  Trần Khắc Chân
+2025-11-10 10:49:58 | INFO |   → Waiting for search results to load...
+2025-11-10 10:50:01 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/place/MINISTOP+-+Tr%E1%BA%A7n+Kh%E1%BA%AFc+Ch%C3%A2n/@10.7944532,106.6883116,17z/data=!3m1!4b1!4m6!3m5!1s0x317528cdcd673b07:0xa74bdd01cc537b69!8m2!3d10.7944479!4d106.6908865!16s%2Fg%2F11c187w8sh?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:50:01 | INFO |   → URL type: place
+2025-11-10 10:50:01 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:50:01 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:50:02 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:50:05 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:50:05 | INFO |  -> Lat: 10.7944479, Lon: 106.6908865
+2025-11-10 10:50:06 | INFO | 
+[162/178] Geocoding: Ministop -  Phạm Văn Hai
+2025-11-10 10:50:07 | INFO |   → Waiting for search results to load...
+2025-11-10 10:50:10 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/place/MINISTOP/@10.7912591,106.6592374,17z/data=!3m1!4b1!4m6!3m5!1s0x31752932d4caaa59:0x25aea94eb7fc902f!8m2!3d10.7912538!4d106.6618123!16s%2Fg%2F11c135dmy_?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:50:10 | INFO |   → URL type: place
+2025-11-10 10:50:10 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:50:10 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:50:10 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:50:13 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:50:13 | INFO |  -> Lat: 10.7912538, Lon: 106.6618123
+2025-11-10 10:50:16 | INFO | 
+[163/178] Geocoding: Ministop -  Nguyễn Biểu
+2025-11-10 10:50:16 | INFO |   → Waiting for search results to load...
+2025-11-10 10:50:19 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/place/MINISTOP+-+Nguy%E1%BB%85n+Bi%E1%BB%83u/@10.7572484,106.6805535,17z/data=!3m1!4b1!4m6!3m5!1s0x31752f8ecdbd49f9:0x63fb6ab00ed6c2a1!8m2!3d10.7572431!4d106.6831284!16s%2Fg%2F11sjp81cf0?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:50:19 | INFO |   → URL type: place
+2025-11-10 10:50:19 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:50:19 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:50:20 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:50:23 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:50:23 | INFO |  -> Lat: 10.7572431, Lon: 106.6831284
+2025-11-10 10:50:25 | INFO | 
+[164/178] Geocoding: Ministop -  Trương Công Định
+2025-11-10 10:50:26 | INFO |   → Waiting for search results to load...
+2025-11-10 10:50:29 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/place/MINISTOP+-+Truong+Cong+Dinh/@10.7964797,106.6383426,17z/data=!3m1!4b1!4m6!3m5!1s0x3175294d8aaa746f:0xf19309f6fbe8ecf1!8m2!3d10.7964744!4d106.6409175!16s%2Fg%2F11c1r6w2x8?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:50:29 | INFO |   → URL type: place
+2025-11-10 10:50:29 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:50:29 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:50:30 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:50:33 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:50:33 | INFO |  -> Lat: 10.7964744, Lon: 106.6409175
+2025-11-10 10:50:35 | INFO | 
+[165/178] Geocoding: Ministop -  Bạch Đằng 2
+2025-11-10 10:50:36 | INFO |   → Waiting for search results to load...
+2025-11-10 10:50:39 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/search/Ministop+-++B%E1%BA%A1ch+%C4%90%E1%BA%B1ng+2/@10.8153671,106.6663656,16z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:50:39 | INFO |   → URL type: search
+2025-11-10 10:50:39 | INFO |   → Search results page detected, clicking first result...
+2025-11-10 10:50:39 | INFO |   → Waiting for place page to load after click...
+2025-11-10 10:50:41 | INFO |   → URL after click (full):
+     https://www.google.com/maps/place/Ministop+B%E1%BA%A1ch+%C4%90%E1%BA%B1ng/@10.8153671,106.6663656,16z/data=!4m10!1m2!2m1!1zTWluaXN0b3AgLSAgQuG6oWNoIMSQ4bqxbmcgMg!3m6!1s0x3175291e371024f3:0x69a71bf965aa85ca!8m2!3d10.8156808!4d106.6750274!15sChxNaW5pc3RvcCAtICBC4bqhY2ggxJDhurFuZyAyIgOIAQGSARFjb252ZW5pZW5jZV9zdG9yZeABAA!16s%2Fg%2F11crztn8nw?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:50:41 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:50:41 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:50:41 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:50:44 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:50:44 | INFO |  -> Lat: 10.8156808, Lon: 106.6750274
+2025-11-10 10:50:46 | INFO | 
+[166/178] Geocoding: Ministop -  Ngô Tất Tố
+2025-11-10 10:50:47 | INFO |   → Waiting for search results to load...
+2025-11-10 10:50:50 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/place/Ministop+Ngo+Tat+To/@10.7929844,106.7085423,17z/data=!3m1!4b1!4m6!3m5!1s0x317528adf5a45f43:0xb56a1b4ac744cdb6!8m2!3d10.7929791!4d106.7111172!16s%2Fg%2F11c55tnm_f?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:50:50 | INFO |   → URL type: place
+2025-11-10 10:50:50 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:50:50 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:50:51 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:50:54 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:50:54 | INFO |  -> Lat: 10.7929791, Lon: 106.7111172
+2025-11-10 10:50:55 | INFO | 
+[167/178] Geocoding: Ministop -  Hậu Giang
+2025-11-10 10:50:56 | INFO |   → Waiting for search results to load...
+2025-11-10 10:50:59 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/place/Ministop+-+H%E1%BA%ADu+Giang/@10.8079012,106.6598583,17z/data=!3m1!4b1!4m6!3m5!1s0x3175293c9c881bfd:0x93b83ccb85e4f199!8m2!3d10.8078959!4d106.6624332!16s%2Fg%2F11c4wxbf93?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:50:59 | INFO |   → URL type: place
+2025-11-10 10:50:59 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:50:59 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:51:00 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:51:03 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:51:03 | INFO |  -> Lat: 10.8078959, Lon: 106.6624332
+2025-11-10 10:51:05 | INFO | 
+[168/178] Geocoding: Ministop -  Phạm Viết Chánh 2
+2025-11-10 10:51:06 | INFO |   → Waiting for search results to load...
+2025-11-10 10:51:09 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/place/MINISTOP/@10.7903744,106.7069333,17z/data=!3m1!4b1!4m6!3m5!1s0x317528b2e8bc9441:0x2c40b6357726853b!8m2!3d10.7903691!4d106.7095082!16s%2Fg%2F11g6lzff40?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:51:09 | INFO |   → URL type: place
+2025-11-10 10:51:09 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:51:09 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:51:10 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:51:13 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:51:13 | INFO |  -> Lat: 10.7903691, Lon: 106.7095082
+2025-11-10 10:51:15 | INFO | 
+[169/178] Geocoding: Ministop -  Hutech (Điện Biên Phủ)
+2025-11-10 10:51:16 | INFO |   → Waiting for search results to load...
+2025-11-10 10:51:19 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/place/MINISTOP+HUTECH/@10.8025425,106.7120654,17z/data=!3m1!4b1!4m6!3m5!1s0x317528a450d7cb9f:0xf65d8cc95cd2683f!8m2!3d10.8025372!4d106.7146403!16s%2Fg%2F11c4nwfd12?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:51:19 | INFO |   → URL type: place
+2025-11-10 10:51:19 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:51:19 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:51:20 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:51:23 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:51:23 | INFO |  -> Lat: 10.8025372, Lon: 106.7146403
+2025-11-10 10:51:26 | INFO | 
+[170/178] Geocoding: Ministop -  Hoàng Hoa Thám
+2025-11-10 10:51:27 | INFO |   → Waiting for search results to load...
+2025-11-10 10:51:30 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/search/Ministop+-++Ho%C3%A0ng+Hoa+Th%C3%A1m/@10.8010608,106.6489079,14z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:51:30 | INFO |   → URL type: search
+2025-11-10 10:51:30 | INFO |   → Search results page detected, clicking first result...
+2025-11-10 10:51:30 | INFO |   → Waiting for place page to load after click...
+2025-11-10 10:51:32 | INFO |   → URL after click (full):
+     https://www.google.com/maps/place/MINISTOP/@10.8010608,106.6489079,14z/data=!4m10!1m2!2m1!1sMinistop+-++Ho%C3%A0ng+Hoa+Th%C3%A1m!3m6!1s0x317528c467f81b55:0xa0c0e32a7fb95e48!8m2!3d10.8047072!4d106.6918625!15sChxNaW5pc3RvcCAtICBIb8OgbmcgSG9hIFRow6FtIgOIAQGSARFjb252ZW5pZW5jZV9zdG9yZeABAA!16s%2Fg%2F11btrs3q_0?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:51:32 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:51:32 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:51:32 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:51:35 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:51:35 | INFO |  -> Lat: 10.8047072, Lon: 106.6918625
+2025-11-10 10:51:36 | INFO | 
+[171/178] Geocoding: Ministop -  Hòa Hưng
+2025-11-10 10:51:37 | INFO |   → Waiting for search results to load...
+2025-11-10 10:51:40 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/place/MINISTOP/@10.7789447,106.6714275,17z/data=!3m1!4b1!4m6!3m5!1s0x31752ed831ca4493:0xce862cc97fa883ee!8m2!3d10.7789394!4d106.6740024!16s%2Fg%2F1pwfbcylk?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:51:40 | INFO |   → URL type: place
+2025-11-10 10:51:40 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:51:40 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:51:41 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:51:44 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:51:44 | INFO |  -> Lat: 10.7789394, Lon: 106.6740024
+2025-11-10 10:51:46 | INFO | 
+[172/178] Geocoding: Ministop -  Cư Xá Đô Thành
+2025-11-10 10:51:47 | INFO |   → Waiting for search results to load...
+2025-11-10 10:51:50 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/place/MINISTOP+-+C%C6%B0+x%C3%A1+%C4%90%C3%B4+Th%C3%A0nh/@10.7721552,106.6784504,17z/data=!3m1!4b1!4m6!3m5!1s0x31752f216c08e221:0xf8f5818f6e0c5d2d!8m2!3d10.7721499!4d106.6810253!16s%2Fg%2F11b6x9_srz?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:51:50 | INFO |   → URL type: place
+2025-11-10 10:51:50 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:51:50 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:51:51 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:51:54 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:51:54 | INFO |  -> Lat: 10.7721499, Lon: 106.6810253
+2025-11-10 10:51:55 | INFO | 
+[173/178] Geocoding: Ministop -  Nguyễn Thượng Hiền
+2025-11-10 10:51:56 | INFO |   → Waiting for search results to load...
+2025-11-10 10:51:59 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/place/MINISTOP/@10.8058554,106.6833246,17z/data=!3m1!4b1!4m6!3m5!1s0x317528db7ad95891:0xc488a7759540df44!8m2!3d10.8058501!4d106.6858995!16s%2Fg%2F11btrs8q7d?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:51:59 | INFO |   → URL type: place
+2025-11-10 10:51:59 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:51:59 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:52:00 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:52:03 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:52:03 | INFO |  -> Lat: 10.8058501, Lon: 106.6858995
+2025-11-10 10:52:04 | INFO | 
+[174/178] Geocoding: Ministop -  Trần Doãn Khanh
+2025-11-10 10:52:05 | INFO |   → Waiting for search results to load...
+2025-11-10 10:52:08 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/place/MINISTOP/@10.7886722,106.6951751,17z/data=!3m1!4b1!4m6!3m5!1s0x31752f3530228871:0x9ed43bba8815786!8m2!3d10.7886669!4d106.69775!16s%2Fg%2F11c5ssqzxz?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:52:08 | INFO |   → URL type: place
+2025-11-10 10:52:08 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:52:08 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:52:09 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:52:12 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:52:12 | INFO |  -> Lat: 10.7886669, Lon: 106.69775
+2025-11-10 10:52:13 | INFO | 
+[175/178] Geocoding: MINISTOP -  Bạch Đằng
+2025-11-10 10:52:14 | INFO |   → Waiting for search results to load...
+2025-11-10 10:52:17 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/search/MINISTOP+-++B%E1%BA%A1ch+%C4%90%E1%BA%B1ng/@10.8153671,106.6663656,16z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:52:17 | INFO |   → URL type: search
+2025-11-10 10:52:17 | INFO |   → Search results page detected, clicking first result...
+2025-11-10 10:52:17 | INFO |   → Waiting for place page to load after click...
+2025-11-10 10:52:19 | INFO |   → URL after click (full):
+     https://www.google.com/maps/place/Ministop+B%E1%BA%A1ch+%C4%90%E1%BA%B1ng/@10.8153671,106.6663656,16z/data=!4m10!1m2!2m1!1zTUlOSVNUT1AgLSAgQuG6oWNoIMSQ4bqxbmc!3m6!1s0x3175291e371024f3:0x69a71bf965aa85ca!8m2!3d10.8156808!4d106.6750274!15sChpNSU5JU1RPUCAtICBC4bqhY2ggxJDhurFuZyIDiAEBkgERY29udmVuaWVuY2Vfc3RvcmXgAQA!16s%2Fg%2F11crztn8nw?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:52:19 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:52:19 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:52:20 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:52:23 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:52:23 | INFO |  -> Lat: 10.8156808, Lon: 106.6750274
+2025-11-10 10:52:24 | INFO | 
+[176/178] Geocoding: MINISTOP -  Nguyễn Hồng Đào
+2025-11-10 10:52:25 | INFO |   → Waiting for search results to load...
+2025-11-10 10:52:28 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/place/Ministop/@10.7930084,106.6395866,17z/data=!3m1!4b1!4m6!3m5!1s0x3175294d4edea821:0xca237e6c06bb6378!8m2!3d10.7930031!4d106.6421615!16s%2Fg%2F11b67njyft?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:52:28 | INFO |   → URL type: place
+2025-11-10 10:52:28 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:52:28 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:52:28 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:52:31 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:52:31 | INFO |  -> Lat: 10.7930031, Lon: 106.6421615
+2025-11-10 10:52:34 | INFO | 
+[177/178] Geocoding: MINISTOP -  Trần Thiện Chánh
+2025-11-10 10:52:34 | INFO |   → Waiting for search results to load...
+2025-11-10 10:52:37 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/place/Ministop/@10.7715321,106.6680244,17z/data=!3m1!4b1!4m6!3m5!1s0x31752ede7e57aebd:0x7db7b8720bd9fc5f!8m2!3d10.7715268!4d106.6705993!16s%2Fg%2F11c56btzlz?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:52:37 | INFO |   → URL type: place
+2025-11-10 10:52:37 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:52:37 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:52:38 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:52:41 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:52:41 | INFO |  -> Lat: 10.7715268, Lon: 106.6705993
+2025-11-10 10:52:43 | INFO | 
+[178/178] Geocoding: MINISTOP -  Lam Sơn
+2025-11-10 10:52:44 | INFO |   → Waiting for search results to load...
+2025-11-10 10:52:47 | INFO |   → Initial URL (full):
+     https://www.google.com/maps/place/Ministop+-+Lam+S%C6%A1n/@10.8099839,106.6641478,17z/data=!3m1!4b1!4m6!3m5!1s0x31752922fa50e7c1:0x8eaf0ee7bf9ff645!8m2!3d10.8099786!4d106.6667227!16s%2Fg%2F11xh733fq?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D
+2025-11-10 10:52:47 | INFO |   → URL type: place
+2025-11-10 10:52:47 | INFO |   → Cleaning Google Maps URL...
+2025-11-10 10:52:47 | INFO |   → Navigating to cleaned URL...
+2025-11-10 10:52:48 | INFO |   → Start waiting to stablize URL
+2025-11-10 10:52:51 | INFO |   → Stop waiting to stablize URL
+2025-11-10 10:52:51 | INFO |  -> Lat: 10.8099786, Lon: 106.6667227
+2025-11-10 10:52:53 | INFO | ✅ Saved geocoded results to data/1 interim/02_temp_geocoded.csv
+2025-11-10 21:04:56 | INFO | 
+[1/178] Geocoding: Ministop -  Trương Vĩnh Ký
