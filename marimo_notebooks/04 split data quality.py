@@ -16,7 +16,7 @@ def _():
 def _():
     import pandas as pd 
 
-    data = pd.read_csv("data/1 interim/ministop_stores_information_geocoded_fix_url.csv", index_col=False).drop(columns=['Unnamed: 0'])
+    data = pd.read_csv("data/1 interim/02_ministop_stores_geocoded_with_extra_addr.csv", index_col=False).drop(columns=['Unnamed: 0'])
     data
     return (data,)
 

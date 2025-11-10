@@ -1,0 +1,246 @@
+2025-11-10 08:34:10 | INFO |   → Address found: 212 Trương Vĩnh Ký, Tân Sơn Nhì, Tân Phú, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:34:17 | INFO |   → Clicked first search result
+2025-11-10 08:34:23 | INFO |   → Address found: 927 Nguyễn Trãi, Phường 14, Quận 5, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:34:31 | INFO |   → Address found: 407B Đ. Lê Văn Sỹ, Phường 12, Quận 3, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:34:40 | INFO |   → Address found: 2 Đ. Quán Âm Bồ Tát, Tân Phú, Quận 7, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:34:49 | INFO |   → Address found: 24 Nơ Trang Long, Phường 14, Bình Thạnh, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:34:58 | INFO |   → Address found: 117 Đ. Trần Quốc Hoàn, Phường 4, Tân Bình, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:35:04 | INFO |   → Clicked first search result
+2025-11-10 08:35:10 | INFO |   → Address found: 106 Nguyễn Gia Trí, Phường 25, Bình Thạnh, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:35:19 | INFO |   → Address found: 3A Tô Vĩnh Diện, Linh Chiểu, Thủ Đức, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:35:24 | INFO |   → Clicked first search result
+2025-11-10 08:35:30 | INFO |   → Address found: 22 Hoàng Việt, Phường 4, Tân Bình, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:35:35 | INFO |   → Clicked first search result
+2025-11-10 08:35:41 | INFO |   → Address found: 29 Đ. Số 20, Hiệp Bình Chánh, Thủ Đức, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:35:49 | INFO |   → Address found: 107 Đ. Số 1, Phường Thông Tây Hội, Gò Vấp, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:35:59 | INFO |   → Address found: 228 Lý Chính Thắng, Phường 9, Quận 3, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:36:06 | INFO |   → Clicked first search result
+2025-11-10 08:36:11 | INFO |   → Address found: 48 Lô C Lý Chiêu Hoàng, Phường 10, Quận 6, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:36:20 | INFO |   → Address found: 102 Lê Minh Xuân, Phường 7, Tân Bình, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:36:31 | INFO |   → Address found: 102 Đường Số 29, Bình Trị Đông B, Bình Tân, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:36:37 | INFO |   → Clicked first search result
+2025-11-10 08:36:43 | INFO |   → Address found: 293 Đ. Tân Kỳ Tân Quý, Tân Sơn Nhì, Tân Phú, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:36:49 | INFO |   → Clicked first search result
+2025-11-10 08:36:55 | INFO |   → Address found: 293 Đ. Tân Kỳ Tân Quý, Tân Sơn Nhì, Tân Phú, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:37:05 | INFO |   → Address found: S2.0.02 Đ. Tân Thạnh, Sơn Kỳ, Tân Phú, Thành phố Hồ Chí Minh 70000, Vietnam
+2025-11-10 08:37:14 | INFO |   → Address found: 223 Đ. 154, Khu Phố 3, Thủ Đức, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:37:23 | INFO |   → Address found: 163 Đ. Tô Hiến Thành, Phường 13, Quận 10, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:37:28 | INFO |   → Clicked first search result
+2025-11-10 08:37:34 | INFO |   → Address found: MHRP+3G Chung cư Westgate, TT. Tân Túc, Bình Chánh, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:37:40 | INFO |   → Clicked first search result
+2025-11-10 08:37:46 | INFO |   → Address found: 24A Chương Dương, Linh Chiểu, Thủ Đức, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:37:54 | INFO |   → Address found: 6 Tân Trào, Tân Phú, Quận 7, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:38:00 | INFO |   → Clicked first search result
+2025-11-10 08:38:05 | INFO |   → Address found: 65BIS Mạc Đĩnh Chi, Đa Kao, Quận 1, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:38:11 | INFO |   → Clicked first search result
+2025-11-10 08:38:16 | INFO |   → Address found: 215 Điện Biên Phủ, Phường 2, Bình Thạnh, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:38:22 | INFO |   → Clicked first search result
+2025-11-10 08:38:27 | INFO |   → Address found: 484 Lê Quang Định, Phường 11, Bình Thạnh, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:38:37 | INFO |   → Address found: 822-824 An Dương Vương, Phường 13, Quận 6, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:38:44 | INFO |   → Clicked first search result
+2025-11-10 08:38:49 | INFO |   → Address found: 55 Đ. Hòa Bình, Tân Thới Hoà, Tân Phú, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:38:59 | INFO |   → Address found: 163 Đại Lộ 3, Phước Bình, Quận 9, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:39:05 | INFO |   → Clicked first search result
+2025-11-10 08:39:10 | INFO |   → Address found: 13 Đ.Số 12, Khu đô thị An Phú An Khánh, Thủ Đức, Thành phố Hồ Chí Minh 71109, Vietnam
+2025-11-10 08:39:20 | INFO |   → Address found: 819 Đ. Kha Vạn Cân, Linh Chiểu, Thủ Đức, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:39:26 | INFO |   → Clicked first search result
+2025-11-10 08:39:31 | INFO |   → Address found: TK17/1 Nguyễn Cảnh Chân, Cầu Kho, Quận 1, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:39:40 | INFO |   → Address found: 33-35 Dương Đức Hiền, Tây Thạnh, Tân Phú, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:39:46 | INFO |   → Clicked first search result
+2025-11-10 08:39:52 | INFO |   → Address found: 59 Hoàng Việt, Phường 4, Tân Bình, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:40:00 | INFO |   → Address found: 352a Âu Dương Lân, Phường Rạch Ông, Quận 8, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:40:07 | INFO |   → Clicked first search result
+2025-11-10 08:40:12 | INFO |   → Address found: 10A Hoàng Hoa Thám, Phường 7, Bình Thạnh, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:40:21 | INFO |   → Address found: 87, street 11, district Go Vap, Phường 16, Gò Vấp, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:40:30 | INFO |   → Address found: 157 Nguyễn Chí Thanh, Phường 12, Quận 5, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:40:39 | INFO |   → Address found: 208 Bùi Văn Ba, Tân Thuận Đông, Quận 7, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:40:48 | INFO |   → Address found: P5-00.13 Cityland Park Hills, 18 Đ. Phan Văn Trị, Phường 10, Gò Vấp, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:40:57 | INFO |   → Address found: 1 Đ. A8, Khu Phố 5, Bình Tân, Thành phố Hồ Chí Minh 700000, Vietnam
+2025-11-10 08:41:03 | INFO |   → Clicked first search result
+2025-11-10 08:41:09 | INFO |   → Address found: 353 Lạc Long Quân, Phường 5, Quận 11, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:41:18 | INFO |   → Address found: 367 Bình Trị Đông, khu phố 5, Bình Tân, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:41:28 | INFO |   → Address found: 997 Phạm Văn Bạch, Phường 12, Gò Vấp, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:41:33 | INFO |   → Clicked first search result
+2025-11-10 08:41:39 | INFO |   → Address found: Bắc Sơn, Trảng Bom District, Dong Nai, Vietnam
+2025-11-10 08:41:48 | INFO |   → Address found: 13 Phan Văn Đạt, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:41:57 | INFO |   → Address found: 126 Lý Tự Trọng, Phường Bến Thành, Quận 1, Thành phố Hồ Chí Minh 700000, Vietnam
+2025-11-10 08:42:02 | INFO |   → Clicked first search result
+2025-11-10 08:42:08 | INFO |   → Address found: 446 Đ. Tân Kỳ Tân Quý, Tân Quý, Tân Phú, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:42:17 | INFO |   → Address found: 52A Trần Bình Trọng, Phường 5, Bình Thạnh, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:42:23 | INFO |   → Clicked first search result
+2025-11-10 08:42:28 | INFO |   → Address found: 353 Lạc Long Quân, Phường 5, Quận 11, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:42:34 | INFO |   → Clicked first search result
+2025-11-10 08:42:39 | INFO |   → Address found: 5 Đ. Thành Thái, Phường 14, Quận 10, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:42:46 | INFO |   → Clicked first search result
+2025-11-10 08:42:51 | INFO |   → Address found: 102 Đường Số 29, Bình Trị Đông B, Bình Tân, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:42:56 | INFO |   → Clicked first search result
+2025-11-10 08:43:02 | INFO |   → Address found: 314 Đ. Lê Văn Thọ, Phường 11, Gò Vấp, Thành phố Hồ Chí Minh 70000, Vietnam
+2025-11-10 08:43:08 | INFO |   → Clicked first search result
+2025-11-10 08:43:13 | INFO |   → Address found: 527 Đ. Lê Đức Thọ, Phường 16, Gò Vấp, Thành phố Hồ Chí Minh 70000, Vietnam
+2025-11-10 08:43:20 | INFO |   → Clicked first search result
+2025-11-10 08:43:25 | INFO |   → Address found: 43B Đường Số 2, Khu Phố 2, Quận 11, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:43:32 | INFO |   → Clicked first search result
+2025-11-10 08:43:37 | INFO |   → Address found: 768 Nguyễn Kiệm, Phường 3, Gò Vấp, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:43:47 | INFO |   → Address found: 446 Đ. Tân Kỳ Tân Quý, Tân Quý, Tân Phú, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:43:56 | INFO |   → Address found: 1 Tạ Hiện, Phường Thạnh Mỹ Lợi, Thủ Đức, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:44:03 | INFO |   → Clicked first search result
+2025-11-10 08:44:08 | INFO |   → Address found: 107 Đ. Số 1, Phường Thông Tây Hội, Gò Vấp, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:44:13 | INFO |   → Clicked first search result
+2025-11-10 08:44:19 | INFO |   → Address found: 5/7A Đ. Âu Cơ, Phường 9, Tân Bình, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:44:29 | INFO |   → Address found: 56 Đ. Vườn Lài, Phú Thọ Hoà, Tân Phú, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:44:39 | INFO |   → Address found: 101a Lý Tự Trọng, Phường Bến Thành, Quận 1, Thành phố Hồ Chí Minh 700000, Vietnam
+2025-11-10 08:44:49 | INFO |   → Address found: 55 Thạch Thị Thanh, Phường Tân Định, Quận 1, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:44:59 | INFO |   → Address found: 220/82 Nguyễn Văn Khối, Phường 8, Gò Vấp, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:45:09 | INFO |   → Address found: 46 Lý Thánh Tông, Tân Thới Hoà, Tân Phú, Thành phố Hồ Chí Minh 70000, Vietnam
+2025-11-10 08:45:18 | INFO |   → Address found: 143 Đ. Số 28, Phường 6, Gò Vấp, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:45:24 | INFO |   → Clicked first search result
+2025-11-10 08:45:29 | INFO |   → Address found: 107 Đ. Số 1, Phường Thông Tây Hội, Gò Vấp, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:45:38 | INFO |   → Address found: 98 Đ. Huỳnh Văn Nghệ, Phường 15, Tân Bình, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:45:44 | INFO |   → Clicked first search result
+2025-11-10 08:45:49 | INFO |   → Address found: 113 Đ. Thạch Lam, Phú Thạnh, Tân Phú, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:45:58 | INFO |   → Address found: 272 Trịnh Đình Trọng, Phú Trung, Tân Phú, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:46:07 | INFO |   → Address found: 92-94 Bùi Quang Là, Phường 12, Gò Vấp, Thành phố Hồ Chí Minh 700000, Vietnam
+2025-11-10 08:46:13 | INFO |   → Clicked first search result
+2025-11-10 08:46:19 | INFO |   → Address found: 223 Đ. 154, Khu Phố 3, Thủ Đức, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:46:29 | INFO |   → Address found: 307a Đ. Bàu Cát, Phường 12, Tân Bình, Thành phố Hồ Chí Minh 700000, Vietnam
+2025-11-10 08:46:35 | INFO |   → Clicked first search result
+2025-11-10 08:46:41 | INFO |   → Address found: 293 Đ. Tân Kỳ Tân Quý, Tân Sơn Nhì, Tân Phú, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:46:50 | INFO |   → Address found: 220 Đ. Phạm Văn Chí, Phường 1, Quận 6, Thành phố Hồ Chí Minh 700000, Vietnam
+2025-11-10 08:46:59 | INFO |   → Address found: 86 Đường số 10, P.13, Quận 6, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:47:06 | INFO |   → Clicked first search result
+2025-11-10 08:47:12 | INFO |   → Address found: 113 Đ. Thạch Lam, Phú Thạnh, Tân Phú, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:47:18 | INFO |   → Clicked first search result
+2025-11-10 08:47:24 | INFO |   → Address found: Bắc Sơn, Trảng Bom District, Dong Nai, Vietnam
+2025-11-10 08:47:32 | INFO |   → Address found: PJ84+WXV, 77 Võ Văn Kiệt, An Lạc, Bình Tân, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:47:38 | INFO |   → Clicked first search result
+2025-11-10 08:47:43 | INFO |   → Address found: 86 Đường số 10, P.13, Quận 6, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:47:49 | INFO |   → Clicked first search result
+2025-11-10 08:47:55 | INFO |   → Address found: 135 - 137 Đ. Vũ Tùng, Phường 2, Bình Thạnh, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:48:05 | INFO |   → Address found: 141 Thống Nhất, Tân Thành, Tân Phú, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:48:15 | INFO |   → Address found: 527 Đ. Lê Đức Thọ, Phường 16, Gò Vấp, Thành phố Hồ Chí Minh 70000, Vietnam
+2025-11-10 08:48:24 | INFO |   → Address found: 58k Đ. Tô Hiệu, Tân Thới Hoà, Tân Phú, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:48:34 | INFO |   → Address found: 120 Võ Thành Trang, Phường 11, Tân Bình, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:48:43 | INFO |   → Address found: 284 Đ. Tôn Thất Hiệp, Phường 8, Quận 11, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:48:49 | INFO |   → Clicked first search result
+2025-11-10 08:48:55 | INFO |   → Address found: QPQ9+F8G, Đường D8, Saigon Pearl, Bình Thạnh, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:49:05 | INFO |   → Address found: 179 Đ. Võ Chí Công, Bình Trưng Đông, Thủ Đức, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:49:11 | INFO |   → Clicked first search result
+2025-11-10 08:49:16 | INFO |   → Address found: 200 Đ. 3 Tháng 2, Phường 12, Quận 10, Thành phố Hồ Chí Minh 70000, Vietnam
+2025-11-10 08:49:26 | INFO |   → Address found: Phước Kiển, Nhà Bè, Ho Chi Minh City, Vietnam
+2025-11-10 08:49:35 | INFO |   → Address found: Tháp A, Bến Vân Đồn, Phường 12, Quận 4, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:49:42 | INFO |   → Clicked first search result
+2025-11-10 08:49:47 | INFO |   → Address found: 123/7 Đ. Đồng Văn Cống, Phường Thạnh Mỹ Lợi, Quận 2, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:49:56 | INFO |   → Address found: 949 Trần Hưng Đạo, Phường 1, Quận 5, Thành phố Hồ Chí Minh 700000, Vietnam
+2025-11-10 08:50:02 | INFO |   → Clicked first search result
+2025-11-10 08:50:08 | INFO |   → Address found: 475A Điện Biên Phủ, Phường 25, Bình Thạnh, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:50:13 | INFO |   → Clicked first search result
+2025-11-10 08:50:19 | INFO |   → Address found: 247 C Bùi Đình Tuý, Phường 14, Bình Thạnh, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:50:25 | INFO |   → Clicked first search result
+2025-11-10 08:50:30 | INFO |   → Address found: Bắc Sơn, Trảng Bom District, Dong Nai, Vietnam
+2025-11-10 08:50:40 | INFO |   → Address found: 927 Nguyễn Trãi, Phường 14, Quận 5, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:50:49 | INFO |   → Address found: SH7C, 12A đường A5, KDC Palm Residence, Khu Phố 3, Thủ Đức, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:50:57 | INFO |   → Address found: 360 Nguyễn Duy Trinh, Phường Bình Trưng Tây, Quận 2, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:51:04 | INFO |   → Clicked first search result
+2025-11-10 08:51:09 | INFO |   → Address found: P5-00.13 Cityland Park Hills, 18 Đ. Phan Văn Trị, Phường 10, Gò Vấp, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:51:19 | INFO |   → Address found: 21 Mai Thị Lựu, Đa Kao, Quận 1, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:51:24 | INFO |   → Clicked first search result
+2025-11-10 08:51:30 | INFO |   → Address found: 71 Ni Sư Huỳnh Liên, Phường 10, Tân Bình, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:51:36 | INFO |   → Clicked first search result
+2025-11-10 08:51:41 | INFO |   → Address found: 179 Võ Nguyên Giáp, Thảo Điền, Thủ Đức, Thành phố Hồ Chí Minh 71107, Vietnam
+2025-11-10 08:51:50 | INFO |   → Address found: The Sun avenue, 28 Mai Chí Thọ, An Phú, Thủ Đức, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:51:56 | INFO |   → Clicked first search result
+2025-11-10 08:52:01 | INFO |   → Address found: 113 Đ. Thích Quảng Đức, Phường 4, Phú Nhuận, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:52:11 | INFO |   → Address found: Đảo Kim Cương, Quận 2, Thủ Đức, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:52:17 | INFO |   → Clicked first search result
+2025-11-10 08:52:23 | INFO |   → Address found: 2 Tôn Đức Thắng, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:52:29 | INFO |   → Clicked first search result
+2025-11-10 08:52:34 | INFO |   → Address found: 200 Đ. 3 Tháng 2, Phường 12, Quận 10, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:52:43 | INFO |   → Address found: 94d Đ. Phùng Văn Cung, Phường 7, Phú Nhuận, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:52:53 | INFO |   → Address found: 11 Lê Thánh Tôn, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:53:02 | INFO |   → Address found: 521 Hoàng Văn Thụ, Phường 4, Tân Bình, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:53:12 | INFO |   → Address found: Số 163 Nguyễn Thái Bình, Phường Nguyễn Thái Bình, Quận 1, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:53:17 | INFO |   → Clicked first search result
+2025-11-10 08:53:23 | INFO |   → Address found: 104 Đ. Phổ Quang, Phường 2, Tân Bình, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:53:32 | INFO |   → Address found: 216c Nguyễn Văn Nguyễn, Phường Tân Định, Quận 1, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:53:41 | INFO |   → Address found: TK17/1 Nguyễn Cảnh Chân, Cầu Kho, Quận 1, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:53:51 | INFO |   → Address found: 17 Mai Chí Thọ, Phường An Khánh, Thủ Đức, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:54:01 | INFO |   → Address found: 69 Trần Trọng Cung, Tân Thuận Đông, Quận 7, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:54:11 | INFO |   → Address found: 120 Song Hành Xa Lộ Hà Nội, P, Thủ Đức, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:54:17 | INFO |   → Clicked first search result
+2025-11-10 08:54:23 | INFO |   → Address found: 136 Đ. Thành Thái, Phường 14, Quận 10, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:54:32 | INFO |   → Address found: 475A Điện Biên Phủ, Phường 25, Bình Thạnh, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:54:42 | INFO |   → Address found: 79 Nguyễn Cửu Vân, Phường 17, Bình Thạnh, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:54:48 | INFO |   → Clicked first search result
+2025-11-10 08:54:54 | INFO |   → Address found: 87 Đ. Vạn Kiếp, Phường 1, Bình Thạnh, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:55:03 | INFO |   → Address found: 75 Phú Thọ, Phường 1, Quận 11, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:55:13 | INFO |   → Address found: QM37+X6M, Đ. Hồng Bàng, Phường 11, Quận 5, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:55:21 | INFO |   → Address found: 62 Bình Giã, Phường Tân Bình, Tân Bình, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:55:27 | INFO |   → Clicked first search result
+2025-11-10 08:55:32 | INFO |   → Address found: 262 Cao Thắng, Phường 12, Quận 10, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:55:38 | INFO |   → Clicked first search result
+2025-11-10 08:55:43 | INFO |   → Address found: 41 Nguyễn Trọng Tuyển, Phường 15, Phú Nhuận, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:55:52 | INFO |   → Address found: 113 Đ. Thích Quảng Đức, Phường 4, Phú Nhuận, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:56:01 | INFO |   → Address found: 31/53 Hẻm 31 Ung Văn Khiêm, Phường 25, Bình Thạnh, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:56:05 | INFO |   → Clicked first search result
+2025-11-10 08:56:11 | INFO |   → Address found: 58 Đ. Hoàng Diệu 2, Linh Chiểu, Thủ Đức, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:56:17 | INFO |   → Clicked first search result
+2025-11-10 08:56:23 | INFO |   → Address found: 341 Sư Vạn Hạnh, Phường 10, Hồ Chí Minh, Quận 10 Hồ Chí Minh, Vietnam
+2025-11-10 08:56:31 | INFO |   → Address found: 41 Thái Ly, Thảo Điền, Thủ Đức, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:56:41 | INFO |   → Address found: 108B Bành Văn Trân, Phường 7, Tân Bình, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:56:50 | INFO |   → Address found: Số 46 Nguyễn Lâm, Phường 6, Quận 10, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:56:57 | INFO |   → Clicked first search result
+2025-11-10 08:57:02 | INFO |   → Address found: 136 Đ. Thành Thái, Phường 14, Quận 10, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:57:12 | INFO |   → Address found: 117 Lý Nam Đế, Phường 7, Quận 11, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:57:17 | INFO |   → Clicked first search result
+2025-11-10 08:57:23 | INFO |   → Address found: 138 Đ. Nguyễn Thiện Thuật, Phường 3, Quận 3, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:57:33 | INFO |   → Address found: 179 Trần Nhân Tôn, Phường 2, Quận 10, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:57:39 | INFO |   → Clicked first search result
+2025-11-10 08:57:44 | INFO |   → Address found: 247 C Bùi Đình Tuý, Phường 14, Bình Thạnh, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:57:54 | INFO |   → Address found: 157 Đ. Đinh Bộ Lĩnh, Phường 26, Bình Thạnh, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:58:03 | INFO |   → Address found: 8 Vũ Tông Phan, An Phú, Thủ Đức, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:58:14 | INFO |   → Address found: 120 Đ. Bình Thới, Phường 14, Quận 11, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:58:20 | INFO |   → Clicked first search result
+2025-11-10 08:58:25 | INFO |   → Address found: 10A Hoàng Hoa Thám, Phường 7, Bình Thạnh, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:58:34 | INFO |   → Address found: 43 Đ. Trần Quý Cáp, Phường 11, Bình Thạnh, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:58:41 | INFO |   → Clicked first search result
+2025-11-10 08:58:47 | INFO |   → Address found: 435 Sư Vạn Hạnh, Phường 12, Quận 10, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:58:56 | INFO |   → Address found: 47 Trần Quốc Toản, Phường Võ Thị Sáu, Quận 3, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:59:03 | INFO |   → Clicked first search result
+2025-11-10 08:59:08 | INFO |   → Address found: 60 Đường Số 5 - Cư xá Bình Thới, Phường 8, Quận 11, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:59:18 | INFO |   → Address found: 15 Đường Nguyễn Du, Phường 1, Gò Vấp, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:59:28 | INFO |   → Address found: 181/13 Xóm Chiếu, Phường 16, Quận 4, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:59:34 | INFO |   → Clicked first search result
+2025-11-10 08:59:39 | INFO |   → Address found: 484 Lê Quang Định, Phường 11, Bình Thạnh, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:59:49 | INFO |   → Address found: 114 Trần Đình Xu, Phường Nguyễn Cư Trinh, Quận 1, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 08:59:55 | INFO |   → Clicked first search result
+2025-11-10 09:00:01 | INFO |   → Address found: Đường Tạ Quang Bửu, Khu phố 33, Dĩ An, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 09:00:09 | INFO |   → Address found: 61 Hoa Sứ, Phường 7, Phú Nhuận, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 09:00:18 | INFO |   → Address found: 75Bis Nam Kỳ Khởi Nghĩa, Phường Bến Thành, Quận 1, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 09:00:28 | INFO |   → Address found: 15K Vũ Huy Tấn, Phường 1, Bình Thạnh, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 09:00:38 | INFO |   → Address found: 17 Đ. Đào Duy Từ, Phường 8, Quận 10, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 09:00:44 | INFO |   → Clicked first search result
+2025-11-10 09:00:49 | INFO |   → Address found: 41 Nguyễn Trọng Tuyển, Phường 15, Phú Nhuận, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 09:00:59 | INFO |   → Address found: 56 Đ. Vườn Lài, Phú Thọ Hoà, Tân Phú, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 09:01:07 | INFO |   → Address found: 33 Thăng Long, Phường 4, Tân Bình, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 09:01:18 | INFO |   → Address found: 106 Nguyễn Gia Trí, Phường 25, Bình Thạnh, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 09:01:28 | INFO |   → Address found: 79 Trần Khắc Chân, Phường Tân Định, Quận 1, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 09:01:38 | INFO |   → Address found: 204 Phạm Văn Hai, Phường 5, Tân Bình, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 09:01:48 | INFO |   → Address found: 207 Đ. Nguyễn Biểu, Phường 2, Quận 5, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 09:01:57 | INFO |   → Address found: 88 Trương Công Định, Phường Tân Bình, Tân Bình, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 09:02:03 | INFO |   → Clicked first search result
+2025-11-10 09:02:09 | INFO |   → Address found: 165 Đ. Bạch Đằng, Phường 2, Tân Bình, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 09:02:18 | INFO |   → Address found: 69 Ngô Tất Tố, Phường 19, Bình Thạnh, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 09:02:28 | INFO |   → Address found: Số 45 Hậu Giang, Phường 4, Tân Bình, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 09:02:39 | INFO |   → Address found: 37-39 Phạm Viết Chánh, Phường 19, Bình Thạnh, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 09:02:48 | INFO |   → Address found: 475A Điện Biên Phủ, Phường 25, Bình Thạnh, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 09:02:53 | INFO |   → Clicked first search result
+2025-11-10 09:02:59 | INFO |   → Address found: 10A Hoàng Hoa Thám, Phường 7, Bình Thạnh, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 09:03:09 | INFO |   → Address found: 101 Hoà Hưng, Phường 12, Quận 10, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 09:03:19 | INFO |   → Address found: 131 Số 3, Cư xá Đô Thành, Quận 3, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 09:03:28 | INFO |   → Address found: 245 Đ. Nguyễn Thượng Hiền, Phường 5, Bình Thạnh, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 09:03:39 | INFO |   → Address found: 2 Đ. Trần Doãn Khanh, Đa Kao, Quận 1, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 09:03:44 | INFO |   → Clicked first search result
+2025-11-10 09:03:50 | INFO |   → Address found: 165 Đ. Bạch Đằng, Phường 2, Tân Bình, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 09:04:00 | INFO |   → Address found: 191 Đ. Nguyễn Hồng Đào, Phường Tân Bình, Tân Bình, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 09:04:08 | INFO |   → Address found: 77 Trần Thiện Chánh, Phường 12, Quận 10, Thành phố Hồ Chí Minh, Vietnam
+2025-11-10 09:04:18 | INFO |   → Address found: 25A Đ. Lam Sơn, Phường 2, Tân Bình, Thành phố Hồ Chí Minh, Vietnam

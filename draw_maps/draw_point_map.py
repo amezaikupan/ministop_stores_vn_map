@@ -35,9 +35,9 @@ def draw_point_map(data, lat_col='latitude', lon_col='longitude', point_color='r
         data,
         lat=lat_col,
         lon=lon_col,
-        hover_name='Name', 
-        hover_data={'Name': True, 'Location': True, 'Phone': True, 'url': False, 
-                    lat_col: False, lon_col: False},
+        hover_name='name', 
+        hover_data={'name': True, 'address': True},
+      
         color=color_param,  # Use column for color mapping if available
         size_max=point_size
     )
