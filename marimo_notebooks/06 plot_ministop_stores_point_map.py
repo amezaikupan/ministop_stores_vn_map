@@ -56,27 +56,33 @@ def _():
     import sys
     sys.path.append("modules/draw_maps/")
 
-    from draw_point_map import draw_point_map, export_to_svg
     import pandas as pd 
+    ministop_stores = pd.read_csv('data/2 processed/ministop_stores_location_geocoded.csv', index_col=False)
+    ministop_stores['category'] = 'Ministop'
+    ministop_stores
+    return ministop_stores, pd
 
-    plot_data_01 = pd.read_csv('data/1 interim/03_ministop_stores_clean.csv', index_col=False)
-    name_plot_data_02 = pd.read_csv('data/1 interim/04_ministop_stores_review_annotated.csv', index_col=False)
-    plot_data_02 = pd.read_csv('data/1 interim/05_ministop_stores_review_annotated_lat_lon.csv', index_col=False)
 
-    plot_data_02['name'] = name_plot_data_02['name']
-    plot_data_02['address'] = name_plot_data_02['address']
+@app.cell
+def _(pd):
+    circlek_stores = pd.read_csv('data/2 processed/circle_k_stores_location_geocoded.csv', index_col=False)
+    circlek_stores['category'] = 'Circle K'
+    circlek_stores
+    return (circlek_stores,)
 
-    plot_data_01 = plot_data_01[['name', 'address', 'latitude', 'longitude', 'cleaned_url']].rename(columns={
-        'cleaned_url': 'url'
-    })
-    plot_data_02 = plot_data_02[['name', 'address', 'latitude', 'longitude', 'final_url']].rename(columns={'final_url': 'url'})
 
-    plot_data = pd.concat([plot_data_01, plot_data_02], axis=0)
+@app.cell
+def _(circlek_stores, ministop_stores, pd):
+    plot_data = pd.concat([ministop_stores[['address', 'latitude', 'longitude', 'category']], circlek_stores[['address', 'latitude', 'longitude', 'category']]], axis=0)
+    plot_data
+    return (plot_data,)
 
-    plot_data.to_csv('data/2 processed/ministop_stores_location_geocoded.csv', index=False)
 
-    fig = draw_point_map(plot_data, lat_col='latitude', lon_col='longitude', point_color='#FFBF00', point_size=4, 
-                         outline_color='#3461a4', outline_width=6)
+@app.cell
+def _(plot_data):
+    from draw_point_map import draw_groups_point_map, export_to_svg
+
+    fig = draw_groups_point_map(plot_data, lat_col='latitude', lon_col='longitude', point_color='#FFBF00', point_size=1, outline_color='#3461a4', outline_width=6)
     fig.show()
 
     width = 2400

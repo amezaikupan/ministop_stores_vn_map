@@ -64,6 +64,55 @@ def draw_point_map(data, lat_col='latitude', lon_col='longitude', point_color='r
     
     return fig
 
+def draw_groups_point_map(data, lat_col='latitude', lon_col='longitude', group='category',point_size=8):
+    """
+    Draw Vietnam map with scatter points using plotly with OpenStreetMap base layer.
+    
+    Parameters: 
+        data (pd.DataFrame): Data with latitude and longitude columns
+        lat_col (str): Name of latitude column in data (default: 'latitude')
+        lon_col (str): Name of longitude column in data (default: 'longitude')
+        point_color (str): Color of the scatter points (default: 'red')
+                          Can be color name, hex code, or column name for color mapping
+        point_size (int): Size of the scatter points (default: 8)
+        outline_color (str): Color of the point outline/border (default: 'white')
+        outline_width (int): Width of the point outline in pixels (default: 2)
+    
+    Returns: 
+        Plotly scatter map object
+    """
+    
+    # Add padding to bounds
+    padding = 0.1  # degrees of padding
+
+    # Use scatter_mapbox instead of scatter_geo for OSM support
+    fig = px.scatter_mapbox(
+        data,
+        lat=lat_col,
+        lon=lon_col,
+        hover_name='address', 
+        color=group,
+        size_max=point_size
+    )
+    
+    # Set OpenStreetMap as the base map with padding
+    fig.update_layout(
+        mapbox=dict(
+            style="carto-positron",
+            bounds=dict(
+                west=data[lon_col].min() - padding,
+                east=data[lon_col].max() + padding,
+                south=data[lat_col].min() - padding,
+                north=data[lat_col].max() + padding
+            )
+        ),
+        margin=dict(l=0, r=0, t=0, b=0),
+        height=600,
+        autosize=True  # Makes it responsive to container size
+    )
+    
+    return fig
+
 def export_to_svg(fig, output_path='map_output.svg', width=1200, height=600):
     """
     Export the plotly figure to SVG format.

@@ -16,9 +16,13 @@ def _():
 def _():
     import pandas as pd 
 
-    data = pd.read_csv("data/1 interim/02_ministop_stores_geocoded_with_extra_addr.csv", index_col=False).drop(columns=['Unnamed: 0'])
+    NEW_DATA_PATH = "data/1.5 interim/02.5_ministop_stores_geocoded_with_extra_addr.csv"
+    OUTPUT_CLEANED_PATH = "data/1.5 interim/03.5_ministop_stores_geocoded_clearned.csv"
+    OUTPUT_REVIEWED_PATH = "data/1.5 interim/03.5_ministop_stores_geocoded_reviewed.csv"
+
+    data = pd.read_csv(NEW_DATA_PATH, index_col=False).drop(columns=['Unnamed: 0'])
     data
-    return (data,)
+    return OUTPUT_CLEANED_PATH, OUTPUT_REVIEWED_PATH, data
 
 
 @app.cell
@@ -29,12 +33,19 @@ def _(data, model):
 
 
 @app.cell
-def _(address_embeddings, data, extracted_address_embeddings, util):
+def _(
+    OUTPUT_CLEANED_PATH,
+    OUTPUT_REVIEWED_PATH,
+    address_embeddings,
+    data,
+    extracted_address_embeddings,
+    util,
+):
     print(address_embeddings.shape, extracted_address_embeddings.shape)
     print(util.cos_sim(address_embeddings, extracted_address_embeddings).diag())
     data['addr_cos_sim'] = util.cos_sim(address_embeddings, extracted_address_embeddings).diag()
-    data[data['addr_cos_sim'] < 0.85].to_csv("data/1 interim/03_ministop_stores_review.csv", index=False)
-    data[data['addr_cos_sim'] >= 0.85].to_csv("data/1 interim/03_ministop_stores_clean.csv", index=False)
+    data[data['addr_cos_sim'] < 0.85].to_csv(OUTPUT_REVIEWED_PATH, index=False)
+    data[data['addr_cos_sim'] >= 0.85].to_csv(OUTPUT_CLEANED_PATH, index=False)
     return
 
 

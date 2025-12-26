@@ -87,21 +87,24 @@ def _(mo):
 
 
 @app.cell
-def _(INPUT_CSV, OUTPUT_CSV):
-    import pandas as pd 
+def _(NEW_INPUT_CSV, NEW_OUTPUT_CSV, pd):
+    # import pandas as pd 
     ADD_ADDR_OUTPUT_CSV = "data/1 interim/02_ministop_stores_geocoded_with_extra_addr.csv"
 
-    output_data = pd.read_csv(OUTPUT_CSV).rename(columns={'address': 'name'})
-    input_data = pd.read_csv(INPUT_CSV).rename(columns={"Location": "address"})
+    NEW_ADD_ADDR_OUTPUT_CSV = "data/1.5 interim/02.5_ministop_stores_geocoded_with_extra_addr.csv"
+
+    output_data = pd.read_csv(NEW_OUTPUT_CSV).rename(columns={'address': 'name'})
+    input_data = pd.read_csv(NEW_INPUT_CSV).rename(columns={"Location": "address"})
 
     output_data['address'] = input_data['address']
-    output_data.to_csv(ADD_ADDR_OUTPUT_CSV)
+    output_data.to_csv(NEW_ADD_ADDR_OUTPUT_CSV)
     return
 
 
 @app.cell
 def _():
     import sys 
+    import pandas as pd
     from pathlib import Path
     sys.path.append(str(Path(__file__).resolve().parents[1] / "modules/"))
 
@@ -111,14 +114,20 @@ def _():
     OUTPUT_CSV = "data/1 interim/01_ministop_stores_geocoded.csv"
     LOG_FILE = "data/logs/geocoding_log.txt"
 
+    input_data_proc = pd.read_csv(INPUT_CSV, index_col=False)
+    input_data_proc['Search'] = input_data_proc['Name'] + " " + input_data_proc['Location']
+
+    NEW_INPUT_CSV = "data/0 raw/ministop_stores_information_with_search.csv"
+    NEW_OUTPUT_CSV = "data/1.5 interim/01.5_ministop_stores_geocoded.csv"
+    input_data_proc.to_csv(NEW_INPUT_CSV, index=False)
+
     geocode_with_selenium(
-        input_csv=INPUT_CSV,
-        output_csv=OUTPUT_CSV,
-        search_col='Name',
+        input_csv=NEW_INPUT_CSV,
+        output_csv=NEW_OUTPUT_CSV,
+        search_col='Search',
         log_file=LOG_FILE
     )
-
-    return INPUT_CSV, OUTPUT_CSV
+    return NEW_INPUT_CSV, NEW_OUTPUT_CSV, pd
 
 
 @app.cell
